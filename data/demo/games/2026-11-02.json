@@ -1,0 +1,200 @@
+{
+ "date": "2026-11-02",
+ "demo": true,
+ "complete": false,
+ "updatedAt": "2026-11-02T22:23:56.620Z",
+ "games": [
+  {
+   "id": 900088,
+   "date": "2026-11-02",
+   "start": "2026-11-02T23:00:00.000Z",
+   "home": {
+    "id": 1000,
+    "abbr": "ATL",
+    "name": "Atlanta Hawks",
+    "short": "Hawks",
+    "logo": null,
+    "score": null
+   },
+   "away": {
+    "id": 1001,
+    "abbr": "BOS",
+    "name": "Boston Celtics",
+    "short": "Celtics",
+    "logo": null,
+    "score": null
+   },
+   "status": "scheduled",
+   "statusText": "Scheduled",
+   "players": []
+  },
+  {
+   "id": 900089,
+   "date": "2026-11-02",
+   "start": "2026-11-03T00:30:00.000Z",
+   "home": {
+    "id": 1026,
+    "abbr": "SAS",
+    "name": "San Antonio Spurs",
+    "short": "Spurs",
+    "logo": null,
+    "score": null
+   },
+   "away": {
+    "id": 1023,
+    "abbr": "PHX",
+    "name": "Phoenix Suns",
+    "short": "Suns",
+    "logo": null,
+    "score": null
+   },
+   "status": "scheduled",
+   "statusText": "Scheduled",
+   "players": []
+  },
+  {
+   "id": 900090,
+   "date": "2026-11-02",
+   "start": "2026-11-03T01:00:00.000Z",
+   "home": {
+    "id": 1021,
+    "abbr": "ORL",
+    "name": "Orlando Magic",
+    "short": "Magic",
+    "logo": null,
+    "score": null
+   },
+   "away": {
+    "id": 1018,
+    "abbr": "NOP",
+    "name": "New Orleans Pelicans",
+    "short": "Pelicans",
+    "logo": null,
+    "score": null
+   },
+   "status": "scheduled",
+   "statusText": "Scheduled",
+   "players": []
+  },
+  {
+   "id": 900091,
+   "date": "2026-11-02",
+   "start": "2026-11-02T23:30:00.000Z",
+   "home": {
+    "id": 1008,
+    "abbr": "DET",
+    "name": "Detroit Pistons",
+    "short": "Pistons",
+    "logo": null,
+    "score": null
+   },
+   "away": {
+    "id": 1004,
+    "abbr": "CHI",
+    "name": "Chicago Bulls",
+    "short": "Bulls",
+    "logo": null,
+    "score": null
+   },
+   "status": "scheduled",
+   "statusText": "Scheduled",
+   "players": []
+  },
+  {
+   "id": 900092,
+   "date": "2026-11-02",
+   "start": "2026-11-03T00:00:00.000Z",
+   "home": {
+    "id": 1027,
+    "abbr": "TOR",
+    "name": "Toronto Raptors",
+    "short": "Raptors",
+    "logo": null,
+    "score": null
+   },
+   "away": {
+    "id": 1016,
+    "abbr": "MIL",
+    "name": "Milwaukee Bucks",
+    "short": "Bucks",
+    "logo": null,
+    "score": null
+   },
+   "status": "scheduled",
+   "statusText": "Scheduled",
+   "players": []
+  },
+  {
+   "id": 900093,
+   "date": "2026-11-02",
+   "start": "2026-11-03T01:30:00.000Z",
+   "home": {
+    "id": 1017,
+    "abbr": "MIN",
+    "name": "Minnesota Timberwolves",
+    "short": "Timberwolves",
+    "logo": null,
+    "score": null
+   },
+   "away": {
+    "id": 1009,
+    "abbr": "GSW",
+    "name": "Golden State Warriors",
+    "short": "Warriors",
+    "logo": null,
+    "score": null
+   },
+   "status": "scheduled",
+   "statusText": "Scheduled",
+   "players": []
+  },
+  {
+   "id": 900094,
+   "date": "2026-11-02",
+   "start": "2026-11-02T23:00:00.000Z",
+   "home": {
+    "id": 1013,
+    "abbr": "LAL",
+    "name": "Los Angeles Lakers",
+    "short": "Lakers",
+    "logo": null,
+    "score": null
+   },
+   "away": {
+    "id": 1019,
+    "abbr": "NYK",
+    "name": "New York Knicks",
+    "short": "Knicks",
+    "logo": null,
+    "score": null
+   },
+   "status": "scheduled",
+   "statusText": "Scheduled",
+   "players": []
+  },
+  {
+   "id": 900095,
+   "date": "2026-11-02",
+   "start": "2026-11-03T00:30:00.000Z",
+   "home": {
+    "id": 1020,
+    "abbr": "OKC",
+    "name": "Oklahoma City Thunder",
+    "short": "Thunder",
+    "logo": null,
+    "score": null
+   },
+   "away": {
+    "id": 1029,
+    "abbr": "WAS",
+    "name": "Washington Wizards",
+    "short": "Wizards",
+    "logo": null,
+    "score": null
+   },
+   "status": "scheduled",
+   "statusText": "Scheduled",
+   "players": []
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "nba-stats",
+  "private": true,
+  "type": "module",
+  "description": "Estadísticas NBA para apostadores, en español. Sitio estático generado a diario.",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "demo": "node scripts/demo.mjs",
+    "update": "node scripts/update.mjs",
+    "build": "node scripts/build.mjs",
+    "build:demo": "node scripts/build.mjs --demo",
+    "serve": "node scripts/serve.mjs",
+    "dev": "node scripts/demo.mjs && node scripts/build.mjs --demo && node scripts/serve.mjs"
+  }
+}
