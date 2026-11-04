@@ -1,0 +1,104 @@
+{
+ "date": "2026-11-01",
+ "demo": false,
+ "complete": false,
+ "updatedAt": "2026-11-04T16:14:54.797Z",
+ "games": [
+  {
+   "id": 1549531,
+   "date": "2026-11-01",
+   "start": "2026-11-02T02:00:00.000Z",
+   "status": "final",
+   "statusText": "Finished",
+   "home": {
+    "id": 4,
+    "name": "Los Angeles Lakers",
+    "short": "Lakers",
+    "abbr": "LAL",
+    "logo": "https://highlightly.net/nba/images/teams/4.png",
+    "score": 131
+   },
+   "away": {
+    "id": 34,
+    "name": "Toronto Raptors",
+    "short": "Raptors",
+    "abbr": "TOR",
+    "logo": "https://highlightly.net/nba/images/teams/34.png",
+    "score": 125
+   },
+   "players": []
+  },
+  {
+   "id": 1549530,
+   "date": "2026-11-01",
+   "start": "2026-11-02T01:30:00.000Z",
+   "status": "final",
+   "statusText": "Finished",
+   "home": {
+    "id": 43,
+    "name": "Golden State Warriors",
+    "short": "Warriors",
+    "abbr": "GS",
+    "logo": "https://highlightly.net/nba/images/teams/43.png",
+    "score": 124
+   },
+   "away": {
+    "id": 30,
+    "name": "LA Clippers",
+    "short": "Clippers",
+    "abbr": "LAC",
+    "logo": "https://highlightly.net/nba/images/teams/30.png",
+    "score": 112
+   },
+   "players": []
+  },
+  {
+   "id": 1549529,
+   "date": "2026-11-01",
+   "start": "2026-11-01T22:00:00.000Z",
+   "status": "final",
+   "statusText": "Finished",
+   "home": {
+    "id": 36,
+    "name": "Indiana Pacers",
+    "short": "Pacers",
+    "abbr": "IND",
+    "logo": "https://highlightly.net/nba/images/teams/36.png",
+    "score": 90
+   },
+   "away": {
+    "id": 49,
+    "name": "Brooklyn Nets",
+    "short": "Nets",
+    "abbr": "BKN",
+    "logo": "https://highlightly.net/nba/images/teams/49.png",
+    "score": 98
+   },
+   "players": []
+  },
+  {
+   "id": 1549528,
+   "date": "2026-11-01",
+   "start": "2026-11-01T20:30:00.000Z",
+   "status": "final",
+   "statusText": "Finished",
+   "home": {
+    "id": 24,
+    "name": "Orlando Magic",
+    "short": "Magic",
+    "abbr": "ORL",
+    "logo": "https://highlightly.net/nba/images/teams/24.png",
+    "score": 97
+   },
+   "away": {
+    "id": 2,
+    "name": "Boston Celtics",
+    "short": "Celtics",
+    "abbr": "BOS",
+    "logo": "https://highlightly.net/nba/images/teams/2.png",
+    "score": 108
+   },
+   "players": []
+  }
+ ]
+}

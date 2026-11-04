@@ -1,0 +1,104 @@
+{
+ "date": "2026-10-27",
+ "demo": false,
+ "complete": false,
+ "updatedAt": "2026-11-04T16:15:10.210Z",
+ "games": [
+  {
+   "id": 1548233,
+   "date": "2026-10-27",
+   "start": "2026-10-28T03:00:00.000Z",
+   "status": "final",
+   "statusText": "Finished",
+   "home": {
+    "id": 4,
+    "name": "Los Angeles Lakers",
+    "short": "Lakers",
+    "abbr": "LAL",
+    "logo": "https://highlightly.net/nba/images/teams/4.png",
+    "score": 129
+   },
+   "away": {
+    "id": 31,
+    "name": "Portland Trail Blazers",
+    "short": "Trail Blazers",
+    "abbr": "POR",
+    "logo": "https://highlightly.net/nba/images/teams/31.png",
+    "score": 136
+   },
+   "players": []
+  },
+  {
+   "id": 1548232,
+   "date": "2026-10-27",
+   "start": "2026-10-28T00:00:00.000Z",
+   "status": "final",
+   "statusText": "Finished",
+   "home": {
+    "id": 37,
+    "name": "San Antonio Spurs",
+    "short": "Spurs",
+    "abbr": "SA",
+    "logo": "https://highlightly.net/nba/images/teams/37.png",
+    "score": 130
+   },
+   "away": {
+    "id": 32,
+    "name": "Sacramento Kings",
+    "short": "Kings",
+    "abbr": "SAC",
+    "logo": "https://highlightly.net/nba/images/teams/32.png",
+    "score": 103
+   },
+   "players": []
+  },
+  {
+   "id": 1548231,
+   "date": "2026-10-27",
+   "start": "2026-10-28T00:00:00.000Z",
+   "status": "final",
+   "statusText": "Finished",
+   "home": {
+    "id": 26,
+    "name": "New York Knicks",
+    "short": "Knicks",
+    "abbr": "NY",
+    "logo": "https://highlightly.net/nba/images/teams/26.png",
+    "score": 111
+   },
+   "away": {
+    "id": 25,
+    "name": "Detroit Pistons",
+    "short": "Pistons",
+    "abbr": "DET",
+    "logo": "https://highlightly.net/nba/images/teams/25.png",
+    "score": 97
+   },
+   "players": []
+  },
+  {
+   "id": 1548230,
+   "date": "2026-10-27",
+   "start": "2026-10-27T23:30:00.000Z",
+   "status": "final",
+   "statusText": "Finished",
+   "home": {
+    "id": 2,
+    "name": "Boston Celtics",
+    "short": "Celtics",
+    "abbr": "BOS",
+    "logo": "https://highlightly.net/nba/images/teams/2.png",
+    "score": 125
+   },
+   "away": {
+    "id": 49,
+    "name": "Brooklyn Nets",
+    "short": "Nets",
+    "abbr": "BKN",
+    "logo": "https://highlightly.net/nba/images/teams/49.png",
+    "score": 124
+   },
+   "players": []
+  }
+ ]
+}

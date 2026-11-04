@@ -1,0 +1,176 @@
+{
+ "date": "2026-10-25",
+ "demo": false,
+ "complete": false,
+ "updatedAt": "2026-11-04T16:15:14.311Z",
+ "games": [
+  {
+   "id": 1547991,
+   "date": "2026-10-25",
+   "start": "2026-10-26T01:00:00.000Z",
+   "status": "final",
+   "statusText": "Finished",
+   "home": {
+    "id": 32,
+    "name": "Sacramento Kings",
+    "short": "Kings",
+    "abbr": "SAC",
+    "logo": "https://highlightly.net/nba/images/teams/32.png",
+    "score": 112
+   },
+   "away": {
+    "id": 42,
+    "name": "Memphis Grizzlies",
+    "short": "Grizzlies",
+    "abbr": "MEM",
+    "logo": "https://highlightly.net/nba/images/teams/42.png",
+    "score": 123
+   },
+   "players": []
+  },
+  {
+   "id": 1547990,
+   "date": "2026-10-25",
+   "start": "2026-10-25T23:30:00.000Z",
+   "status": "final",
+   "statusText": "Finished",
+   "home": {
+    "id": 71,
+    "name": "Philadelphia 76ers",
+    "short": "76ers",
+    "abbr": "PHI",
+    "logo": "https://highlightly.net/nba/images/teams/71.png",
+    "score": 93
+   },
+   "away": {
+    "id": 25,
+    "name": "Detroit Pistons",
+    "short": "Pistons",
+    "abbr": "DET",
+    "logo": "https://highlightly.net/nba/images/teams/25.png",
+    "score": 106
+   },
+   "players": []
+  },
+  {
+   "id": 1547989,
+   "date": "2026-10-25",
+   "start": "2026-10-25T23:00:00.000Z",
+   "status": "final",
+   "statusText": "Finished",
+   "home": {
+    "id": 38,
+    "name": "Oklahoma City Thunder",
+    "short": "Thunder",
+    "abbr": "OKC",
+    "logo": "https://highlightly.net/nba/images/teams/38.png",
+    "score": 108
+   },
+   "away": {
+    "id": 30,
+    "name": "LA Clippers",
+    "short": "Clippers",
+    "abbr": "LAC",
+    "logo": "https://highlightly.net/nba/images/teams/30.png",
+    "score": 101
+   },
+   "players": []
+  },
+  {
+   "id": 1547988,
+   "date": "2026-10-25",
+   "start": "2026-10-25T23:00:00.000Z",
+   "status": "final",
+   "statusText": "Finished",
+   "home": {
+    "id": 41,
+    "name": "Minnesota Timberwolves",
+    "short": "Timberwolves",
+    "abbr": "MIN",
+    "logo": "https://highlightly.net/nba/images/teams/41.png",
+    "score": 117
+   },
+   "away": {
+    "id": 34,
+    "name": "Toronto Raptors",
+    "short": "Raptors",
+    "abbr": "TOR",
+    "logo": "https://highlightly.net/nba/images/teams/34.png",
+    "score": 94
+   },
+   "players": []
+  },
+  {
+   "id": 1547987,
+   "date": "2026-10-25",
+   "start": "2026-10-25T23:00:00.000Z",
+   "status": "final",
+   "statusText": "Finished",
+   "home": {
+    "id": 26,
+    "name": "New York Knicks",
+    "short": "Knicks",
+    "abbr": "NY",
+    "logo": "https://highlightly.net/nba/images/teams/26.png",
+    "score": 102
+   },
+   "away": {
+    "id": 24,
+    "name": "Orlando Magic",
+    "short": "Magic",
+    "abbr": "ORL",
+    "logo": "https://highlightly.net/nba/images/teams/24.png",
+    "score": 111
+   },
+   "players": []
+  },
+  {
+   "id": 1547986,
+   "date": "2026-10-25",
+   "start": "2026-10-25T22:00:00.000Z",
+   "status": "final",
+   "statusText": "Finished",
+   "home": {
+    "id": 49,
+    "name": "Brooklyn Nets",
+    "short": "Nets",
+    "abbr": "BKN",
+    "logo": "https://highlightly.net/nba/images/teams/49.png",
+    "score": 109
+   },
+   "away": {
+    "id": 36,
+    "name": "Indiana Pacers",
+    "short": "Pacers",
+    "abbr": "IND",
+    "logo": "https://highlightly.net/nba/images/teams/36.png",
+    "score": 136
+   },
+   "players": []
+  },
+  {
+   "id": 1547985,
+   "date": "2026-10-25",
+   "start": "2026-10-25T21:00:00.000Z",
+   "status": "final",
+   "statusText": "Finished",
+   "home": {
+    "id": 45,
+    "name": "Utah Jazz",
+    "short": "Jazz",
+    "abbr": "UTAH",
+    "logo": "https://highlightly.net/nba/images/teams/45.png",
+    "score": 123
+   },
+   "away": {
+    "id": 4,
+    "name": "Los Angeles Lakers",
+    "short": "Lakers",
+    "abbr": "LAL",
+    "logo": "https://highlightly.net/nba/images/teams/4.png",
+    "score": 132
+   },
+   "players": []
+  }
+ ]
+}
