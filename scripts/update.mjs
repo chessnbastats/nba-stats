@@ -19,7 +19,7 @@ if (!KEY) {
 }
 
 class BudgetError extends Error {}
-let used = 0;
+let used = 0, emptyBoxes = 0, goodBoxes = 0;
 
 async function api(path, params = {}) {
   if (used >= MAX_REQUESTS) throw new BudgetError('Se llegó al límite de consultas de hoy.');
@@ -34,7 +34,7 @@ async function api(path, params = {}) {
   const json = await res.json();
   // En el plan gratis algunos resultados pueden venir ocultos; lo avisamos para revisarlo.
   const planMsg = json?.plan?.message;
-  if (planMsg) console.warn(`  Aviso del plan (${path}): ${planMsg}`);
+  if (planMsg && !/all data available/i.test(planMsg)) console.warn(`  Aviso del plan (${path}): ${planMsg}`);
   return json;
 }
 
@@ -55,10 +55,11 @@ function normalizeMatch(m) {
 }
 
 function normalizeBox(res) {
+  // La documentación muestra dos formas: [{team:{id, boxScores}}] y [{id, boxScores}]. Aceptamos las dos.
   const sides = Array.isArray(res) ? res : res?.data ?? [];
   const players = [];
   for (const side of sides) {
-    const t = side.team ?? {};
+    const t = side.team ?? side;
     for (const b of t.boxScores ?? []) {
       const p = { id: b.player?.id, name: b.player?.name, jersey: b.player?.jersey ?? null, teamId: t.id };
       for (const s of b.statistics ?? []) {
@@ -86,7 +87,28 @@ async function fetchDay(day, previous) {
 
   for (const g of games) {
     if (g.status !== 'final' || g.players.length) continue;
-    g.players = normalizeBox(await api(`/box-score/${g.id}`));
+    const res = await api(`/box-score/${g.id}`);
+    g.players = normalizeBox(res);
+    if (!g.players.length) {
+      emptyBoxes++;
+      console.warn(`  Box score vacío para el partido ${g.id}. Respuesta: ${JSON.stringify(res).slice(0, 700)}`);
+      // Si los primeros vienen vacíos, algo cambió en la API: cortamos para no gastar el cupo del día.
+      if (emptyBoxes >= 2 && !goodBoxes) throw new BudgetError('Los box scores vienen vacíos: se corta para no gastar consultas.');
+      continue;
+    }
+    goodBoxes++;
+    // Los jugadores tienen que quedar asociados a los ids de equipo del partido.
+    const ids = [...new Set(g.players.map(p => p.teamId))];
+    if (!ids.every(id => id === g.home.id || id === g.away.id) && ids.length === 2) {
+      const names = (Array.isArray(res) ? res : res.data ?? []).map(s => (s.team ?? s).name);
+      const toMatch = id => {
+        const name = names[ids.indexOf(id)] ?? '';
+        if (g.home.short && name.includes(g.home.short)) return g.home.id;
+        if (g.away.short && name.includes(g.away.short)) return g.away.id;
+        return ids.indexOf(id) === 0 ? g.home.id : g.away.id;
+      };
+      for (const p of g.players) p.teamId = toMatch(p.teamId);
+    }
     // Si el marcador vino vacío, lo calculamos sumando los puntos de los jugadores.
     for (const side of [g.home, g.away]) {
       if (side.score == null) side.score = g.players.filter(p => p.teamId === side.id).reduce((s, p) => s + (p.pts || 0), 0);

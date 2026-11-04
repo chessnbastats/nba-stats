@@ -10,12 +10,14 @@ const OUT = 'dist';
 let demo = process.argv.includes('--demo') || process.env.DEMO === '1';
 let dir = demo ? 'data/demo/games' : 'data/games';
 let files = await listGameFiles(dir);
-if (!files.length && !demo) {
-  console.warn('Todavía no hay datos reales: armo el sitio con los datos DEMO.');
+let days = (await Promise.all(files.map(f => readJson(`${dir}/${f}`)))).filter(Boolean);
+// Sin estadísticas de jugadores el sitio queda vacío: hasta que lleguen, se muestra el DEMO.
+if (!demo && !days.some(d => d.games.some(g => g.players?.length))) {
+  console.warn('Todavía no hay box scores reales: armo el sitio con los datos DEMO.');
   demo = true; dir = 'data/demo/games'; files = await listGameFiles(dir);
+  days = (await Promise.all(files.map(f => readJson(`${dir}/${f}`)))).filter(Boolean);
 }
 if (!files.length) { console.error('No hay datos. Corré primero: npm run demo'); process.exit(1); }
-const days = (await Promise.all(files.map(f => readJson(`${dir}/${f}`)))).filter(Boolean);
 
 // ---------- Armado de datos ----------
 const STATS = { min: 'MIN', pts: 'PTS', reb: 'REB', ast: 'AST', fg3m: '3PM', stl: 'ROB', blk: 'TAP', pra: 'PRA' };
