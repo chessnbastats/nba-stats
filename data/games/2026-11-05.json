@@ -1,0 +1,56 @@
+{
+ "date": "2026-11-05",
+ "demo": false,
+ "complete": false,
+ "updatedAt": "2026-11-05T17:50:19.865Z",
+ "games": [
+  {
+   "id": 1552499,
+   "date": "2026-11-05",
+   "start": "2026-11-06T03:00:00.000Z",
+   "status": "scheduled",
+   "statusText": "Scheduled",
+   "home": {
+    "id": 43,
+    "name": "Golden State Warriors",
+    "short": "Warriors",
+    "abbr": "GS",
+    "logo": "https://highlightly.net/nba/images/teams/43.png",
+    "score": null
+   },
+   "away": {
+    "id": 1,
+    "name": "Miami Heat",
+    "short": "Heat",
+    "abbr": "MIA",
+    "logo": "https://highlightly.net/nba/images/teams/1.png",
+    "score": null
+   },
+   "players": []
+  },
+  {
+   "id": 1552498,
+   "date": "2026-11-05",
+   "start": "2026-11-06T02:00:00.000Z",
+   "status": "scheduled",
+   "statusText": "Scheduled",
+   "home": {
+    "id": 46,
+    "name": "Phoenix Suns",
+    "short": "Suns",
+    "abbr": "PHX",
+    "logo": "https://highlightly.net/nba/images/teams/46.png",
+    "score": null
+   },
+   "away": {
+    "id": 24,
+    "name": "Orlando Magic",
+    "short": "Magic",
+    "abbr": "ORL",
+    "logo": "https://highlightly.net/nba/images/teams/24.png",
+    "score": null
+   },
+   "players": []
+  }
+ ]
+}
