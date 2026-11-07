@@ -2,21 +2,21 @@
  "date": "2026-11-06",
  "demo": false,
  "complete": false,
- "updatedAt": "2026-11-06T17:09:14.265Z",
+ "updatedAt": "2026-11-07T16:05:07.786Z",
  "games": [
   {
    "id": 1553111,
    "date": "2026-11-06",
    "start": "2026-11-07T03:00:00.000Z",
-   "status": "scheduled",
-   "statusText": "Scheduled",
+   "status": "final",
+   "statusText": "Finished",
    "home": {
     "id": 32,
     "name": "Sacramento Kings",
     "short": "Kings",
     "abbr": "SAC",
     "logo": "https://highlightly.net/nba/images/teams/32.png",
-    "score": null
+    "score": 109
    },
    "away": {
     "id": 37,
@@ -24,7 +24,7 @@
     "short": "Spurs",
     "abbr": "SA",
     "logo": "https://highlightly.net/nba/images/teams/37.png",
-    "score": null
+    "score": 124
    },
    "players": []
   },
@@ -32,15 +32,15 @@
    "id": 1553110,
    "date": "2026-11-06",
    "start": "2026-11-07T03:00:00.000Z",
-   "status": "scheduled",
-   "statusText": "Scheduled",
+   "status": "final",
+   "statusText": "Finished",
    "home": {
     "id": 4,
     "name": "Los Angeles Lakers",
     "short": "Lakers",
     "abbr": "LAL",
     "logo": "https://highlightly.net/nba/images/teams/4.png",
-    "score": null
+    "score": 124
    },
    "away": {
     "id": 31,
@@ -48,7 +48,7 @@
     "short": "Trail Blazers",
     "abbr": "POR",
     "logo": "https://highlightly.net/nba/images/teams/31.png",
-    "score": null
+    "score": 118
    },
    "players": []
   },
@@ -56,15 +56,15 @@
    "id": 1553109,
    "date": "2026-11-06",
    "start": "2026-11-07T01:00:00.000Z",
-   "status": "scheduled",
-   "statusText": "Scheduled",
+   "status": "final",
+   "statusText": "Finished",
    "home": {
     "id": 64,
     "name": "New Orleans Pelicans",
     "short": "Pelicans",
     "abbr": "NO",
     "logo": "https://highlightly.net/nba/images/teams/64.png",
-    "score": null
+    "score": 109
    },
    "away": {
     "id": 41,
@@ -72,7 +72,7 @@
     "short": "Timberwolves",
     "abbr": "MIN",
     "logo": "https://highlightly.net/nba/images/teams/41.png",
-    "score": null
+    "score": 115
    },
    "players": []
   },
@@ -80,15 +80,15 @@
    "id": 1553108,
    "date": "2026-11-06",
    "start": "2026-11-07T01:00:00.000Z",
-   "status": "scheduled",
-   "statusText": "Scheduled",
+   "status": "final",
+   "statusText": "Finished",
    "home": {
     "id": 39,
     "name": "Milwaukee Bucks",
     "short": "Bucks",
     "abbr": "MIL",
     "logo": "https://highlightly.net/nba/images/teams/39.png",
-    "score": null
+    "score": 107
    },
    "away": {
     "id": 34,
@@ -96,7 +96,7 @@
     "short": "Raptors",
     "abbr": "TOR",
     "logo": "https://highlightly.net/nba/images/teams/34.png",
-    "score": null
+    "score": 121
    },
    "players": []
   },
@@ -104,15 +104,15 @@
    "id": 1553107,
    "date": "2026-11-06",
    "start": "2026-11-07T01:00:00.000Z",
-   "status": "scheduled",
-   "statusText": "Scheduled",
+   "status": "final",
+   "statusText": "Finished",
    "home": {
     "id": 42,
     "name": "Memphis Grizzlies",
     "short": "Grizzlies",
     "abbr": "MEM",
     "logo": "https://highlightly.net/nba/images/teams/42.png",
-    "score": null
+    "score": 97
    },
    "away": {
     "id": 38,
@@ -120,7 +120,7 @@
     "short": "Thunder",
     "abbr": "OKC",
     "logo": "https://highlightly.net/nba/images/teams/38.png",
-    "score": null
+    "score": 128
    },
    "players": []
   },
@@ -128,15 +128,15 @@
    "id": 1553106,
    "date": "2026-11-06",
    "start": "2026-11-07T01:00:00.000Z",
-   "status": "scheduled",
-   "statusText": "Scheduled",
+   "status": "final",
+   "statusText": "Finished",
    "home": {
     "id": 40,
     "name": "Dallas Mavericks",
     "short": "Mavericks",
     "abbr": "DAL",
     "logo": "https://highlightly.net/nba/images/teams/40.png",
-    "score": null
+    "score": 112
    },
    "away": {
     "id": 45,
@@ -144,7 +144,7 @@
     "short": "Jazz",
     "abbr": "UTAH",
     "logo": "https://highlightly.net/nba/images/teams/45.png",
-    "score": null
+    "score": 100
    },
    "players": []
   },
@@ -152,15 +152,15 @@
    "id": 1553105,
    "date": "2026-11-06",
    "start": "2026-11-07T00:30:00.000Z",
-   "status": "scheduled",
-   "statusText": "Scheduled",
+   "status": "final",
+   "statusText": "Finished",
    "home": {
     "id": 35,
     "name": "Cleveland Cavaliers",
     "short": "Cavaliers",
     "abbr": "CLE",
     "logo": "https://highlightly.net/nba/images/teams/35.png",
-    "score": null
+    "score": 119
    },
    "away": {
     "id": 71,
@@ -168,7 +168,7 @@
     "short": "76ers",
     "abbr": "PHI",
     "logo": "https://highlightly.net/nba/images/teams/71.png",
-    "score": null
+    "score": 95
    },
    "players": []
   },
@@ -176,15 +176,15 @@
    "id": 1553104,
    "date": "2026-11-06",
    "start": "2026-11-07T00:00:00.000Z",
-   "status": "scheduled",
-   "statusText": "Scheduled",
+   "status": "final",
+   "statusText": "Finished",
    "home": {
     "id": 33,
     "name": "Charlotte Hornets",
     "short": "Hornets",
     "abbr": "CHA",
     "logo": "https://highlightly.net/nba/images/teams/33.png",
-    "score": null
+    "score": 80
    },
    "away": {
     "id": 2,
@@ -192,7 +192,7 @@
     "short": "Celtics",
     "abbr": "BOS",
     "logo": "https://highlightly.net/nba/images/teams/2.png",
-    "score": null
+    "score": 119
    },
    "players": []
   },
@@ -200,15 +200,15 @@
    "id": 1553103,
    "date": "2026-11-06",
    "start": "2026-11-07T00:00:00.000Z",
-   "status": "scheduled",
-   "statusText": "Scheduled",
+   "status": "final",
+   "statusText": "Finished",
    "home": {
     "id": 23,
     "name": "Atlanta Hawks",
     "short": "Hawks",
     "abbr": "ATL",
     "logo": "https://highlightly.net/nba/images/teams/23.png",
-    "score": null
+    "score": 139
    },
    "away": {
     "id": 50,
@@ -216,7 +216,7 @@
     "short": "Wizards",
     "abbr": "WSH",
     "logo": "https://highlightly.net/nba/images/teams/50.png",
-    "score": null
+    "score": 132
    },
    "players": []
   }
