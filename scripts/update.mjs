@@ -54,16 +54,21 @@ function normalizeMatch(m) {
   };
 }
 
+// Los nombres llegan con o sin la sigla entre paréntesis ("Total Rebounds" o "Total Rebounds (REB)").
+const statName = s => String(s ?? '').replace(/\s*\([^)]*\)\s*$/, '').trim().toLowerCase();
+const STAT_KEYS = Object.fromEntries(Object.entries(STAT_MAP).map(([k, v]) => [statName(k), v]));
+
 function normalizeBox(res) {
-  // La documentación muestra dos formas: [{team:{id, boxScores}}] y [{id, boxScores}]. Aceptamos las dos.
+  // La API real manda [{team:{id,name}, boxScores:[...]}]; la documentación muestra los boxScores
+  // adentro de team o sin team. Aceptamos las tres formas.
   const sides = Array.isArray(res) ? res : res?.data ?? [];
   const players = [];
   for (const side of sides) {
     const t = side.team ?? side;
-    for (const b of t.boxScores ?? []) {
+    for (const b of side.boxScores ?? t.boxScores ?? []) {
       const p = { id: b.player?.id, name: b.player?.name, jersey: b.player?.jersey ?? null, teamId: t.id };
       for (const s of b.statistics ?? []) {
-        const key = STAT_MAP[s.name];
+        const key = STAT_KEYS[statName(s.name)];
         if (key) p[key] = num(s.value);
       }
       if (p.id != null && p.name) players.push(p);
