@@ -242,3 +242,19 @@ table.stats { width: 100%; border-collapse: collapse; font-size: .9rem; white-sp
   .big { font-size: 1.8rem; }
   .cmp-summary { grid-template-columns: auto 1fr; }
 }
+
+/* Respuesta directa del buscador */
+.answer { margin: 14px auto 0; padding: 18px; text-align: left; max-width: 640px; }
+.top-search .answer { max-width: none; }
+.ans-text { font-size: 1.1rem; margin: 0 0 10px; }
+.ans-text a { text-decoration: none; }
+.ans-big { display: flex; align-items: baseline; gap: 8px; }
+.ans-big .big { font-size: 3.2rem; color: var(--accent); }
+.ans-line { display: inline-block; margin: 10px 0 0; padding: 6px 12px; border-radius: 10px; background: var(--bg); font-size: .95rem; }
+.ans-line.good { background: var(--over-soft); color: var(--over); }
+.ans-line.bad { background: var(--under-soft); color: var(--under); }
+.answer .chart { margin-top: 6px; }
+.answer .bars { height: 170px; }
+.bar.plain .fill { background: var(--accent); }
+.ans-more { display: inline-block; margin-top: 12px; font-weight: 700; color: var(--accent); text-decoration: none; }
+.ans-others { margin: 10px 0 0; }

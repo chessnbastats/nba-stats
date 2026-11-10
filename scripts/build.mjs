@@ -127,7 +127,8 @@ const searchForm = (root, big = false) => `
   <input name="q" type="search" placeholder="${big ? 'puntos de Jokić últ. 10' : 'Buscar jugador o estadística'}" aria-label="Buscar jugador o estadística" enterkeyhint="search">
   <button type="submit">Buscar</button>
   <ul class="suggest" role="listbox" hidden></ul>
-</form>`;
+</form>
+<div class="answer card" aria-live="polite" hidden></div>`;
 
 const pages = [];
 function page({ path, title, desc, body, home = false }) {
@@ -204,9 +205,9 @@ const topScorers = [...players.values()].filter(p => p.log.length >= 3)
   .sort((a, b) => avg(b.log, 'pts', 10) - avg(a.log, 'pts', 10));
 const examples = topScorers.slice(0, 3);
 const exampleQueries = [
-  examples[0] && `puntos de ${examples[0].name.split(' ').pop()} últimos 10`,
-  examples[1] && `rebotes de ${examples[1].name.split(' ').pop()} últimos 5`,
-  examples[2] && `PRA de ${examples[2].name.split(' ').pop()}`,
+  examples[0] && `puntos de ${examples[0].name.split(' ').pop()} últimos 3`,
+  examples[1] && `rebotes de ${examples[1].name.split(' ').pop()} más de 9,5`,
+  examples[2] && `${examples[2].name.split(' ').pop()} últimos 5`,
 ].filter(Boolean);
 
 // Buscador: índice liviano que baja el navegador.
@@ -290,6 +291,8 @@ for (const p of players.values()) {
     name: p.name, team: t?.abbr, todayOpp: today ? today.opp.abbr : null,
     log: p.log.map(({ d, opp, h, w, min, pts, reb, ast, fg3m, stl, blk }) => ({ d, opp, h, w, min, pts, reb, ast, fg3m, stl, blk })),
   };
+  // El buscador baja este archivo para responder preguntas sin salir de la página.
+  await write(`data/jugadores/${p.slug}.json`, JSON.stringify({ ...dataForJs, slug: p.slug, teamName: t?.name ?? '' }));
 
   await page({
     path,
