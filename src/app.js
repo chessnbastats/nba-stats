@@ -7,8 +7,8 @@
   const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
   const fmtDay = d => new Intl.DateTimeFormat('es-AR', { timeZone: 'UTC', day: 'numeric', month: 'numeric' }).format(new Date(d + 'T12:00:00Z'));
 
-  const LABELS = { pts: 'puntos', reb: 'rebotes', ast: 'asistencias', fg3m: 'triples', stl: 'robos', blk: 'tapones', min: 'minutos', pra: 'PRA', pr: 'puntos + rebotes', pa: 'puntos + asistencias', ra: 'rebotes + asistencias' };
-  const SHORT = { pts: 'PTS', reb: 'REB', ast: 'AST', fg3m: '3PM', stl: 'ROB', blk: 'TAP', min: 'MIN', pra: 'PRA', pr: 'P+R', pa: 'P+A', ra: 'R+A' };
+  const LABELS = { pts: 'puntos', reb: 'rebotes', ast: 'asistencias', fg3m: 'triples', stl: 'robos', blk: 'tapones', min: 'minutos', pra: 'PRA', pr: 'puntos + rebotes', pa: 'puntos + asistencias', ra: 'rebotes + asistencias', sb: 'robos + tapones', tov: 'pérdidas', fgm: 'tiros de campo convertidos', ftm: 'libres convertidos', fant: 'puntos de fantasy' };
+  const SHORT = { pts: 'PTS', reb: 'REB', ast: 'AST', fg3m: '3PM', stl: 'ROB', blk: 'TAP', min: 'MIN', pra: 'PRA', pr: 'P+R', pa: 'P+A', ra: 'R+A', sb: 'R+T', tov: 'PÉR', fgm: 'TC', ftm: 'TL', fant: 'FAN' };
   // Orden importante: primero los combinados.
   const STAT_WORDS = [
     [/\bpra\b|puntos,? rebotes y asistencias|combinad/, 'pra'],
@@ -19,6 +19,11 @@
     [/\brebotes?\b|\breb\b/, 'reb'],
     [/\basistencias?\b|\bast\b/, 'ast'],
     [/\btriples?\b|\b3pm\b|\btres\b/, 'fg3m'],
+    [/\brobos y tapones\b|\bstocks\b/, 'sb'],
+    [/\bfantasy\b/, 'fant'],
+    [/\bperdidas?\b|\btov\b/, 'tov'],
+    [/\blibres?\b/, 'ftm'],
+    [/\btiros de campo\b|\bdobles\b/, 'fgm'],
     [/\brobos?\b|\bstl\b/, 'stl'],
     [/\btapones?\b|\btapas?\b|\bblk\b|\bbloqueos?\b/, 'blk'],
     [/\bminutos?\b|\bmin\b/, 'min'],
@@ -63,6 +68,8 @@
     if (k === 'pr') return v('pts') + v('reb');
     if (k === 'pa') return v('pts') + v('ast');
     if (k === 'ra') return v('reb') + v('ast');
+    if (k === 'sb') return v('stl') + v('blk');
+    if (k === 'fant') return Math.round((v('pts') + 1.2 * v('reb') + 1.5 * v('ast') + 3 * v('stl') + 3 * v('blk') - v('tov')) * 10) / 10;
     return e[k];
   };
   const mean = vals => (vals.length ? vals.reduce((a, b) => a + b, 0) / vals.length : 0);
@@ -238,7 +245,9 @@
   const lineIn = cmp.querySelector('input[name=line]');
   const summary = cmp.querySelector('.cmp-summary');
   const chart = cmp.querySelector('.chart');
-  const hit = cmp.querySelector('.hitrates');
+  const grid = cmp.querySelector('.hitgrid');
+  const vsline = cmp.querySelector('.vsline');
+  const copyBtn = cmp.querySelector('.copy-link');
 
   const filtered = () => data.log.filter(e => state.f === 'all' || (state.f === 'home' ? e.h : state.f === 'away' ? !e.h : e.opp === data.todayOpp));
   const suggestedLine = () => {
@@ -268,7 +277,7 @@
 
     if (!vals.length) {
       summary.innerHTML = '<p class="muted">No hay partidos para este filtro.</p>';
-      chart.innerHTML = ''; hit.innerHTML = ''; return;
+      chart.innerHTML = ''; grid.innerHTML = ''; vsline.innerHTML = ''; return;
     }
     summary.innerHTML = `
       <div class="hit ${tone}"><span class="big">${over}<small>/${vals.length}</small></span><span class="pct">${pct}%</span></div>
@@ -278,12 +287,25 @@
     chart.setAttribute('aria-label', `Gráfico: ${over} de ${vals.length} partidos por encima de ${nf.format(state.line)} ${label}`);
     chart.innerHTML = barsHtml(games, state.stat, state.line);
 
-    hit.innerHTML = [5, 10, 20].map(n => {
-      const g = all.slice(0, n);
-      if (g.length < n && n !== 5) return '';
+    // Todos los cortes juntos, con la misma línea (sin el filtro de arriba).
+    const base = data.log.filter(e => value(e, state.stat) != null);
+    const cuts = [
+      ['Últ. 5', base.slice(0, 5)], ['Últ. 10', base.slice(0, 10)], ['Últ. 20', base.slice(0, 20)], ['Temporada', base],
+      ['Local', base.filter(e => e.h)], ['Visitante', base.filter(e => !e.h)],
+      ...(data.todayOpp ? [[`vs ${data.todayOpp}`, base.filter(e => e.opp === data.todayOpp)]] : []),
+    ];
+    grid.innerHTML = cuts.map(([label, g]) => {
+      if (!g.length) return `<div class="hg"><span class="hg-l">${esc(label)}</span><span class="hg-p muted">–</span><span class="hg-n">sin partidos</span></div>`;
       const o = g.filter(e => value(e, state.stat) > state.line).length;
-      return `<span>Últ. ${n}: <strong>${o}/${g.length}</strong></span>`;
+      const p = Math.round((o / g.length) * 100);
+      return `<div class="hg ${p >= 60 ? 'good' : p <= 40 ? 'bad' : ''}"><span class="hg-l">${esc(label)}</span><span class="hg-p">${p}%</span><span class="hg-n">${o}/${g.length}</span></div>`;
     }).join('');
+
+    vsline.innerHTML = `<div class="table-wrap"><table class="stats log"><thead><tr><th scope="col">Fecha</th><th scope="col">Rival</th><th scope="col">${SHORT[state.stat]}</th><th scope="col">Línea</th></tr></thead><tbody>${games.slice().reverse().map(e => {
+      const v = value(e, state.stat);
+      const r = v > state.line ? ['win', 'Over'] : v === state.line ? ['', 'Igual'] : ['loss', 'Under'];
+      return `<tr><td>${fmtDay(e.d)}</td><td class="opp">${e.h ? 'vs' : '@'} ${esc(e.opp)}</td><td>${nf.format(v)}</td><td class="${r[0]}">${r[1]}</td></tr>`;
+    }).join('')}</tbody></table></div>`;
 
     const u = new URL(location.href);
     u.searchParams.set('stat', state.stat); u.searchParams.set('n', state.n); u.searchParams.set('line', state.line);
@@ -296,9 +318,14 @@
     if (lineIn.value.trim() !== '' && Number.isFinite(v)) { state.line = v; draw(); }
   });
   lineIn.addEventListener('blur', draw);
+  copyBtn.addEventListener('click', async () => {
+    try { await navigator.clipboard.writeText(location.href); copyBtn.textContent = '¡Link copiado!'; }
+    catch { window.prompt('Copiá este link:', location.href); }
+    setTimeout(() => { copyBtn.textContent = 'Copiar link de esta consulta'; }, 2000);
+  });
   cmp.addEventListener('click', e => {
     const b = e.target.closest('button');
-    if (!b) return;
+    if (!b || b === copyBtn) return;
     if (b.dataset.n) state.n = Number(b.dataset.n);
     if (b.dataset.f) state.f = b.dataset.f;
     draw();

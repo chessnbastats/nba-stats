@@ -8,6 +8,8 @@ export default {
   displayTimeZone: 'America/Argentina/Buenos_Aires',
   // Google AdSense: cuando te aprueben, poné acá tu "ca-pub-XXXXXXXX". Vacío = se muestran espacios reservados.
   adsenseClient: '',
+  // Mail de contacto (AdSense lo pide). Vacío = no se muestra.
+  contact: '',
   // Links de afiliados (cuando haya casas con licencia). Vacío = espacio reservado.
   affiliates: [
     // { name: 'Casa X', url: 'https://...', text: 'Apostá en Casa X' },

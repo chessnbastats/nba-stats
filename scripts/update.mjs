@@ -84,6 +84,7 @@ async function fetchDay(day, previous) {
     const g = { ...normalizeMatch(m), date: day };
     const before = old.get(g.id);
     if (before?.players?.length) g.players = before.players;
+    if (before?.lineupDone) g.lineupDone = true;
     return g;
   });
   const file = { date: day, demo: false, complete: false, updatedAt: new Date().toISOString(), games };
@@ -126,6 +127,63 @@ async function fetchDay(day, previous) {
   console.log(`  ${day}: ${games.length} partidos, ${done} con box score${file.complete ? ' (completo)' : ''}`);
 }
 
+// Formaciones: de acá salen la posición de cada jugador y si fue titular.
+// La documentación muestra {home:{team, lineup:[{player, position, positionAbbreviation, isStarter}]}, away};
+// como ya pasó con el box score, leemos varias formas posibles.
+function parseLineups(res) {
+  const root = res?.data && !Array.isArray(res.data) ? res.data : res;
+  const sides = Array.isArray(root) ? root : [root?.home, root?.away];
+  const out = [];
+  for (const side of sides.filter(Boolean)) {
+    for (const x of side.lineup ?? side.lineups ?? side.players ?? []) {
+      const name = x.player?.name ?? x.player?.fullName ?? (typeof x.player === 'string' ? x.player : x.name ?? x.fullName);
+      const pos = x.positionAbbreviation ?? x.position?.abbreviation ?? x.player?.positionAbbreviation ?? (typeof x.position === 'string' ? x.position : null);
+      out.push({ ids: [x.player?.id, x.playerId, x.id].filter(v => v != null), name, pos, starter: x.isStarter === true });
+    }
+  }
+  return out;
+}
+
+const normName = s => String(s ?? '').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/[^a-z]/g, '');
+const MAX_LINEUPS = Number(process.env.MAX_LINEUPS || 40);
+
+// Pide formaciones de los partidos más recientes que tengan jugadores sin posición conocida.
+async function updatePositions() {
+  const path = 'data/positions.json';
+  const positions = await readJson(path, {});
+  let calls = 0, empty = 0, found = 0;
+  for (const f of (await listGameFiles(DIR)).reverse()) {
+    const file = await readJson(`${DIR}/${f}`);
+    let changed = false;
+    for (const g of file.games) {
+      if (g.status !== 'final' || !g.players?.length || g.lineupDone) continue;
+      if (!g.players.some(p => !positions[p.id])) continue;
+      if (calls >= MAX_LINEUPS || MAX_REQUESTS - used < 1) { if (changed) await writeJson(`${DIR}/${f}`, file); await writeJson(path, positions); return found; }
+      calls++;
+      const res = await api(`/lineups/${g.id}`);
+      const list = parseLineups(res);
+      if (!list.length) {
+        empty++;
+        console.warn(`  Formación vacía para el partido ${g.id}. Respuesta: ${JSON.stringify(res).slice(0, 700)}`);
+        if (empty >= 2 && !found) { await writeJson(path, positions); console.warn('  Las formaciones vienen vacías: se corta para no gastar consultas.'); return 0; }
+        continue;
+      }
+      // Se asocia por id del jugador y, si no coincide, por nombre.
+      for (const p of g.players) {
+        const l = list.find(x => x.ids.includes(p.id)) ?? list.find(x => normName(x.name) === normName(p.name));
+        if (!l) continue;
+        if (l.pos) { positions[p.id] = { pos: l.pos, name: p.name }; found++; }
+        p.starter = l.starter;
+      }
+      g.lineupDone = true;
+      changed = true;
+    }
+    if (changed) await writeJson(`${DIR}/${f}`, file);
+  }
+  await writeJson(path, positions);
+  return found;
+}
+
 const today = ymd();
 const existing = new Set(await listGameFiles(DIR));
 console.log(`Actualizando (hoy NBA: ${today}, máximo ${MAX_REQUESTS} consultas)`);
@@ -134,12 +192,21 @@ try {
   const todayFile = await readJson(`${DIR}/${today}.json`);
   await fetchDay(today, todayFile);
 
+  // Calendario de los próximos 3 días: para mostrar el próximo partido de cada jugador.
+  for (let i = 1; i <= 3; i++) {
+    const day = addDays(today, i);
+    await fetchDay(day, await readJson(`${DIR}/${day}.json`));
+  }
+
   for (let day = addDays(today, -1); day >= SEASON_START; day = addDays(day, -1)) {
     const prev = existing.has(`${day}.json`) ? await readJson(`${DIR}/${day}.json`) : null;
     if (prev?.complete) continue;
     if (MAX_REQUESTS - used < 2) break; // no alcanza ni para la fecha + un box score
     await fetchDay(day, prev);
   }
+
+  // Con lo que sobra del cupo: posiciones y titulares.
+  if (MAX_REQUESTS - used >= 1) console.log(`  Posiciones: ${await updatePositions()} jugadores con posición nueva.`);
 } catch (e) {
   if (!(e instanceof BudgetError)) throw e;
   console.log(`  ${e.message} Lo que falta se baja en la próxima corrida.`);
