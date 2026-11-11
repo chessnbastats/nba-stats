@@ -1,0 +1,128 @@
+{
+ "date": "2026-11-14",
+ "demo": false,
+ "complete": false,
+ "updatedAt": "2026-11-11T17:41:10.345Z",
+ "games": [
+  {
+   "id": 1569543,
+   "date": "2026-11-14",
+   "start": "2026-11-15T01:00:00.000Z",
+   "status": "scheduled",
+   "statusText": "Scheduled",
+   "home": {
+    "id": 41,
+    "name": "Minnesota Timberwolves",
+    "short": "Timberwolves",
+    "abbr": "MIN",
+    "logo": "https://highlightly.net/nba/images/teams/41.png",
+    "score": null
+   },
+   "away": {
+    "id": 27,
+    "name": "Chicago Bulls",
+    "short": "Bulls",
+    "abbr": "CHI",
+    "logo": "https://highlightly.net/nba/images/teams/27.png",
+    "score": null
+   },
+   "players": []
+  },
+  {
+   "id": 1569542,
+   "date": "2026-11-14",
+   "start": "2026-11-15T01:00:00.000Z",
+   "status": "scheduled",
+   "statusText": "Scheduled",
+   "home": {
+    "id": 42,
+    "name": "Memphis Grizzlies",
+    "short": "Grizzlies",
+    "abbr": "MEM",
+    "logo": "https://highlightly.net/nba/images/teams/42.png",
+    "score": null
+   },
+   "away": {
+    "id": 49,
+    "name": "Brooklyn Nets",
+    "short": "Nets",
+    "abbr": "BKN",
+    "logo": "https://highlightly.net/nba/images/teams/49.png",
+    "score": null
+   },
+   "players": []
+  },
+  {
+   "id": 1569541,
+   "date": "2026-11-14",
+   "start": "2026-11-15T01:00:00.000Z",
+   "status": "scheduled",
+   "statusText": "Scheduled",
+   "home": {
+    "id": 1,
+    "name": "Miami Heat",
+    "short": "Heat",
+    "abbr": "MIA",
+    "logo": "https://highlightly.net/nba/images/teams/1.png",
+    "score": null
+   },
+   "away": {
+    "id": 25,
+    "name": "Detroit Pistons",
+    "short": "Pistons",
+    "abbr": "DET",
+    "logo": "https://highlightly.net/nba/images/teams/25.png",
+    "score": null
+   },
+   "players": []
+  },
+  {
+   "id": 1569540,
+   "date": "2026-11-14",
+   "start": "2026-11-15T00:30:00.000Z",
+   "status": "scheduled",
+   "statusText": "Scheduled",
+   "home": {
+    "id": 35,
+    "name": "Cleveland Cavaliers",
+    "short": "Cavaliers",
+    "abbr": "CLE",
+    "logo": "https://highlightly.net/nba/images/teams/35.png",
+    "score": null
+   },
+   "away": {
+    "id": 40,
+    "name": "Dallas Mavericks",
+    "short": "Mavericks",
+    "abbr": "DAL",
+    "logo": "https://highlightly.net/nba/images/teams/40.png",
+    "score": null
+   },
+   "players": []
+  },
+  {
+   "id": 1569539,
+   "date": "2026-11-14",
+   "start": "2026-11-15T00:00:00.000Z",
+   "status": "scheduled",
+   "statusText": "Scheduled",
+   "home": {
+    "id": 64,
+    "name": "New Orleans Pelicans",
+    "short": "Pelicans",
+    "abbr": "NO",
+    "logo": "https://highlightly.net/nba/images/teams/64.png",
+    "score": null
+   },
+   "away": {
+    "id": 3,
+    "name": "Denver Nuggets",
+    "short": "Nuggets",
+    "abbr": "DEN",
+    "logo": "https://highlightly.net/nba/images/teams/3.png",
+    "score": null
+   },
+   "players": []
+  }
+ ]
+}

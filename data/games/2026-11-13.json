@@ -1,0 +1,224 @@
+{
+ "date": "2026-11-13",
+ "demo": false,
+ "complete": false,
+ "updatedAt": "2026-11-11T17:41:10.022Z",
+ "games": [
+  {
+   "id": 1567220,
+   "date": "2026-11-13",
+   "start": "2026-11-14T03:30:00.000Z",
+   "status": "scheduled",
+   "statusText": "Scheduled",
+   "home": {
+    "id": 30,
+    "name": "LA Clippers",
+    "short": "Clippers",
+    "abbr": "LAC",
+    "logo": "https://highlightly.net/nba/images/teams/30.png",
+    "score": null
+   },
+   "away": {
+    "id": 38,
+    "name": "Oklahoma City Thunder",
+    "short": "Thunder",
+    "abbr": "OKC",
+    "logo": "https://highlightly.net/nba/images/teams/38.png",
+    "score": null
+   },
+   "players": []
+  },
+  {
+   "id": 1567219,
+   "date": "2026-11-13",
+   "start": "2026-11-14T03:00:00.000Z",
+   "status": "scheduled",
+   "statusText": "Scheduled",
+   "home": {
+    "id": 32,
+    "name": "Sacramento Kings",
+    "short": "Kings",
+    "abbr": "SAC",
+    "logo": "https://highlightly.net/nba/images/teams/32.png",
+    "score": null
+   },
+   "away": {
+    "id": 31,
+    "name": "Portland Trail Blazers",
+    "short": "Trail Blazers",
+    "abbr": "POR",
+    "logo": "https://highlightly.net/nba/images/teams/31.png",
+    "score": null
+   },
+   "players": []
+  },
+  {
+   "id": 1567218,
+   "date": "2026-11-13",
+   "start": "2026-11-14T02:30:00.000Z",
+   "status": "scheduled",
+   "statusText": "Scheduled",
+   "home": {
+    "id": 37,
+    "name": "San Antonio Spurs",
+    "short": "Spurs",
+    "abbr": "SA",
+    "logo": "https://highlightly.net/nba/images/teams/37.png",
+    "score": null
+   },
+   "away": {
+    "id": 43,
+    "name": "Golden State Warriors",
+    "short": "Warriors",
+    "abbr": "GS",
+    "logo": "https://highlightly.net/nba/images/teams/43.png",
+    "score": null
+   },
+   "players": []
+  },
+  {
+   "id": 1567217,
+   "date": "2026-11-13",
+   "start": "2026-11-14T01:30:00.000Z",
+   "status": "scheduled",
+   "statusText": "Scheduled",
+   "home": {
+    "id": 28,
+    "name": "Houston Rockets",
+    "short": "Rockets",
+    "abbr": "HOU",
+    "logo": "https://highlightly.net/nba/images/teams/28.png",
+    "score": null
+   },
+   "away": {
+    "id": 45,
+    "name": "Utah Jazz",
+    "short": "Jazz",
+    "abbr": "UTAH",
+    "logo": "https://highlightly.net/nba/images/teams/45.png",
+    "score": null
+   },
+   "players": []
+  },
+  {
+   "id": 1567216,
+   "date": "2026-11-13",
+   "start": "2026-11-14T01:00:00.000Z",
+   "status": "scheduled",
+   "statusText": "Scheduled",
+   "home": {
+    "id": 64,
+    "name": "New Orleans Pelicans",
+    "short": "Pelicans",
+    "abbr": "NO",
+    "logo": "https://highlightly.net/nba/images/teams/64.png",
+    "score": null
+   },
+   "away": {
+    "id": 42,
+    "name": "Memphis Grizzlies",
+    "short": "Grizzlies",
+    "abbr": "MEM",
+    "logo": "https://highlightly.net/nba/images/teams/42.png",
+    "score": null
+   },
+   "players": []
+  },
+  {
+   "id": 1567215,
+   "date": "2026-11-13",
+   "start": "2026-11-14T01:00:00.000Z",
+   "status": "scheduled",
+   "statusText": "Scheduled",
+   "home": {
+    "id": 27,
+    "name": "Chicago Bulls",
+    "short": "Bulls",
+    "abbr": "CHI",
+    "logo": "https://highlightly.net/nba/images/teams/27.png",
+    "score": null
+   },
+   "away": {
+    "id": 23,
+    "name": "Atlanta Hawks",
+    "short": "Hawks",
+    "abbr": "ATL",
+    "logo": "https://highlightly.net/nba/images/teams/23.png",
+    "score": null
+   },
+   "players": []
+  },
+  {
+   "id": 1567214,
+   "date": "2026-11-13",
+   "start": "2026-11-14T01:00:00.000Z",
+   "status": "scheduled",
+   "statusText": "Scheduled",
+   "home": {
+    "id": 1,
+    "name": "Miami Heat",
+    "short": "Heat",
+    "abbr": "MIA",
+    "logo": "https://highlightly.net/nba/images/teams/1.png",
+    "score": null
+   },
+   "away": {
+    "id": 35,
+    "name": "Cleveland Cavaliers",
+    "short": "Cavaliers",
+    "abbr": "CLE",
+    "logo": "https://highlightly.net/nba/images/teams/35.png",
+    "score": null
+   },
+   "players": []
+  },
+  {
+   "id": 1567213,
+   "date": "2026-11-13",
+   "start": "2026-11-14T00:00:00.000Z",
+   "status": "scheduled",
+   "statusText": "Scheduled",
+   "home": {
+    "id": 24,
+    "name": "Orlando Magic",
+    "short": "Magic",
+    "abbr": "ORL",
+    "logo": "https://highlightly.net/nba/images/teams/24.png",
+    "score": null
+   },
+   "away": {
+    "id": 39,
+    "name": "Milwaukee Bucks",
+    "short": "Bucks",
+    "abbr": "MIL",
+    "logo": "https://highlightly.net/nba/images/teams/39.png",
+    "score": null
+   },
+   "players": []
+  },
+  {
+   "id": 1567212,
+   "date": "2026-11-13",
+   "start": "2026-11-14T00:00:00.000Z",
+   "status": "scheduled",
+   "statusText": "Scheduled",
+   "home": {
+    "id": 36,
+    "name": "Indiana Pacers",
+    "short": "Pacers",
+    "abbr": "IND",
+    "logo": "https://highlightly.net/nba/images/teams/36.png",
+    "score": null
+   },
+   "away": {
+    "id": 26,
+    "name": "New York Knicks",
+    "short": "Knicks",
+    "abbr": "NY",
+    "logo": "https://highlightly.net/nba/images/teams/26.png",
+    "score": null
+   },
+   "players": []
+  }
+ ]
+}

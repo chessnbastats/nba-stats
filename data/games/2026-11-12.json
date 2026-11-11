@@ -1,0 +1,104 @@
+{
+ "date": "2026-11-12",
+ "demo": false,
+ "complete": false,
+ "updatedAt": "2026-11-11T17:41:09.677Z",
+ "games": [
+  {
+   "id": 1564270,
+   "date": "2026-11-12",
+   "start": "2026-11-13T02:00:00.000Z",
+   "status": "scheduled",
+   "statusText": "Scheduled",
+   "home": {
+    "id": 46,
+    "name": "Phoenix Suns",
+    "short": "Suns",
+    "abbr": "PHX",
+    "logo": "https://highlightly.net/nba/images/teams/46.png",
+    "score": null
+   },
+   "away": {
+    "id": 33,
+    "name": "Charlotte Hornets",
+    "short": "Hornets",
+    "abbr": "CHA",
+    "logo": "https://highlightly.net/nba/images/teams/33.png",
+    "score": null
+   },
+   "players": []
+  },
+  {
+   "id": 1564269,
+   "date": "2026-11-12",
+   "start": "2026-11-13T01:00:00.000Z",
+   "status": "scheduled",
+   "statusText": "Scheduled",
+   "home": {
+    "id": 41,
+    "name": "Minnesota Timberwolves",
+    "short": "Timberwolves",
+    "abbr": "MIN",
+    "logo": "https://highlightly.net/nba/images/teams/41.png",
+    "score": null
+   },
+   "away": {
+    "id": 40,
+    "name": "Dallas Mavericks",
+    "short": "Mavericks",
+    "abbr": "DAL",
+    "logo": "https://highlightly.net/nba/images/teams/40.png",
+    "score": null
+   },
+   "players": []
+  },
+  {
+   "id": 1564268,
+   "date": "2026-11-12",
+   "start": "2026-11-13T00:00:00.000Z",
+   "status": "scheduled",
+   "statusText": "Scheduled",
+   "home": {
+    "id": 50,
+    "name": "Washington Wizards",
+    "short": "Wizards",
+    "abbr": "WSH",
+    "logo": "https://highlightly.net/nba/images/teams/50.png",
+    "score": null
+   },
+   "away": {
+    "id": 25,
+    "name": "Detroit Pistons",
+    "short": "Pistons",
+    "abbr": "DET",
+    "logo": "https://highlightly.net/nba/images/teams/25.png",
+    "score": null
+   },
+   "players": []
+  },
+  {
+   "id": 1564267,
+   "date": "2026-11-12",
+   "start": "2026-11-13T00:00:00.000Z",
+   "status": "scheduled",
+   "statusText": "Scheduled",
+   "home": {
+    "id": 71,
+    "name": "Philadelphia 76ers",
+    "short": "76ers",
+    "abbr": "PHI",
+    "logo": "https://highlightly.net/nba/images/teams/71.png",
+    "score": null
+   },
+   "away": {
+    "id": 34,
+    "name": "Toronto Raptors",
+    "short": "Raptors",
+    "abbr": "TOR",
+    "logo": "https://highlightly.net/nba/images/teams/34.png",
+    "score": null
+   },
+   "players": []
+  }
+ ]
+}
