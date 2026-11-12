@@ -157,7 +157,6 @@ async function updatePositions() {
     let changed = false;
     for (const g of file.games) {
       if (g.status !== 'final' || !g.players?.length || g.lineupDone) continue;
-      if (!g.players.some(p => !positions[p.id])) continue;
       if (calls >= MAX_LINEUPS || MAX_REQUESTS - used < 1) { if (changed) await writeJson(`${DIR}/${f}`, file); await writeJson(path, positions); return found; }
       calls++;
       const res = await api(`/lineups/${g.id}`);
@@ -172,7 +171,16 @@ async function updatePositions() {
       for (const p of g.players) {
         const l = list.find(x => x.ids.includes(p.id)) ?? list.find(x => normName(x.name) === normName(p.name));
         if (!l) continue;
-        if (l.pos) { positions[p.id] = { pos: l.pos, name: p.name }; found++; }
+        if (l.pos) {
+          // La API da el puesto de ese partido (a veces un pivote figura como base):
+          // se cuentan todos los partidos y queda el puesto más repetido.
+          const prev = positions[p.id];
+          const n = prev?.n ?? (prev ? { [prev.pos]: 1 } : {});
+          n[l.pos] = (n[l.pos] ?? 0) + 1;
+          const pos = Object.entries(n).sort((a, b) => b[1] - a[1])[0][0];
+          if (!prev) found++;
+          positions[p.id] = { pos, name: p.name, n };
+        }
         p.starter = l.starter;
       }
       g.lineupDone = true;
