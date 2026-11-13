@@ -1314,7 +1314,8 @@
      "oreb": 0,
      "dreb": 12,
      "pf": 4,
-     "pm": 3
+     "pm": 3,
+     "starter": true
     },
     {
      "id": 66490652,
@@ -1337,7 +1338,8 @@
      "oreb": 3,
      "dreb": 4,
      "pf": 3,
-     "pm": 10
+     "pm": 10,
+     "starter": true
     },
     {
      "id": 73068227,
@@ -1360,7 +1362,8 @@
      "oreb": 5,
      "dreb": 7,
      "pf": 4,
-     "pm": -3
+     "pm": -3,
+     "starter": true
     },
     {
      "id": 44869517,
@@ -1383,7 +1386,8 @@
      "oreb": 1,
      "dreb": 0,
      "pf": 2,
-     "pm": 1
+     "pm": 1,
+     "starter": true
     },
     {
      "id": 70272167,
@@ -1406,7 +1410,8 @@
      "oreb": 3,
      "dreb": 6,
      "pf": 1,
-     "pm": 1
+     "pm": 1,
+     "starter": true
     },
     {
      "id": 66498947,
@@ -1429,7 +1434,8 @@
      "oreb": 1,
      "dreb": 4,
      "pf": 3,
-     "pm": 18
+     "pm": 18,
+     "starter": false
     },
     {
      "id": 68893922,
@@ -1452,7 +1458,8 @@
      "oreb": 0,
      "dreb": 0,
      "pf": 0,
-     "pm": -2
+     "pm": -2,
+     "starter": false
     },
     {
      "id": 44865947,
@@ -1475,7 +1482,8 @@
      "oreb": 1,
      "dreb": 1,
      "pf": 2,
-     "pm": 6
+     "pm": 6,
+     "starter": false
     },
     {
      "id": 45567902,
@@ -1498,7 +1506,8 @@
      "oreb": 1,
      "dreb": 2,
      "pf": 1,
-     "pm": 7
+     "pm": 7,
+     "starter": false
     },
     {
      "id": 70670147,
@@ -1521,7 +1530,8 @@
      "oreb": 0,
      "dreb": 0,
      "pf": 1,
-     "pm": 11
+     "pm": 11,
+     "starter": false
     },
     {
      "id": 76588622,
@@ -1544,25 +1554,29 @@
      "oreb": 0,
      "dreb": 0,
      "pf": 0,
-     "pm": -2
+     "pm": -2,
+     "starter": false
     },
     {
      "id": 47052722,
      "name": "Jae'Sean Tate",
      "jersey": 8,
-     "teamId": 28
+     "teamId": 28,
+     "starter": false
     },
     {
      "id": 44869592,
      "name": "Steven Adams",
      "jersey": 12,
-     "teamId": 28
+     "teamId": 28,
+     "starter": false
     },
     {
      "id": 46539002,
      "name": "Clint Capela",
      "jersey": 30,
-     "teamId": 28
+     "teamId": 28,
+     "starter": false
     },
     {
      "id": 45965417,
@@ -1585,7 +1599,8 @@
      "oreb": 2,
      "dreb": 3,
      "pf": 5,
-     "pm": 6
+     "pm": 6,
+     "starter": true
     },
     {
      "id": 47074007,
@@ -1608,7 +1623,8 @@
      "oreb": 0,
      "dreb": 2,
      "pf": 3,
-     "pm": -2
+     "pm": -2,
+     "starter": true
     },
     {
      "id": 46686092,
@@ -1631,7 +1647,8 @@
      "oreb": 2,
      "dreb": 14,
      "pf": 4,
-     "pm": -2
+     "pm": -2,
+     "starter": true
     },
     {
      "id": 59045552,
@@ -1654,7 +1671,8 @@
      "oreb": 0,
      "dreb": 2,
      "pf": 0,
-     "pm": 1
+     "pm": 1,
+     "starter": true
     },
     {
      "id": 66477572,
@@ -1677,7 +1695,8 @@
      "oreb": 0,
      "dreb": 5,
      "pf": 1,
-     "pm": -1
+     "pm": -1,
+     "starter": true
     },
     {
      "id": 60988262,
@@ -1700,7 +1719,8 @@
      "oreb": 0,
      "dreb": 0,
      "pf": 0,
-     "pm": 2
+     "pm": 2,
+     "starter": false
     },
     {
      "id": 64168787,
@@ -1723,7 +1743,8 @@
      "oreb": 2,
      "dreb": 1,
      "pf": 2,
-     "pm": -7
+     "pm": -7,
+     "starter": false
     },
     {
      "id": 66505172,
@@ -1746,7 +1767,8 @@
      "oreb": 0,
      "dreb": 0,
      "pf": 0,
-     "pm": 2
+     "pm": 2,
+     "starter": false
     },
     {
      "id": 68486537,
@@ -1769,7 +1791,8 @@
      "oreb": 0,
      "dreb": 0,
      "pf": 0,
-     "pm": 0
+     "pm": 0,
+     "starter": false
     },
     {
      "id": 68887472,
@@ -1792,7 +1815,8 @@
      "oreb": 0,
      "dreb": 0,
      "pf": 1,
-     "pm": -19
+     "pm": -19,
+     "starter": false
     },
     {
      "id": 70481852,
@@ -1815,7 +1839,8 @@
      "oreb": 1,
      "dreb": 1,
      "pf": 0,
-     "pm": -3
+     "pm": -3,
+     "starter": false
     },
     {
      "id": 60737,
@@ -1838,7 +1863,8 @@
      "oreb": 0,
      "dreb": 4,
      "pf": 2,
-     "pm": -16
+     "pm": -16,
+     "starter": false
     },
     {
      "id": 47026757,
@@ -1861,15 +1887,18 @@
      "oreb": 0,
      "dreb": 0,
      "pf": 0,
-     "pm": -11
+     "pm": -11,
+     "starter": false
     },
     {
      "id": 66476417,
      "name": "Zeke Nnaji",
      "jersey": 22,
-     "teamId": 3
+     "teamId": 3,
+     "starter": false
     }
-   ]
+   ],
+   "lineupDone": true
   },
   {
    "id": 1558010,

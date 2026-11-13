@@ -634,7 +634,8 @@
      "oreb": 6,
      "dreb": 11,
      "pf": 1,
-     "pm": -17
+     "pm": -17,
+     "starter": true
     },
     {
      "id": 60987047,
@@ -657,7 +658,8 @@
      "oreb": 1,
      "dreb": 1,
      "pf": 3,
-     "pm": -15
+     "pm": -15,
+     "starter": true
     },
     {
      "id": 66476252,
@@ -680,7 +682,8 @@
      "oreb": 0,
      "dreb": 3,
      "pf": 1,
-     "pm": 0
+     "pm": 0,
+     "starter": true
     },
     {
      "id": 45967667,
@@ -703,7 +706,8 @@
      "oreb": 1,
      "dreb": 3,
      "pf": 5,
-     "pm": -5
+     "pm": -5,
+     "starter": true
     },
     {
      "id": 77140367,
@@ -726,7 +730,8 @@
      "oreb": 0,
      "dreb": 3,
      "pf": 2,
-     "pm": -8
+     "pm": -8,
+     "starter": true
     },
     {
      "id": 65935817,
@@ -749,7 +754,8 @@
      "oreb": 2,
      "dreb": 4,
      "pf": 4,
-     "pm": -15
+     "pm": -15,
+     "starter": false
     },
     {
      "id": 66498677,
@@ -772,7 +778,8 @@
      "oreb": 4,
      "dreb": 2,
      "pf": 1,
-     "pm": 4
+     "pm": 4,
+     "starter": false
     },
     {
      "id": 60994997,
@@ -795,7 +802,8 @@
      "oreb": 0,
      "dreb": 2,
      "pf": 3,
-     "pm": -4
+     "pm": -4,
+     "starter": false
     },
     {
      "id": 70536827,
@@ -818,7 +826,8 @@
      "oreb": 0,
      "dreb": 2,
      "pf": 1,
-     "pm": -5
+     "pm": -5,
+     "starter": false
     },
     {
      "id": 76591937,
@@ -841,19 +850,22 @@
      "oreb": 1,
      "dreb": 0,
      "pf": 3,
-     "pm": 0
+     "pm": 0,
+     "starter": false
     },
     {
      "id": 73758302,
      "name": "Alex Karaban",
      "jersey": 33,
-     "teamId": 32
+     "teamId": 32,
+     "starter": false
     },
     {
      "id": 76619522,
      "name": "Jonathan Mogbo",
      "jersey": 22,
-     "teamId": 32
+     "teamId": 32,
+     "starter": false
     },
     {
      "id": 68891432,
@@ -876,7 +888,8 @@
      "oreb": 1,
      "dreb": 1,
      "pf": 4,
-     "pm": 3
+     "pm": 3,
+     "starter": true
     },
     {
      "id": 66498107,
@@ -899,7 +912,8 @@
      "oreb": 3,
      "dreb": 5,
      "pf": 6,
-     "pm": -1
+     "pm": -1,
+     "starter": true
     },
     {
      "id": 58613537,
@@ -922,7 +936,8 @@
      "oreb": 1,
      "dreb": 0,
      "pf": 0,
-     "pm": -4
+     "pm": -4,
+     "starter": true
     },
     {
      "id": 59180177,
@@ -945,7 +960,8 @@
      "oreb": 0,
      "dreb": 9,
      "pf": 1,
-     "pm": 11
+     "pm": 11,
+     "starter": true
     },
     {
      "id": 60997922,
@@ -968,7 +984,8 @@
      "oreb": 1,
      "dreb": 2,
      "pf": 0,
-     "pm": 14
+     "pm": 14,
+     "starter": true
     },
     {
      "id": 47334092,
@@ -991,7 +1008,8 @@
      "oreb": 0,
      "dreb": 0,
      "pf": 0,
-     "pm": 3
+     "pm": 3,
+     "starter": false
     },
     {
      "id": 64172222,
@@ -1014,7 +1032,8 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 2,
-     "pm": 1
+     "pm": 1,
+     "starter": false
     },
     {
      "id": 64179767,
@@ -1037,7 +1056,8 @@
      "oreb": 2,
      "dreb": 4,
      "pf": 1,
-     "pm": 17
+     "pm": 17,
+     "starter": false
     },
     {
      "id": 66498122,
@@ -1060,7 +1080,8 @@
      "oreb": 0,
      "dreb": 4,
      "pf": 4,
-     "pm": 12
+     "pm": 12,
+     "starter": false
     },
     {
      "id": 68948987,
@@ -1083,7 +1104,8 @@
      "oreb": 0,
      "dreb": 0,
      "pf": 0,
-     "pm": -3
+     "pm": -3,
+     "starter": false
     },
     {
      "id": 64168232,
@@ -1106,7 +1128,8 @@
      "oreb": 2,
      "dreb": 1,
      "pf": 4,
-     "pm": 2
+     "pm": 2,
+     "starter": false
     },
     {
      "id": 65956277,
@@ -1129,7 +1152,8 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 1,
-     "pm": 19
+     "pm": 19,
+     "starter": false
     },
     {
      "id": 70257677,
@@ -1152,7 +1176,8 @@
      "oreb": 0,
      "dreb": 0,
      "pf": 0,
-     "pm": -3
+     "pm": -3,
+     "starter": false
     },
     {
      "id": 73027412,
@@ -1175,7 +1200,8 @@
      "oreb": 0,
      "dreb": 0,
      "pf": 0,
-     "pm": -3
+     "pm": -3,
+     "starter": false
     },
     {
      "id": 76710602,
@@ -1198,9 +1224,11 @@
      "oreb": 0,
      "dreb": 0,
      "pf": 0,
-     "pm": -3
+     "pm": -3,
+     "starter": false
     }
-   ]
+   ],
+   "lineupDone": true
   },
   {
    "id": 1551037,
@@ -1246,7 +1274,8 @@
      "oreb": 9,
      "dreb": 15,
      "pf": 2,
-     "pm": 23
+     "pm": 23,
+     "starter": true
     },
     {
      "id": 60994952,
@@ -1269,7 +1298,8 @@
      "oreb": 0,
      "dreb": 3,
      "pf": 0,
-     "pm": 12
+     "pm": 12,
+     "starter": true
     },
     {
      "id": 65935517,
@@ -1292,7 +1322,8 @@
      "oreb": 2,
      "dreb": 5,
      "pf": 1,
-     "pm": 2
+     "pm": 2,
+     "starter": true
     },
     {
      "id": 72681572,
@@ -1315,7 +1346,8 @@
      "oreb": 3,
      "dreb": 7,
      "pf": 3,
-     "pm": 1
+     "pm": 1,
+     "starter": true
     },
     {
      "id": 75569132,
@@ -1338,7 +1370,8 @@
      "oreb": 1,
      "dreb": 4,
      "pf": 3,
-     "pm": 8
+     "pm": 8,
+     "starter": true
     },
     {
      "id": 99737,
@@ -1361,7 +1394,8 @@
      "oreb": 2,
      "dreb": 0,
      "pf": 0,
-     "pm": -2
+     "pm": -2,
+     "starter": false
     },
     {
      "id": 65936912,
@@ -1384,7 +1418,8 @@
      "oreb": 3,
      "dreb": 2,
      "pf": 2,
-     "pm": -13
+     "pm": -13,
+     "starter": false
     },
     {
      "id": 68888252,
@@ -1407,7 +1442,8 @@
      "oreb": 1,
      "dreb": 3,
      "pf": 5,
-     "pm": -4
+     "pm": -4,
+     "starter": false
     },
     {
      "id": 45969467,
@@ -1430,25 +1466,29 @@
      "oreb": 1,
      "dreb": 0,
      "pf": 4,
-     "pm": -22
+     "pm": -22,
+     "starter": false
     },
     {
      "id": 75924587,
      "name": "Carter Bryant",
      "jersey": 11,
-     "teamId": 37
+     "teamId": 37,
+     "starter": false
     },
     {
      "id": 76588202,
      "name": "Tarris Reed Jr.",
      "jersey": 10,
-     "teamId": 37
+     "teamId": 37,
+     "starter": false
     },
     {
      "id": 47024807,
      "name": "Jordan McLaughlin",
      "jersey": 0,
-     "teamId": 37
+     "teamId": 37,
+     "starter": false
     },
     {
      "id": 64171802,
@@ -1471,7 +1511,8 @@
      "oreb": 1,
      "dreb": 3,
      "pf": 2,
-     "pm": -4
+     "pm": -4,
+     "starter": true
     },
     {
      "id": 64172237,
@@ -1494,7 +1535,8 @@
      "oreb": 4,
      "dreb": 6,
      "pf": 2,
-     "pm": 0
+     "pm": 0,
+     "starter": true
     },
     {
      "id": 75630152,
@@ -1517,7 +1559,8 @@
      "oreb": 5,
      "dreb": 5,
      "pf": 3,
-     "pm": 2
+     "pm": 2,
+     "starter": true
     },
     {
      "id": 78168692,
@@ -1540,7 +1583,8 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 3,
-     "pm": -7
+     "pm": -7,
+     "starter": true
     },
     {
      "id": 97697,
@@ -1563,7 +1607,8 @@
      "oreb": 1,
      "dreb": 6,
      "pf": 2,
-     "pm": -4
+     "pm": -4,
+     "starter": true
     },
     {
      "id": 47073467,
@@ -1586,7 +1631,8 @@
      "oreb": 1,
      "dreb": 2,
      "pf": 4,
-     "pm": 2
+     "pm": 2,
+     "starter": false
     },
     {
      "id": 64179977,
@@ -1609,7 +1655,8 @@
      "oreb": 2,
      "dreb": 3,
      "pf": 3,
-     "pm": 5
+     "pm": 5,
+     "starter": false
     },
     {
      "id": 73098362,
@@ -1632,7 +1679,8 @@
      "oreb": 1,
      "dreb": 2,
      "pf": 4,
-     "pm": 1
+     "pm": 1,
+     "starter": false
     },
     {
      "id": 66482672,
@@ -1655,7 +1703,8 @@
      "oreb": 1,
      "dreb": 0,
      "pf": 1,
-     "pm": -3
+     "pm": -3,
+     "starter": false
     },
     {
      "id": 73446647,
@@ -1678,27 +1727,32 @@
      "oreb": 2,
      "dreb": 4,
      "pf": 3,
-     "pm": 3
+     "pm": 3,
+     "starter": false
     },
     {
      "id": 76591667,
      "name": "Tobi Lawal",
      "jersey": 33,
-     "teamId": 40
+     "teamId": 40,
+     "starter": false
     },
     {
      "id": 70519187,
      "name": "Moussa Cisse",
      "jersey": 30,
-     "teamId": 40
+     "teamId": 40,
+     "starter": false
     },
     {
      "id": 76588157,
      "name": "Jett Howard",
      "jersey": 9,
-     "teamId": 40
+     "teamId": 40,
+     "starter": false
     }
-   ]
+   ],
+   "lineupDone": true
   },
   {
    "id": 1551036,
@@ -2394,7 +2448,8 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 2,
-     "pm": 9
+     "pm": 9,
+     "starter": true
     },
     {
      "id": 47074007,
@@ -2417,7 +2472,8 @@
      "oreb": 0,
      "dreb": 2,
      "pf": 1,
-     "pm": 20
+     "pm": 20,
+     "starter": true
     },
     {
      "id": 46686092,
@@ -2440,7 +2496,8 @@
      "oreb": 3,
      "dreb": 7,
      "pf": 3,
-     "pm": 25
+     "pm": 25,
+     "starter": true
     },
     {
      "id": 59045552,
@@ -2463,7 +2520,8 @@
      "oreb": 1,
      "dreb": 4,
      "pf": 2,
-     "pm": 16
+     "pm": 16,
+     "starter": true
     },
     {
      "id": 66477572,
@@ -2486,7 +2544,8 @@
      "oreb": 0,
      "dreb": 3,
      "pf": 1,
-     "pm": 22
+     "pm": 22,
+     "starter": true
     },
     {
      "id": 60988262,
@@ -2509,7 +2568,8 @@
      "oreb": 0,
      "dreb": 0,
      "pf": 1,
-     "pm": -7
+     "pm": -7,
+     "starter": false
     },
     {
      "id": 64168787,
@@ -2532,7 +2592,8 @@
      "oreb": 1,
      "dreb": 1,
      "pf": 1,
-     "pm": 1
+     "pm": 1,
+     "starter": false
     },
     {
      "id": 66476417,
@@ -2555,7 +2616,8 @@
      "oreb": 0,
      "dreb": 0,
      "pf": 1,
-     "pm": -7
+     "pm": -7,
+     "starter": false
     },
     {
      "id": 66505172,
@@ -2578,7 +2640,8 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 1,
-     "pm": -7
+     "pm": -7,
+     "starter": false
     },
     {
      "id": 68486537,
@@ -2601,7 +2664,8 @@
      "oreb": 0,
      "dreb": 4,
      "pf": 2,
-     "pm": 11
+     "pm": 11,
+     "starter": false
     },
     {
      "id": 70481852,
@@ -2624,7 +2688,8 @@
      "oreb": 2,
      "dreb": 5,
      "pf": 2,
-     "pm": 15
+     "pm": 15,
+     "starter": false
     },
     {
      "id": 47026757,
@@ -2647,7 +2712,8 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 0,
-     "pm": 4
+     "pm": 4,
+     "starter": false
     },
     {
      "id": 66505502,
@@ -2670,13 +2736,15 @@
      "oreb": 0,
      "dreb": 0,
      "pf": 1,
-     "pm": -7
+     "pm": -7,
+     "starter": false
     },
     {
      "id": 60737,
      "name": "DeMar DeRozan",
      "jersey": 10,
-     "teamId": 3
+     "teamId": 3,
+     "starter": false
     },
     {
      "id": 65935442,
@@ -2699,7 +2767,8 @@
      "oreb": 2,
      "dreb": 3,
      "pf": 4,
-     "pm": -15
+     "pm": -15,
+     "starter": true
     },
     {
      "id": 66498077,
@@ -2722,7 +2791,8 @@
      "oreb": 1,
      "dreb": 5,
      "pf": 1,
-     "pm": -23
+     "pm": -23,
+     "starter": true
     },
     {
      "id": 76400072,
@@ -2745,7 +2815,8 @@
      "oreb": 2,
      "dreb": 1,
      "pf": 3,
-     "pm": -4
+     "pm": -4,
+     "starter": true
     },
     {
      "id": 65936927,
@@ -2768,7 +2839,8 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 2,
-     "pm": -29
+     "pm": -29,
+     "starter": true
     },
     {
      "id": 70265147,
@@ -2791,7 +2863,8 @@
      "oreb": 1,
      "dreb": 0,
      "pf": 1,
-     "pm": -9
+     "pm": -9,
+     "starter": true
     },
     {
      "id": 44909177,
@@ -2814,7 +2887,8 @@
      "oreb": 0,
      "dreb": 0,
      "pf": 1,
-     "pm": 7
+     "pm": 7,
+     "starter": false
     },
     {
      "id": 66476327,
@@ -2837,7 +2911,8 @@
      "oreb": 0,
      "dreb": 0,
      "pf": 0,
-     "pm": 7
+     "pm": 7,
+     "starter": false
     },
     {
      "id": 66479462,
@@ -2860,7 +2935,8 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 2,
-     "pm": -14
+     "pm": -14,
+     "starter": false
     },
     {
      "id": 77237792,
@@ -2883,7 +2959,8 @@
      "oreb": 1,
      "dreb": 0,
      "pf": 2,
-     "pm": 5
+     "pm": 5,
+     "starter": false
     },
     {
      "id": 47024687,
@@ -2906,7 +2983,8 @@
      "oreb": 1,
      "dreb": 4,
      "pf": 4,
-     "pm": -11
+     "pm": -11,
+     "starter": false
     },
     {
      "id": 66484682,
@@ -2929,7 +3007,8 @@
      "oreb": 1,
      "dreb": 2,
      "pf": 2,
-     "pm": -17
+     "pm": -17,
+     "starter": false
     },
     {
      "id": 66492122,
@@ -2952,7 +3031,8 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 0,
-     "pm": 7
+     "pm": 7,
+     "starter": false
     },
     {
      "id": 70540907,
@@ -2975,9 +3055,11 @@
      "oreb": 1,
      "dreb": 0,
      "pf": 1,
-     "pm": 1
+     "pm": 1,
+     "starter": false
     }
-   ]
+   ],
+   "lineupDone": true
   },
   {
    "id": 1551034,
@@ -3023,7 +3105,8 @@
      "oreb": 1,
      "dreb": 4,
      "pf": 3,
-     "pm": -6
+     "pm": -6,
+     "starter": true
     },
     {
      "id": 66490652,
@@ -3046,7 +3129,8 @@
      "oreb": 1,
      "dreb": 3,
      "pf": 1,
-     "pm": -8
+     "pm": -8,
+     "starter": true
     },
     {
      "id": 73068227,
@@ -3069,7 +3153,8 @@
      "oreb": 3,
      "dreb": 9,
      "pf": 3,
-     "pm": -7
+     "pm": -7,
+     "starter": true
     },
     {
      "id": 44869517,
@@ -3092,7 +3177,8 @@
      "oreb": 1,
      "dreb": 2,
      "pf": 3,
-     "pm": -8
+     "pm": -8,
+     "starter": true
     },
     {
      "id": 70272167,
@@ -3115,7 +3201,8 @@
      "oreb": 5,
      "dreb": 3,
      "pf": 4,
-     "pm": -11
+     "pm": -11,
+     "starter": true
     },
     {
      "id": 66498947,
@@ -3138,7 +3225,8 @@
      "oreb": 3,
      "dreb": 3,
      "pf": 0,
-     "pm": -8
+     "pm": -8,
+     "starter": false
     },
     {
      "id": 66493472,
@@ -3161,7 +3249,8 @@
      "oreb": 0,
      "dreb": 0,
      "pf": 0,
-     "pm": 3
+     "pm": 3,
+     "starter": false
     },
     {
      "id": 44865947,
@@ -3184,7 +3273,8 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 4,
-     "pm": -7
+     "pm": -7,
+     "starter": false
     },
     {
      "id": 45567902,
@@ -3207,7 +3297,8 @@
      "oreb": 0,
      "dreb": 0,
      "pf": 0,
-     "pm": 0
+     "pm": 0,
+     "starter": false
     },
     {
      "id": 70670147,
@@ -3230,37 +3321,43 @@
      "oreb": 0,
      "dreb": 2,
      "pf": 2,
-     "pm": 2
+     "pm": 2,
+     "starter": false
     },
     {
      "id": 47052722,
      "name": "Jae'Sean Tate",
      "jersey": 8,
-     "teamId": 28
+     "teamId": 28,
+     "starter": false
     },
     {
      "id": 68893922,
      "name": "Isaiah Crawford",
      "jersey": 27,
-     "teamId": 28
+     "teamId": 28,
+     "starter": false
     },
     {
      "id": 44869592,
      "name": "Steven Adams",
      "jersey": 12,
-     "teamId": 28
+     "teamId": 28,
+     "starter": false
     },
     {
      "id": 46539002,
      "name": "Clint Capela",
      "jersey": 30,
-     "teamId": 28
+     "teamId": 28,
+     "starter": false
     },
     {
      "id": 76588622,
      "name": "Bruce Thornton",
      "jersey": 2,
-     "teamId": 28
+     "teamId": 28,
+     "starter": false
     },
     {
      "id": 66476132,
@@ -3283,7 +3380,8 @@
      "oreb": 1,
      "dreb": 7,
      "pf": 4,
-     "pm": 9
+     "pm": 9,
+     "starter": true
     },
     {
      "id": 66499772,
@@ -3306,7 +3404,8 @@
      "oreb": 2,
      "dreb": 6,
      "pf": 2,
-     "pm": 6
+     "pm": 6,
+     "starter": true
     },
     {
      "id": 45495707,
@@ -3329,7 +3428,8 @@
      "oreb": 6,
      "dreb": 5,
      "pf": 4,
-     "pm": 11
+     "pm": 11,
+     "starter": true
     },
     {
      "id": 65956097,
@@ -3352,7 +3452,8 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 3,
-     "pm": 10
+     "pm": 10,
+     "starter": true
     },
     {
      "id": 66493307,
@@ -3375,7 +3476,8 @@
      "oreb": 0,
      "dreb": 2,
      "pf": 4,
-     "pm": 15
+     "pm": 15,
+     "starter": true
     },
     {
      "id": 47044007,
@@ -3398,7 +3500,8 @@
      "oreb": 1,
      "dreb": 1,
      "pf": 1,
-     "pm": 3
+     "pm": 3,
+     "starter": false
     },
     {
      "id": 79188062,
@@ -3421,7 +3524,8 @@
      "oreb": 2,
      "dreb": 5,
      "pf": 1,
-     "pm": -2
+     "pm": -2,
+     "starter": false
     },
     {
      "id": 66484772,
@@ -3444,7 +3548,8 @@
      "oreb": 3,
      "dreb": 1,
      "pf": 3,
-     "pm": -1
+     "pm": -1,
+     "starter": false
     },
     {
      "id": 68888447,
@@ -3467,33 +3572,39 @@
      "oreb": 0,
      "dreb": 2,
      "pf": 3,
-     "pm": -1
+     "pm": -1,
+     "starter": false
     },
     {
      "id": 73437437,
      "name": "Cody Williams",
      "jersey": 9,
-     "teamId": 41
+     "teamId": 41,
+     "starter": false
     },
     {
      "id": 75924842,
      "name": "Isaiah Evans",
      "jersey": 33,
-     "teamId": 41
+     "teamId": 41,
+     "starter": false
     },
     {
      "id": 77364872,
      "name": "Rocco Zikarsky",
      "jersey": 44,
-     "teamId": 41
+     "teamId": 41,
+     "starter": false
     },
     {
      "id": 68895752,
      "name": "Zyon Pullin",
      "jersey": 15,
-     "teamId": 41
+     "teamId": 41,
+     "starter": false
     }
-   ]
+   ],
+   "lineupDone": true
   },
   {
    "id": 1551033,
@@ -3539,7 +3650,8 @@
      "oreb": 1,
      "dreb": 11,
      "pf": 2,
-     "pm": 3
+     "pm": 3,
+     "starter": true
     },
     {
      "id": 77625812,
@@ -3562,7 +3674,8 @@
      "oreb": 1,
      "dreb": 4,
      "pf": 2,
-     "pm": 6
+     "pm": 6,
+     "starter": true
     },
     {
      "id": 47005457,
@@ -3585,7 +3698,8 @@
      "oreb": 0,
      "dreb": 4,
      "pf": 2,
-     "pm": -4
+     "pm": -4,
+     "starter": true
     },
     {
      "id": 64172162,
@@ -3608,7 +3722,8 @@
      "oreb": 1,
      "dreb": 3,
      "pf": 2,
-     "pm": 5
+     "pm": 5,
+     "starter": true
     },
     {
      "id": 73511132,
@@ -3631,7 +3746,8 @@
      "oreb": 0,
      "dreb": 7,
      "pf": 1,
-     "pm": 2
+     "pm": 2,
+     "starter": true
     },
     {
      "id": 44871317,
@@ -3654,7 +3770,8 @@
      "oreb": 1,
      "dreb": 3,
      "pf": 1,
-     "pm": 16
+     "pm": 16,
+     "starter": false
     },
     {
      "id": 66483842,
@@ -3677,7 +3794,8 @@
      "oreb": 4,
      "dreb": 5,
      "pf": 5,
-     "pm": 5
+     "pm": 5,
+     "starter": false
     },
     {
      "id": 70257737,
@@ -3700,7 +3818,8 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 2,
-     "pm": 2
+     "pm": 2,
+     "starter": false
     },
     {
      "id": 76588067,
@@ -3723,7 +3842,8 @@
      "oreb": 0,
      "dreb": 0,
      "pf": 0,
-     "pm": 0
+     "pm": 0,
+     "starter": false
     },
     {
      "id": 78621527,
@@ -3746,19 +3866,22 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 1,
-     "pm": 5
+     "pm": 5,
+     "starter": false
     },
     {
      "id": 70264187,
      "name": "Brooks Barnhizer",
      "jersey": 23,
-     "teamId": 38
+     "teamId": 38,
+     "starter": false
     },
     {
      "id": 66498452,
      "name": "Dalen Terry",
      "jersey": null,
-     "teamId": 38
+     "teamId": 38,
+     "starter": false
     },
     {
      "id": 60995987,
@@ -3781,7 +3904,8 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 0,
-     "pm": -8
+     "pm": -8,
+     "starter": true
     },
     {
      "id": 66483437,
@@ -3804,7 +3928,8 @@
      "oreb": 3,
      "dreb": 7,
      "pf": 3,
-     "pm": -1
+     "pm": -1,
+     "starter": true
     },
     {
      "id": 60947,
@@ -3827,7 +3952,8 @@
      "oreb": 1,
      "dreb": 8,
      "pf": 1,
-     "pm": 0
+     "pm": 0,
+     "starter": true
     },
     {
      "id": 58633202,
@@ -3850,7 +3976,8 @@
      "oreb": 0,
      "dreb": 3,
      "pf": 5,
-     "pm": 1
+     "pm": 1,
+     "starter": true
     },
     {
      "id": 75356462,
@@ -3873,7 +4000,8 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 3,
-     "pm": -2
+     "pm": -2,
+     "starter": true
     },
     {
      "id": 44936657,
@@ -3896,7 +4024,8 @@
      "oreb": 2,
      "dreb": 6,
      "pf": 2,
-     "pm": -8
+     "pm": -8,
+     "starter": false
     },
     {
      "id": 66477077,
@@ -3919,7 +4048,8 @@
      "oreb": 1,
      "dreb": 3,
      "pf": 1,
-     "pm": -1
+     "pm": -1,
+     "starter": false
     },
     {
      "id": 59021912,
@@ -3942,7 +4072,8 @@
      "oreb": 0,
      "dreb": 0,
      "pf": 2,
-     "pm": -5
+     "pm": -5,
+     "starter": false
     },
     {
      "id": 61002422,
@@ -3965,7 +4096,8 @@
      "oreb": 2,
      "dreb": 5,
      "pf": 5,
-     "pm": -5
+     "pm": -5,
+     "starter": false
     },
     {
      "id": 70519562,
@@ -3988,7 +4120,8 @@
      "oreb": 1,
      "dreb": 0,
      "pf": 1,
-     "pm": -2
+     "pm": -2,
+     "starter": false
     },
     {
      "id": 75630332,
@@ -4011,15 +4144,18 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 6,
-     "pm": -9
+     "pm": -9,
+     "starter": false
     },
     {
      "id": 77661497,
      "name": "Riley Minix",
      "jersey": 12,
-     "teamId": 35
+     "teamId": 35,
+     "starter": false
     }
-   ]
+   ],
+   "lineupDone": true
   },
   {
    "id": 1551032,
@@ -4065,7 +4201,8 @@
      "oreb": 1,
      "dreb": 4,
      "pf": 4,
-     "pm": 23
+     "pm": 23,
+     "starter": true
     },
     {
      "id": 65935487,
@@ -4088,7 +4225,8 @@
      "oreb": 2,
      "dreb": 2,
      "pf": 4,
-     "pm": 7
+     "pm": 7,
+     "starter": true
     },
     {
      "id": 74964137,
@@ -4111,7 +4249,8 @@
      "oreb": 1,
      "dreb": 3,
      "pf": 3,
-     "pm": -9
+     "pm": -9,
+     "starter": true
     },
     {
      "id": 58613522,
@@ -4134,7 +4273,8 @@
      "oreb": 0,
      "dreb": 8,
      "pf": 2,
-     "pm": 17
+     "pm": 17,
+     "starter": true
     },
     {
      "id": 77162432,
@@ -4157,7 +4297,8 @@
      "oreb": 2,
      "dreb": 4,
      "pf": 4,
-     "pm": -2
+     "pm": -2,
+     "starter": true
     },
     {
      "id": 65958107,
@@ -4180,7 +4321,8 @@
      "oreb": 1,
      "dreb": 3,
      "pf": 1,
-     "pm": 0
+     "pm": 0,
+     "starter": false
     },
     {
      "id": 66476192,
@@ -4203,7 +4345,8 @@
      "oreb": 0,
      "dreb": 3,
      "pf": 4,
-     "pm": 7
+     "pm": 7,
+     "starter": false
     },
     {
      "id": 73047767,
@@ -4226,7 +4369,8 @@
      "oreb": 3,
      "dreb": 6,
      "pf": 2,
-     "pm": 2
+     "pm": 2,
+     "starter": false
     },
     {
      "id": 70255577,
@@ -4249,37 +4393,43 @@
      "oreb": 3,
      "dreb": 2,
      "pf": 2,
-     "pm": -10
+     "pm": -10,
+     "starter": false
     },
     {
      "id": 70257197,
      "name": "Julian Reese",
      "jersey": 13,
-     "teamId": 64
+     "teamId": 64,
+     "starter": false
     },
     {
      "id": 52697,
      "name": "DeAndre Jordan",
      "jersey": 6,
-     "teamId": 64
+     "teamId": 64,
+     "starter": false
     },
     {
      "id": 64170407,
      "name": "Jordan Poole",
      "jersey": 3,
-     "teamId": 64
+     "teamId": 64,
+     "starter": false
     },
     {
      "id": 68642357,
      "name": "Bryce McGowens",
      "jersey": 11,
-     "teamId": 64
+     "teamId": 64,
+     "starter": false
     },
     {
      "id": 77565272,
      "name": "AJ Johnson",
      "jersey": 14,
-     "teamId": 64
+     "teamId": 64,
+     "starter": false
     },
     {
      "id": 60996107,
@@ -4302,7 +4452,8 @@
      "oreb": 2,
      "dreb": 8,
      "pf": 4,
-     "pm": -11
+     "pm": -11,
+     "starter": true
     },
     {
      "id": 65957222,
@@ -4325,7 +4476,8 @@
      "oreb": 2,
      "dreb": 5,
      "pf": 6,
-     "pm": -13
+     "pm": -13,
+     "starter": true
     },
     {
      "id": 66505472,
@@ -4348,7 +4500,8 @@
      "oreb": 0,
      "dreb": 2,
      "pf": 3,
-     "pm": 0
+     "pm": 0,
+     "starter": true
     },
     {
      "id": 73098137,
@@ -4371,7 +4524,8 @@
      "oreb": 1,
      "dreb": 4,
      "pf": 6,
-     "pm": 0
+     "pm": 0,
+     "starter": true
     },
     {
      "id": 75630392,
@@ -4394,7 +4548,8 @@
      "oreb": 1,
      "dreb": 1,
      "pf": 1,
-     "pm": -12
+     "pm": -12,
+     "starter": true
     },
     {
      "id": 76588652,
@@ -4417,7 +4572,8 @@
      "oreb": 0,
      "dreb": 2,
      "pf": 0,
-     "pm": -14
+     "pm": -14,
+     "starter": false
     },
     {
      "id": 64169852,
@@ -4440,7 +4596,8 @@
      "oreb": 5,
      "dreb": 5,
      "pf": 3,
-     "pm": 8
+     "pm": 8,
+     "starter": false
     },
     {
      "id": 47005097,
@@ -4463,7 +4620,8 @@
      "oreb": 2,
      "dreb": 1,
      "pf": 2,
-     "pm": 12
+     "pm": 12,
+     "starter": false
     },
     {
      "id": 60986012,
@@ -4486,7 +4644,8 @@
      "oreb": 1,
      "dreb": 5,
      "pf": 5,
-     "pm": -12
+     "pm": -12,
+     "starter": false
     },
     {
      "id": 66493232,
@@ -4509,7 +4668,8 @@
      "oreb": 1,
      "dreb": 0,
      "pf": 2,
-     "pm": 4
+     "pm": 4,
+     "starter": false
     },
     {
      "id": 70257557,
@@ -4532,27 +4692,32 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 1,
-     "pm": 3
+     "pm": 3,
+     "starter": false
     },
     {
      "id": 70272962,
      "name": "Kyle Filipowski",
      "jersey": 2,
-     "teamId": 45
+     "teamId": 45,
+     "starter": false
     },
     {
      "id": 60986162,
      "name": "Tony Bradley",
      "jersey": 13,
-     "teamId": 45
+     "teamId": 45,
+     "starter": false
     },
     {
      "id": 70257107,
      "name": "Kobe Bufkin",
      "jersey": 4,
-     "teamId": 45
+     "teamId": 45,
+     "starter": false
     }
-   ]
+   ],
+   "lineupDone": true
   },
   {
    "id": 1551031,
@@ -4598,7 +4763,8 @@
      "oreb": 4,
      "dreb": 5,
      "pf": 0,
-     "pm": -2
+     "pm": -2,
+     "starter": true
     },
     {
      "id": 75630092,
@@ -4621,7 +4787,8 @@
      "oreb": 2,
      "dreb": 4,
      "pf": 0,
-     "pm": -4
+     "pm": -4,
+     "starter": true
     },
     {
      "id": 76682372,
@@ -4644,7 +4811,8 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 5,
-     "pm": 0
+     "pm": 0,
+     "starter": true
     },
     {
      "id": 69011012,
@@ -4667,7 +4835,8 @@
      "oreb": 3,
      "dreb": 10,
      "pf": 3,
-     "pm": 18
+     "pm": 18,
+     "starter": true
     },
     {
      "id": 60987062,
@@ -4690,7 +4859,8 @@
      "oreb": 0,
      "dreb": 4,
      "pf": 2,
-     "pm": 11
+     "pm": 11,
+     "starter": true
     },
     {
      "id": 44867117,
@@ -4713,7 +4883,8 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 2,
-     "pm": -11
+     "pm": -11,
+     "starter": false
     },
     {
      "id": 68915957,
@@ -4736,7 +4907,8 @@
      "oreb": 1,
      "dreb": 0,
      "pf": 0,
-     "pm": -3
+     "pm": -3,
+     "starter": false
     },
     {
      "id": 68932067,
@@ -4759,7 +4931,8 @@
      "oreb": 1,
      "dreb": 2,
      "pf": 0,
-     "pm": -4
+     "pm": -4,
+     "starter": false
     },
     {
      "id": 76584317,
@@ -4782,7 +4955,8 @@
      "oreb": 0,
      "dreb": 2,
      "pf": 1,
-     "pm": -7
+     "pm": -7,
+     "starter": false
     },
     {
      "id": 66493217,
@@ -4805,7 +4979,8 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 2,
-     "pm": -2
+     "pm": -2,
+     "starter": false
     },
     {
      "id": 68896307,
@@ -4828,7 +5003,8 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 2,
-     "pm": -11
+     "pm": -11,
+     "starter": false
     },
     {
      "id": 66497312,
@@ -4851,25 +5027,29 @@
      "oreb": 2,
      "dreb": 4,
      "pf": 1,
-     "pm": -5
+     "pm": -5,
+     "starter": false
     },
     {
      "id": 70273157,
      "name": "Taylor Hendricks",
      "jersey": 22,
-     "teamId": 42
+     "teamId": 42,
+     "starter": false
     },
     {
      "id": 78479852,
      "name": "Karim Lopez",
      "jersey": 35,
-     "teamId": 42
+     "teamId": 42,
+     "starter": false
     },
     {
      "id": 70260077,
      "name": "Jahmai Mashack",
      "jersey": 21,
-     "teamId": 42
+     "teamId": 42,
+     "starter": false
     },
     {
      "id": 47246162,
@@ -4892,7 +5072,8 @@
      "oreb": 0,
      "dreb": 4,
      "pf": 3,
-     "pm": 3
+     "pm": 3,
+     "starter": true
     },
     {
      "id": 60268622,
@@ -4915,7 +5096,8 @@
      "oreb": 2,
      "dreb": 2,
      "pf": 1,
-     "pm": -22
+     "pm": -22,
+     "starter": true
     },
     {
      "id": 65936747,
@@ -4938,7 +5120,8 @@
      "oreb": 0,
      "dreb": 2,
      "pf": 2,
-     "pm": -4
+     "pm": -4,
+     "starter": true
     },
     {
      "id": 65954702,
@@ -4961,7 +5144,8 @@
      "oreb": 0,
      "dreb": 2,
      "pf": 3,
-     "pm": 0
+     "pm": 0,
+     "starter": true
     },
     {
      "id": 76588877,
@@ -4984,7 +5168,8 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 4,
-     "pm": 2
+     "pm": 2,
+     "starter": true
     },
     {
      "id": 38706542,
@@ -5007,7 +5192,8 @@
      "oreb": 2,
      "dreb": 2,
      "pf": 0,
-     "pm": 18
+     "pm": 18,
+     "starter": false
     },
     {
      "id": 64176392,
@@ -5030,7 +5216,8 @@
      "oreb": 0,
      "dreb": 5,
      "pf": 0,
-     "pm": 1
+     "pm": 1,
+     "starter": false
     },
     {
      "id": 65974172,
@@ -5053,7 +5240,8 @@
      "oreb": 2,
      "dreb": 0,
      "pf": 1,
-     "pm": 1
+     "pm": 1,
+     "starter": false
     },
     {
      "id": 76591967,
@@ -5076,7 +5264,8 @@
      "oreb": 1,
      "dreb": 7,
      "pf": 0,
-     "pm": -2
+     "pm": -2,
+     "starter": false
     },
     {
      "id": 60987032,
@@ -5099,7 +5288,8 @@
      "oreb": 0,
      "dreb": 3,
      "pf": 1,
-     "pm": 10
+     "pm": 10,
+     "starter": false
     },
     {
      "id": 66477347,
@@ -5122,7 +5312,8 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 0,
-     "pm": -2
+     "pm": -2,
+     "starter": false
     },
     {
      "id": 68893502,
@@ -5145,15 +5336,18 @@
      "oreb": 1,
      "dreb": 6,
      "pf": 1,
-     "pm": 15
+     "pm": 15,
+     "starter": false
     },
     {
      "id": 47005112,
      "name": "Kelly Oubre Jr.",
      "jersey": 10,
-     "teamId": 36
+     "teamId": 36,
+     "starter": false
     }
-   ]
+   ],
+   "lineupDone": true
   },
   {
    "id": 1551030,
@@ -5199,7 +5393,8 @@
      "oreb": 1,
      "dreb": 4,
      "pf": 4,
-     "pm": 31
+     "pm": 31,
+     "starter": true
     },
     {
      "id": 47043992,
@@ -5222,7 +5417,8 @@
      "oreb": 2,
      "dreb": 10,
      "pf": 1,
-     "pm": 34
+     "pm": 34,
+     "starter": true
     },
     {
      "id": 47215922,
@@ -5245,7 +5441,8 @@
      "oreb": 0,
      "dreb": 4,
      "pf": 1,
-     "pm": 31
+     "pm": 31,
+     "starter": true
     },
     {
      "id": 58711727,
@@ -5268,7 +5465,8 @@
      "oreb": 0,
      "dreb": 2,
      "pf": 1,
-     "pm": 21
+     "pm": 21,
+     "starter": true
     },
     {
      "id": 59021147,
@@ -5291,7 +5489,8 @@
      "oreb": 1,
      "dreb": 1,
      "pf": 2,
-     "pm": 33
+     "pm": 33,
+     "starter": true
     },
     {
      "id": 73470212,
@@ -5314,7 +5513,8 @@
      "oreb": 1,
      "dreb": 6,
      "pf": 1,
-     "pm": -9
+     "pm": -9,
+     "starter": false
     },
     {
      "id": 78180812,
@@ -5337,7 +5537,8 @@
      "oreb": 0,
      "dreb": 0,
      "pf": 1,
-     "pm": -6
+     "pm": -6,
+     "starter": false
     },
     {
      "id": 79349567,
@@ -5360,7 +5561,8 @@
      "oreb": 2,
      "dreb": 4,
      "pf": 3,
-     "pm": 1
+     "pm": 1,
+     "starter": false
     },
     {
      "id": 99842,
@@ -5383,7 +5585,8 @@
      "oreb": 5,
      "dreb": 4,
      "pf": 0,
-     "pm": 3
+     "pm": 3,
+     "starter": false
     },
     {
      "id": 66493187,
@@ -5406,7 +5609,8 @@
      "oreb": 4,
      "dreb": 4,
      "pf": 2,
-     "pm": -7
+     "pm": -7,
+     "starter": false
     },
     {
      "id": 37927457,
@@ -5429,7 +5633,8 @@
      "oreb": 1,
      "dreb": 0,
      "pf": 4,
-     "pm": 5
+     "pm": 5,
+     "starter": false
     },
     {
      "id": 64169102,
@@ -5452,7 +5657,8 @@
      "oreb": 0,
      "dreb": 0,
      "pf": 0,
-     "pm": -6
+     "pm": -6,
+     "starter": false
     },
     {
      "id": 66478412,
@@ -5475,7 +5681,8 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 0,
-     "pm": 16
+     "pm": 16,
+     "starter": false
     },
     {
      "id": 66499442,
@@ -5498,7 +5705,8 @@
      "oreb": 0,
      "dreb": 0,
      "pf": 1,
-     "pm": 3
+     "pm": 3,
+     "starter": false
     },
     {
      "id": 65958902,
@@ -5521,7 +5729,8 @@
      "oreb": 1,
      "dreb": 1,
      "pf": 1,
-     "pm": -15
+     "pm": -15,
+     "starter": true
     },
     {
      "id": 70670477,
@@ -5544,7 +5753,8 @@
      "oreb": 0,
      "dreb": 5,
      "pf": 2,
-     "pm": -19
+     "pm": -19,
+     "starter": true
     },
     {
      "id": 76428332,
@@ -5567,7 +5777,8 @@
      "oreb": 2,
      "dreb": 3,
      "pf": 1,
-     "pm": -22
+     "pm": -22,
+     "starter": true
     },
     {
      "id": 38933807,
@@ -5590,7 +5801,8 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 2,
-     "pm": -34
+     "pm": -34,
+     "starter": true
     },
     {
      "id": 73068242,
@@ -5613,7 +5825,8 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 2,
-     "pm": -26
+     "pm": -26,
+     "starter": true
     },
     {
      "id": 61000817,
@@ -5636,7 +5849,8 @@
      "oreb": 1,
      "dreb": 0,
      "pf": 5,
-     "pm": -20
+     "pm": -20,
+     "starter": false
     },
     {
      "id": 66476372,
@@ -5659,7 +5873,8 @@
      "oreb": 0,
      "dreb": 0,
      "pf": 3,
-     "pm": 3
+     "pm": 3,
+     "starter": false
     },
     {
      "id": 66493397,
@@ -5682,7 +5897,8 @@
      "oreb": 1,
      "dreb": 0,
      "pf": 3,
-     "pm": -11
+     "pm": -11,
+     "starter": false
     },
     {
      "id": 75666842,
@@ -5705,7 +5921,8 @@
      "oreb": 3,
      "dreb": 3,
      "pf": 0,
-     "pm": 6
+     "pm": 6,
+     "starter": false
     },
     {
      "id": 78638507,
@@ -5728,7 +5945,8 @@
      "oreb": 2,
      "dreb": 1,
      "pf": 3,
-     "pm": -6
+     "pm": -6,
+     "starter": false
     },
     {
      "id": 44865827,
@@ -5751,7 +5969,8 @@
      "oreb": 1,
      "dreb": 0,
      "pf": 0,
-     "pm": 7
+     "pm": 7,
+     "starter": false
     },
     {
      "id": 65935457,
@@ -5774,7 +5993,8 @@
      "oreb": 1,
      "dreb": 2,
      "pf": 0,
-     "pm": -18
+     "pm": -18,
+     "starter": false
     },
     {
      "id": 70257317,
@@ -5797,7 +6017,8 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 0,
-     "pm": 5
+     "pm": 5,
+     "starter": false
     },
     {
      "id": 72730442,
@@ -5820,7 +6041,8 @@
      "oreb": 1,
      "dreb": 0,
      "pf": 0,
-     "pm": 5
+     "pm": 5,
+     "starter": false
     },
     {
      "id": 73471217,
@@ -5843,9 +6065,11 @@
      "oreb": 2,
      "dreb": 1,
      "pf": 1,
-     "pm": -5
+     "pm": -5,
+     "starter": false
     }
-   ]
+   ],
+   "lineupDone": true
   },
   {
    "id": 1551029,
@@ -5891,7 +6115,8 @@
      "oreb": 0,
      "dreb": 3,
      "pf": 3,
-     "pm": -2
+     "pm": -2,
+     "starter": true
     },
     {
      "id": 64172627,
@@ -5914,7 +6139,8 @@
      "oreb": 0,
      "dreb": 10,
      "pf": 3,
-     "pm": 17
+     "pm": 17,
+     "starter": true
     },
     {
      "id": 77620892,
@@ -5937,7 +6163,8 @@
      "oreb": 0,
      "dreb": 2,
      "pf": 2,
-     "pm": -1
+     "pm": -1,
+     "starter": true
     },
     {
      "id": 66483977,
@@ -5960,7 +6187,8 @@
      "oreb": 2,
      "dreb": 3,
      "pf": 4,
-     "pm": 7
+     "pm": 7,
+     "starter": true
     },
     {
      "id": 79188017,
@@ -5983,7 +6211,8 @@
      "oreb": 1,
      "dreb": 3,
      "pf": 3,
-     "pm": 13
+     "pm": 13,
+     "starter": true
     },
     {
      "id": 70316837,
@@ -6006,7 +6235,8 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 3,
-     "pm": 0
+     "pm": 0,
+     "starter": false
     },
     {
      "id": 70694507,
@@ -6029,7 +6259,8 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 1,
-     "pm": -8
+     "pm": -8,
+     "starter": false
     },
     {
      "id": 76608662,
@@ -6052,7 +6283,8 @@
      "oreb": 1,
      "dreb": 4,
      "pf": 4,
-     "pm": 17
+     "pm": 17,
+     "starter": false
     },
     {
      "id": 47263727,
@@ -6075,7 +6307,8 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 4,
-     "pm": 3
+     "pm": 3,
+     "starter": false
     },
     {
      "id": 58618412,
@@ -6098,7 +6331,8 @@
      "oreb": 1,
      "dreb": 1,
      "pf": 3,
-     "pm": 11
+     "pm": 11,
+     "starter": false
     },
     {
      "id": 70533722,
@@ -6121,7 +6355,8 @@
      "oreb": 0,
      "dreb": 2,
      "pf": 2,
-     "pm": -6
+     "pm": -6,
+     "starter": false
     },
     {
      "id": 76527482,
@@ -6144,7 +6379,8 @@
      "oreb": 0,
      "dreb": 2,
      "pf": 2,
-     "pm": -1
+     "pm": -1,
+     "starter": false
     },
     {
      "id": 66499802,
@@ -6167,7 +6403,8 @@
      "oreb": 4,
      "dreb": 2,
      "pf": 5,
-     "pm": -18
+     "pm": -18,
+     "starter": true
     },
     {
      "id": 66500372,
@@ -6190,7 +6427,8 @@
      "oreb": 2,
      "dreb": 2,
      "pf": 5,
-     "pm": -16
+     "pm": -16,
+     "starter": true
     },
     {
      "id": 65955632,
@@ -6213,7 +6451,8 @@
      "oreb": 2,
      "dreb": 7,
      "pf": 3,
-     "pm": -7
+     "pm": -7,
+     "starter": true
     },
     {
      "id": 65935832,
@@ -6236,7 +6475,8 @@
      "oreb": 0,
      "dreb": 5,
      "pf": 1,
-     "pm": -15
+     "pm": -15,
+     "starter": true
     },
     {
      "id": 75924692,
@@ -6259,7 +6499,8 @@
      "oreb": 0,
      "dreb": 0,
      "pf": 0,
-     "pm": -2
+     "pm": -2,
+     "starter": true
     },
     {
      "id": 38755547,
@@ -6282,7 +6523,8 @@
      "oreb": 0,
      "dreb": 3,
      "pf": 0,
-     "pm": -6
+     "pm": -6,
+     "starter": false
     },
     {
      "id": 78168707,
@@ -6305,7 +6547,8 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 3,
-     "pm": 1
+     "pm": 1,
+     "starter": false
     },
     {
      "id": 68641967,
@@ -6328,7 +6571,8 @@
      "oreb": 2,
      "dreb": 2,
      "pf": 1,
-     "pm": 8
+     "pm": 8,
+     "starter": false
     },
     {
      "id": 45495752,
@@ -6351,7 +6595,8 @@
      "oreb": 1,
      "dreb": 4,
      "pf": 5,
-     "pm": 6
+     "pm": 6,
+     "starter": false
     },
     {
      "id": 47026742,
@@ -6374,7 +6619,8 @@
      "oreb": 0,
      "dreb": 2,
      "pf": 4,
-     "pm": 7
+     "pm": 7,
+     "starter": false
     },
     {
      "id": 69031442,
@@ -6397,27 +6643,32 @@
      "oreb": 0,
      "dreb": 2,
      "pf": 2,
-     "pm": -8
+     "pm": -8,
+     "starter": false
     },
     {
      "id": 79221617,
      "name": "Hannes Steinbach",
      "jersey": 22,
-     "teamId": 33
+     "teamId": 33,
+     "starter": false
     },
     {
      "id": 75911582,
      "name": "Christian Anderson",
      "jersey": 5,
-     "teamId": 33
+     "teamId": 33,
+     "starter": false
     },
     {
      "id": 78594917,
      "name": "Liam McNeeley",
      "jersey": 33,
-     "teamId": 33
+     "teamId": 33,
+     "starter": false
     }
-   ]
+   ],
+   "lineupDone": true
   },
   {
    "id": 1551028,
@@ -6463,7 +6714,8 @@
      "oreb": 0,
      "dreb": 3,
      "pf": 3,
-     "pm": 1
+     "pm": 1,
+     "starter": true
     },
     {
      "id": 60988127,
@@ -6486,7 +6738,8 @@
      "oreb": 1,
      "dreb": 1,
      "pf": 1,
-     "pm": -6
+     "pm": -6,
+     "starter": true
     },
     {
      "id": 65962427,
@@ -6509,7 +6762,8 @@
      "oreb": 4,
      "dreb": 8,
      "pf": 3,
-     "pm": 1
+     "pm": 1,
+     "starter": true
     },
     {
      "id": 46179707,
@@ -6532,7 +6786,8 @@
      "oreb": 1,
      "dreb": 3,
      "pf": 4,
-     "pm": 8
+     "pm": 8,
+     "starter": true
     },
     {
      "id": 77635772,
@@ -6555,7 +6810,8 @@
      "oreb": 1,
      "dreb": 1,
      "pf": 0,
-     "pm": 9
+     "pm": 9,
+     "starter": true
     },
     {
      "id": 64170332,
@@ -6578,7 +6834,8 @@
      "oreb": 3,
      "dreb": 2,
      "pf": 2,
-     "pm": 3
+     "pm": 3,
+     "starter": false
     },
     {
      "id": 65278847,
@@ -6601,7 +6858,8 @@
      "oreb": 6,
      "dreb": 4,
      "pf": 1,
-     "pm": 5
+     "pm": 5,
+     "starter": false
     },
     {
      "id": 60996377,
@@ -6624,7 +6882,8 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 1,
-     "pm": 7
+     "pm": 7,
+     "starter": false
     },
     {
      "id": 68908682,
@@ -6647,7 +6906,8 @@
      "oreb": 3,
      "dreb": 8,
      "pf": 3,
-     "pm": 11
+     "pm": 11,
+     "starter": false
     },
     {
      "id": 70256402,
@@ -6670,31 +6930,36 @@
      "oreb": 0,
      "dreb": 4,
      "pf": 1,
-     "pm": -4
+     "pm": -4,
+     "starter": false
     },
     {
      "id": 76595312,
      "name": "Dillon Mitchell",
      "jersey": 20,
-     "teamId": 2
+     "teamId": 2,
+     "starter": false
     },
     {
      "id": 77140382,
      "name": "Chris Cenac Jr.",
      "jersey": 12,
-     "teamId": 2
+     "teamId": 2,
+     "starter": false
     },
     {
      "id": 48992,
      "name": "Mike Conley",
      "jersey": 45,
-     "teamId": 2
+     "teamId": 2,
+     "starter": false
     },
     {
      "id": 65959832,
      "name": "Ron Harper Jr.",
      "jersey": 8,
-     "teamId": 2
+     "teamId": 2,
+     "starter": false
     },
     {
      "id": 47024672,
@@ -6717,7 +6982,8 @@
      "oreb": 2,
      "dreb": 3,
      "pf": 1,
-     "pm": -8
+     "pm": -8,
+     "starter": true
     },
     {
      "id": 66493787,
@@ -6740,7 +7006,8 @@
      "oreb": 1,
      "dreb": 1,
      "pf": 2,
-     "pm": -3
+     "pm": -3,
+     "starter": true
     },
     {
      "id": 47005487,
@@ -6763,7 +7030,8 @@
      "oreb": 0,
      "dreb": 9,
      "pf": 3,
-     "pm": -1
+     "pm": -1,
+     "starter": true
     },
     {
      "id": 65936942,
@@ -6786,7 +7054,8 @@
      "oreb": 0,
      "dreb": 5,
      "pf": 0,
-     "pm": -8
+     "pm": -8,
+     "starter": true
     },
     {
      "id": 76234157,
@@ -6809,7 +7078,8 @@
      "oreb": 3,
      "dreb": 2,
      "pf": 2,
-     "pm": 5
+     "pm": 5,
+     "starter": true
     },
     {
      "id": 74963957,
@@ -6832,7 +7102,8 @@
      "oreb": 0,
      "dreb": 0,
      "pf": 0,
-     "pm": -2
+     "pm": -2,
+     "starter": false
     },
     {
      "id": 77469452,
@@ -6855,7 +7126,8 @@
      "oreb": 1,
      "dreb": 1,
      "pf": 3,
-     "pm": 5
+     "pm": 5,
+     "starter": false
     },
     {
      "id": 64169897,
@@ -6878,7 +7150,8 @@
      "oreb": 0,
      "dreb": 0,
      "pf": 0,
-     "pm": -1
+     "pm": -1,
+     "starter": false
     },
     {
      "id": 76585412,
@@ -6901,7 +7174,8 @@
      "oreb": 2,
      "dreb": 3,
      "pf": 2,
-     "pm": -6
+     "pm": -6,
+     "starter": false
     },
     {
      "id": 65963192,
@@ -6924,7 +7198,8 @@
      "oreb": 0,
      "dreb": 2,
      "pf": 3,
-     "pm": -4
+     "pm": -4,
+     "starter": false
     },
     {
      "id": 68876942,
@@ -6947,7 +7222,8 @@
      "oreb": 2,
      "dreb": 7,
      "pf": 4,
-     "pm": 3
+     "pm": 3,
+     "starter": false
     },
     {
      "id": 78220667,
@@ -6970,27 +7246,32 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 2,
-     "pm": -15
+     "pm": -15,
+     "starter": false
     },
     {
      "id": 78225902,
      "name": "Bogoljub Markovic",
      "jersey": 23,
-     "teamId": 39
+     "teamId": 39,
+     "starter": false
     },
     {
      "id": 44866712,
      "name": "Caris LeVert",
      "jersey": 12,
-     "teamId": 39
+     "teamId": 39,
+     "starter": false
     },
     {
      "id": 64168712,
      "name": "Gary Trent Jr.",
      "jersey": 5,
-     "teamId": 39
+     "teamId": 39,
+     "starter": false
     }
-   ]
+   ],
+   "lineupDone": true
   },
   {
    "id": 1551027,
@@ -7036,7 +7317,8 @@
      "oreb": 2,
      "dreb": 8,
      "pf": 0,
-     "pm": 3
+     "pm": 3,
+     "starter": true
     },
     {
      "id": 77141837,
@@ -7059,7 +7341,8 @@
      "oreb": 2,
      "dreb": 4,
      "pf": 2,
-     "pm": 6
+     "pm": 6,
+     "starter": true
     },
     {
      "id": 77619512,
@@ -7082,7 +7365,8 @@
      "oreb": 0,
      "dreb": 4,
      "pf": 4,
-     "pm": -9
+     "pm": -9,
+     "starter": true
     },
     {
      "id": 77415947,
@@ -7105,7 +7389,8 @@
      "oreb": 2,
      "dreb": 7,
      "pf": 0,
-     "pm": -5
+     "pm": -5,
+     "starter": true
     },
     {
      "id": 64169642,
@@ -7128,7 +7413,8 @@
      "oreb": 0,
      "dreb": 2,
      "pf": 4,
-     "pm": -19
+     "pm": -19,
+     "starter": true
     },
     {
      "id": 76588682,
@@ -7151,7 +7437,8 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 0,
-     "pm": 0
+     "pm": 0,
+     "starter": false
     },
     {
      "id": 64173002,
@@ -7174,7 +7461,8 @@
      "oreb": 1,
      "dreb": 3,
      "pf": 0,
-     "pm": -8
+     "pm": -8,
+     "starter": false
     },
     {
      "id": 66493352,
@@ -7197,7 +7485,8 @@
      "oreb": 0,
      "dreb": 0,
      "pf": 0,
-     "pm": 0
+     "pm": 0,
+     "starter": false
     },
     {
      "id": 72681677,
@@ -7220,7 +7509,8 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 0,
-     "pm": -13
+     "pm": -13,
+     "starter": false
     },
     {
      "id": 76563392,
@@ -7243,7 +7533,8 @@
      "oreb": 1,
      "dreb": 1,
      "pf": 3,
-     "pm": -25
+     "pm": -25,
+     "starter": false
     },
     {
      "id": 77162957,
@@ -7266,7 +7557,8 @@
      "oreb": 0,
      "dreb": 0,
      "pf": 0,
-     "pm": 0
+     "pm": 0,
+     "starter": false
     },
     {
      "id": 78574517,
@@ -7289,19 +7581,22 @@
      "oreb": 1,
      "dreb": 1,
      "pf": 2,
-     "pm": -5
+     "pm": -5,
+     "starter": false
     },
     {
      "id": 100202,
      "name": "Khris Middleton",
      "jersey": 22,
-     "teamId": 50
+     "teamId": 50,
+     "starter": false
     },
     {
      "id": 38718827,
      "name": "Anthony Gill",
      "jersey": 16,
-     "teamId": 50
+     "teamId": 50,
+     "starter": false
     },
     {
      "id": 66476267,
@@ -7324,7 +7619,8 @@
      "oreb": 3,
      "dreb": 13,
      "pf": 2,
-     "pm": -3
+     "pm": -3,
+     "starter": true
     },
     {
      "id": 64171652,
@@ -7347,7 +7643,8 @@
      "oreb": 1,
      "dreb": 3,
      "pf": 3,
-     "pm": -3
+     "pm": -3,
+     "starter": true
     },
     {
      "id": 65956367,
@@ -7370,7 +7667,8 @@
      "oreb": 2,
      "dreb": 1,
      "pf": 3,
-     "pm": 0
+     "pm": 0,
+     "starter": true
     },
     {
      "id": 73041197,
@@ -7393,7 +7691,8 @@
      "oreb": 7,
      "dreb": 9,
      "pf": 3,
-     "pm": 21
+     "pm": 21,
+     "starter": true
     },
     {
      "id": 77237222,
@@ -7416,7 +7715,8 @@
      "oreb": 0,
      "dreb": 3,
      "pf": 3,
-     "pm": -1
+     "pm": -1,
+     "starter": true
     },
     {
      "id": 64203332,
@@ -7439,7 +7739,8 @@
      "oreb": 0,
      "dreb": 0,
      "pf": 1,
-     "pm": 6
+     "pm": 6,
+     "starter": false
     },
     {
      "id": 73099082,
@@ -7462,7 +7763,8 @@
      "oreb": 2,
      "dreb": 1,
      "pf": 2,
-     "pm": 9
+     "pm": 9,
+     "starter": false
     },
     {
      "id": 76594997,
@@ -7485,7 +7787,8 @@
      "oreb": 1,
      "dreb": 2,
      "pf": 1,
-     "pm": 18
+     "pm": 18,
+     "starter": false
     },
     {
      "id": 37353302,
@@ -7508,7 +7811,8 @@
      "oreb": 3,
      "dreb": 2,
      "pf": 1,
-     "pm": 13
+     "pm": 13,
+     "starter": false
     },
     {
      "id": 65958812,
@@ -7531,21 +7835,25 @@
      "oreb": 0,
      "dreb": 4,
      "pf": 1,
-     "pm": 15
+     "pm": 15,
+     "starter": false
     },
     {
      "id": 38673842,
      "name": "Dorian Finney-Smith",
      "jersey": 8,
-     "teamId": 23
+     "teamId": 23,
+     "starter": false
     },
     {
      "id": 47199422,
      "name": "Jock Landale",
      "jersey": 31,
-     "teamId": 23
+     "teamId": 23,
+     "starter": false
     }
-   ]
+   ],
+   "lineupDone": true
   },
   {
    "id": 1551026,
@@ -7591,7 +7899,8 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 2,
-     "pm": 4
+     "pm": 4,
+     "starter": true
     },
     {
      "id": 58633742,
@@ -7614,7 +7923,8 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 4,
-     "pm": -1
+     "pm": -1,
+     "starter": true
     },
     {
      "id": 64179497,
@@ -7637,7 +7947,8 @@
      "oreb": 2,
      "dreb": 5,
      "pf": 6,
-     "pm": 7
+     "pm": 7,
+     "starter": true
     },
     {
      "id": 66483557,
@@ -7660,7 +7971,8 @@
      "oreb": 0,
      "dreb": 7,
      "pf": 2,
-     "pm": 2
+     "pm": 2,
+     "starter": true
     },
     {
      "id": 70272197,
@@ -7683,7 +7995,8 @@
      "oreb": 2,
      "dreb": 15,
      "pf": 2,
-     "pm": -1
+     "pm": -1,
+     "starter": true
     },
     {
      "id": 65969297,
@@ -7706,7 +8019,8 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 1,
-     "pm": -7
+     "pm": -7,
+     "starter": false
     },
     {
      "id": 70257632,
@@ -7729,7 +8043,8 @@
      "oreb": 0,
      "dreb": 2,
      "pf": 2,
-     "pm": -21
+     "pm": -21,
+     "starter": false
     },
     {
      "id": 38942747,
@@ -7752,7 +8067,8 @@
      "oreb": 0,
      "dreb": 3,
      "pf": 3,
-     "pm": -4
+     "pm": -4,
+     "starter": false
     },
     {
      "id": 60996647,
@@ -7775,7 +8091,8 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 1,
-     "pm": -4
+     "pm": -4,
+     "starter": false
     },
     {
      "id": 76609052,
@@ -7798,31 +8115,36 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 1,
-     "pm": -5
+     "pm": -5,
+     "starter": false
     },
     {
      "id": 44865497,
      "name": "Taurean Prince",
      "jersey": 12,
-     "teamId": 25
+     "teamId": 25,
+     "starter": false
     },
     {
      "id": 76618337,
      "name": "Isaac Jones",
      "jersey": 13,
-     "teamId": 25
+     "teamId": 25,
+     "starter": false
     },
     {
      "id": 70513847,
      "name": "Chaz Lanier",
      "jersey": 8,
-     "teamId": 25
+     "teamId": 25,
+     "starter": false
     },
     {
      "id": 78877952,
      "name": "Ebuka Okorie",
      "jersey": 23,
-     "teamId": 25
+     "teamId": 25,
+     "starter": false
     },
     {
      "id": 30557,
@@ -7845,7 +8167,8 @@
      "oreb": 0,
      "dreb": 10,
      "pf": 0,
-     "pm": 1
+     "pm": 1,
+     "starter": true
     },
     {
      "id": 45890837,
@@ -7868,7 +8191,8 @@
      "oreb": 4,
      "dreb": 11,
      "pf": 0,
-     "pm": -6
+     "pm": -6,
+     "starter": true
     },
     {
      "id": 58761707,
@@ -7891,7 +8215,8 @@
      "oreb": 1,
      "dreb": 6,
      "pf": 1,
-     "pm": 6
+     "pm": 6,
+     "starter": true
     },
     {
      "id": 66476237,
@@ -7914,7 +8239,8 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 3,
-     "pm": -4
+     "pm": -4,
+     "starter": true
     },
     {
      "id": 76870247,
@@ -7937,7 +8263,8 @@
      "oreb": 1,
      "dreb": 5,
      "pf": 5,
-     "pm": 2
+     "pm": 2,
+     "starter": true
     },
     {
      "id": 58693787,
@@ -7960,7 +8287,8 @@
      "oreb": 2,
      "dreb": 3,
      "pf": 1,
-     "pm": 7
+     "pm": 7,
+     "starter": false
     },
     {
      "id": 76585622,
@@ -7983,7 +8311,8 @@
      "oreb": 1,
      "dreb": 1,
      "pf": 1,
-     "pm": 9
+     "pm": 9,
+     "starter": false
     },
     {
      "id": 38716337,
@@ -8006,7 +8335,8 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 3,
-     "pm": 9
+     "pm": 9,
+     "starter": false
     },
     {
      "id": 65278832,
@@ -8029,27 +8359,32 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 4,
-     "pm": 6
+     "pm": 6,
+     "starter": false
     },
     {
      "id": 66487757,
      "name": "Jabari Walker",
      "jersey": 33,
-     "teamId": 71
+     "teamId": 71,
+     "starter": false
     },
     {
      "id": 70670522,
      "name": "Justin Edwards",
      "jersey": 11,
-     "teamId": 71
+     "teamId": 71,
+     "starter": false
     },
     {
      "id": 73097417,
      "name": "Labaron Philon Jr.",
      "jersey": 0,
-     "teamId": 71
+     "teamId": 71,
+     "starter": false
     }
-   ]
+   ],
+   "lineupDone": true
   }
  ]
 }

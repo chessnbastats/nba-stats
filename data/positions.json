@@ -1,95 +1,184 @@
 {
  "30557": {
   "pos": "G",
-  "name": "LeBron James"
+  "name": "LeBron James",
+  "n": {
+   "G": 2,
+   "F": 1
+  }
  },
  "48992": {
   "pos": "G",
-  "name": "Mike Conley"
+  "name": "Mike Conley",
+  "n": {
+   "G": 4
+  }
  },
  "49097": {
   "pos": "F",
-  "name": "Kevin Durant"
+  "name": "Kevin Durant",
+  "n": {
+   "F": 4,
+   "G": 1
+  }
  },
  "49262": {
   "pos": "G",
-  "name": "Al Horford"
+  "name": "Al Horford",
+  "n": {
+   "G": 2,
+   "F": 1
+  }
  },
  "52697": {
   "pos": "C",
-  "name": "DeAndre Jordan"
+  "name": "DeAndre Jordan",
+  "n": {
+   "C": 3
+  }
  },
  "52787": {
   "pos": "C",
-  "name": "Brook Lopez"
+  "name": "Brook Lopez",
+  "n": {
+   "C": 1,
+   "G": 1
+  }
  },
  "60692": {
   "pos": "G",
-  "name": "Stephen Curry"
+  "name": "Stephen Curry",
+  "n": {
+   "G": 2,
+   "C": 2
+  }
  },
  "60737": {
-  "pos": "F",
-  "name": "DeMar DeRozan"
+  "pos": "G",
+  "name": "DeMar DeRozan",
+  "n": {
+   "F": 1,
+   "G": 3
+  }
  },
  "60947": {
   "pos": "F",
-  "name": "James Harden"
+  "name": "James Harden",
+  "n": {
+   "F": 1,
+   "G": 1,
+   "C": 1
+  }
  },
  "60992": {
   "pos": "F",
-  "name": "Jrue Holiday"
+  "name": "Jrue Holiday",
+  "n": {
+   "F": 2,
+   "G": 1
+  }
  },
  "64832": {
   "pos": "F",
-  "name": "Paul George"
+  "name": "Paul George",
+  "n": {
+   "F": 2,
+   "G": 1
+  }
  },
  "97697": {
   "pos": "F",
-  "name": "Kyrie Irving"
+  "name": "Kyrie Irving",
+  "n": {
+   "F": 2,
+   "G": 1
+  }
  },
  "98192": {
   "pos": "G",
-  "name": "Klay Thompson"
+  "name": "Klay Thompson",
+  "n": {
+   "G": 2,
+   "F": 1
+  }
  },
  "98237": {
-  "pos": "G",
-  "name": "Nikola Vucevic"
+  "pos": "F",
+  "name": "Nikola Vucevic",
+  "n": {
+   "G": 1,
+   "F": 3
+  }
  },
  "99737": {
-  "pos": "C",
-  "name": "Harrison Barnes"
+  "pos": "G",
+  "name": "Harrison Barnes",
+  "n": {
+   "C": 1,
+   "G": 3
+  }
  },
  "99812": {
   "pos": "F",
-  "name": "Anthony Davis"
+  "name": "Anthony Davis",
+  "n": {
+   "F": 3,
+   "C": 1
+  }
  },
  "99842": {
   "pos": "G",
-  "name": "Andre Drummond"
+  "name": "Andre Drummond",
+  "n": {
+   "G": 2,
+   "F": 2
+  }
  },
  "99902": {
   "pos": "F",
-  "name": "Draymond Green"
+  "name": "Draymond Green",
+  "n": {
+   "F": 4
+  }
  },
  "100157": {
   "pos": "F",
-  "name": "Damian Lillard"
+  "name": "Damian Lillard",
+  "n": {
+   "F": 1,
+   "C": 1,
+   "G": 1
+  }
  },
  "100202": {
   "pos": "F",
-  "name": "Khris Middleton"
+  "name": "Khris Middleton",
+  "n": {
+   "F": 4
+  }
  },
  "37353302": {
-  "pos": "C",
-  "name": "CJ McCollum"
+  "pos": "F",
+  "name": "CJ McCollum",
+  "n": {
+   "C": 1,
+   "F": 2
+  }
  },
  "37924217": {
   "pos": "G",
-  "name": "Tim Hardaway Jr."
+  "name": "Tim Hardaway Jr.",
+  "n": {
+   "G": 3
+  }
  },
  "37927457": {
   "pos": "G",
-  "name": "Jordan Clarkson"
+  "name": "Jordan Clarkson",
+  "n": {
+   "G": 3,
+   "F": 1
+  }
  },
  "37959017": {
   "pos": "F",
@@ -97,287 +186,586 @@
  },
  "38673842": {
   "pos": "F",
-  "name": "Dorian Finney-Smith"
+  "name": "Dorian Finney-Smith",
+  "n": {
+   "F": 3
+  }
  },
  "38706542": {
   "pos": "F",
-  "name": "Larry Nance Jr."
+  "name": "Larry Nance Jr.",
+  "n": {
+   "F": 2
+  }
  },
  "38716337": {
   "pos": "F",
-  "name": "Kentavious Caldwell-Pope"
+  "name": "Kentavious Caldwell-Pope",
+  "n": {
+   "F": 2,
+   "G": 2
+  }
  },
  "38718827": {
   "pos": "F",
-  "name": "Anthony Gill"
+  "name": "Anthony Gill",
+  "n": {
+   "F": 3
+  }
  },
  "38755547": {
   "pos": "G",
-  "name": "Royce O'Neale"
+  "name": "Royce O'Neale",
+  "n": {
+   "G": 1,
+   "C": 1,
+   "F": 1
+  }
+ },
+ "38933807": {
+  "pos": "G",
+  "name": "Norman Powell",
+  "n": {
+   "G": 2
+  }
  },
  "38942747": {
-  "pos": "G",
-  "name": "Javonte Green"
+  "pos": "F",
+  "name": "Javonte Green",
+  "n": {
+   "G": 1,
+   "F": 2
+  }
  },
  "44865497": {
   "pos": "F",
-  "name": "Taurean Prince"
+  "name": "Taurean Prince",
+  "n": {
+   "F": 3
+  }
  },
  "44865602": {
   "pos": "F",
-  "name": "Georges Niang"
+  "name": "Georges Niang",
+  "n": {
+   "F": 2,
+   "C": 1,
+   "G": 1
+  }
  },
  "44865827": {
   "pos": "G",
-  "name": "Buddy Hield"
+  "name": "Buddy Hield",
+  "n": {
+   "G": 2,
+   "F": 1
+  }
  },
  "44865947": {
   "pos": "G",
-  "name": "Marcus Smart"
+  "name": "Marcus Smart",
+  "n": {
+   "G": 4,
+   "F": 1
+  }
  },
  "44866712": {
   "pos": "G",
-  "name": "Caris LeVert"
+  "name": "Caris LeVert",
+  "n": {
+   "G": 5
+  }
  },
  "44867117": {
-  "pos": "G",
-  "name": "Jerami Grant"
+  "pos": "F",
+  "name": "Jerami Grant",
+  "n": {
+   "G": 1,
+   "F": 2,
+   "C": 1
+  }
  },
  "44868152": {
   "pos": "G",
-  "name": "Kris Dunn"
+  "name": "Kris Dunn",
+  "n": {
+   "G": 2
+  }
  },
  "44869517": {
-  "pos": "F",
-  "name": "Fred VanVleet"
+  "pos": "C",
+  "name": "Fred VanVleet",
+  "n": {
+   "F": 1,
+   "C": 3,
+   "G": 1
+  }
  },
  "44869592": {
   "pos": "C",
-  "name": "Steven Adams"
+  "name": "Steven Adams",
+  "n": {
+   "C": 5
+  }
  },
  "44871317": {
-  "pos": "F",
-  "name": "Alex Caruso"
+  "pos": "G",
+  "name": "Alex Caruso",
+  "n": {
+   "F": 1,
+   "G": 2
+  }
  },
  "44909177": {
   "pos": "F",
-  "name": "Kyle Anderson"
+  "name": "Kyle Anderson",
+  "n": {
+   "F": 3,
+   "C": 1,
+   "G": 1
+  }
  },
  "44936657": {
   "pos": "F",
-  "name": "Mario Hezonja"
+  "name": "Mario Hezonja",
+  "n": {
+   "F": 1,
+   "C": 1,
+   "G": 1
+  }
  },
  "45495707": {
-  "pos": "C",
-  "name": "Rudy Gobert"
+  "pos": "G",
+  "name": "Rudy Gobert",
+  "n": {
+   "C": 1,
+   "F": 1,
+   "G": 2
+  }
  },
  "45495722": {
   "pos": "F",
-  "name": "Giannis Antetokounmpo"
+  "name": "Giannis Antetokounmpo",
+  "n": {
+   "F": 3
+  }
+ },
+ "45495752": {
+  "pos": "G",
+  "name": "Dennis Schroder",
+  "n": {
+   "G": 1
+  }
  },
  "45567902": {
   "pos": "F",
-  "name": "Bogdan Bogdanovic"
+  "name": "Bogdan Bogdanovic",
+  "n": {
+   "F": 2,
+   "C": 2,
+   "G": 1
+  }
  },
  "45890837": {
   "pos": "C",
-  "name": "Joel Embiid"
+  "name": "Joel Embiid",
+  "n": {
+   "C": 3,
+   "F": 1
+  }
  },
  "45890852": {
   "pos": "F",
-  "name": "Andrew Wiggins"
+  "name": "Andrew Wiggins",
+  "n": {
+   "F": 2,
+   "C": 1
+  }
  },
  "45941252": {
   "pos": "F",
-  "name": "Josh Hart"
+  "name": "Josh Hart",
+  "n": {
+   "F": 1,
+   "G": 1
+  }
  },
  "45965417": {
-  "pos": "C",
-  "name": "Aaron Gordon"
+  "pos": "F",
+  "name": "Aaron Gordon",
+  "n": {
+   "C": 1,
+   "F": 3
+  }
  },
  "45967667": {
   "pos": "G",
-  "name": "Zach LaVine"
+  "name": "Zach LaVine",
+  "n": {
+   "G": 3,
+   "F": 1
+  }
  },
  "45968297": {
   "pos": "C",
-  "name": "Bobby Portis"
+  "name": "Bobby Portis",
+  "n": {
+   "C": 2,
+   "F": 1
+  }
  },
  "45968777": {
-  "pos": "G",
-  "name": "Julius Randle"
+  "pos": "F",
+  "name": "Julius Randle",
+  "n": {
+   "G": 1,
+   "F": 2
+  }
  },
  "45969467": {
   "pos": "F",
-  "name": "Luke Kornet"
+  "name": "Luke Kornet",
+  "n": {
+   "F": 2,
+   "C": 2
+  }
  },
  "46179707": {
-  "pos": "G",
-  "name": "Derrick White"
+  "pos": "F",
+  "name": "Derrick White",
+  "n": {
+   "G": 1,
+   "F": 2,
+   "C": 1
+  }
  },
  "46539002": {
   "pos": "C",
-  "name": "Clint Capela"
+  "name": "Clint Capela",
+  "n": {
+   "C": 5
+  }
  },
  "46686092": {
-  "pos": "G",
-  "name": "Nikola Jokic"
+  "pos": "C",
+  "name": "Nikola Jokic",
+  "n": {
+   "G": 1,
+   "F": 1,
+   "C": 2
+  }
  },
  "47005097": {
-  "pos": "F",
-  "name": "Svi Mykhailiuk"
+  "pos": "G",
+  "name": "Svi Mykhailiuk",
+  "n": {
+   "F": 1,
+   "G": 2
+  }
  },
  "47005112": {
   "pos": "G",
-  "name": "Kelly Oubre Jr."
+  "name": "Kelly Oubre Jr.",
+  "n": {
+   "G": 3
+  }
  },
  "47005457": {
-  "pos": "C",
-  "name": "Kenrich Williams"
+  "pos": "G",
+  "name": "Kenrich Williams",
+  "n": {
+   "C": 1,
+   "G": 2
+  }
  },
  "47005487": {
   "pos": "G",
-  "name": "Myles Turner"
+  "name": "Myles Turner",
+  "n": {
+   "G": 3,
+   "C": 1,
+   "F": 1
+  }
  },
  "47005592": {
   "pos": "G",
-  "name": "Jevon Carter"
+  "name": "Jevon Carter",
+  "n": {
+   "G": 3,
+   "F": 1
+  }
  },
  "47024612": {
-  "pos": "G",
-  "name": "Gary Payton II"
+  "pos": "F",
+  "name": "Gary Payton II",
+  "n": {
+   "G": 1,
+   "F": 3
+  }
  },
  "47024672": {
   "pos": "G",
-  "name": "Kyle Kuzma"
+  "name": "Kyle Kuzma",
+  "n": {
+   "G": 2,
+   "C": 2,
+   "F": 1
+  }
  },
  "47024687": {
   "pos": "F",
-  "name": "Jakob Poeltl"
+  "name": "Jakob Poeltl",
+  "n": {
+   "F": 2,
+   "G": 2
+  }
  },
  "47024807": {
-  "pos": "C",
-  "name": "Jordan McLaughlin"
+  "pos": "G",
+  "name": "Jordan McLaughlin",
+  "n": {
+   "C": 1,
+   "G": 2,
+   "F": 1
+  }
  },
  "47026742": {
   "pos": "F",
-  "name": "Grayson Allen"
+  "name": "Grayson Allen",
+  "n": {
+   "F": 3
+  }
  },
  "47026757": {
   "pos": "G",
-  "name": "Tyus Jones"
+  "name": "Tyus Jones",
+  "n": {
+   "G": 3,
+   "F": 1
+  }
  },
  "47043962": {
   "pos": "F",
-  "name": "Devin Booker"
+  "name": "Devin Booker",
+  "n": {
+   "F": 2,
+   "C": 1,
+   "G": 2
+  }
  },
  "47043992": {
-  "pos": "G",
-  "name": "Karl-Anthony Towns"
+  "pos": "C",
+  "name": "Karl-Anthony Towns",
+  "n": {
+   "G": 1,
+   "C": 3
+  }
  },
  "47044007": {
   "pos": "G",
-  "name": "Trey Lyles"
+  "name": "Trey Lyles",
+  "n": {
+   "G": 3,
+   "F": 1
+  }
  },
  "47052722": {
   "pos": "F",
-  "name": "Jae'Sean Tate"
+  "name": "Jae'Sean Tate",
+  "n": {
+   "F": 5
+  }
  },
  "47073467": {
   "pos": "F",
-  "name": "Caleb Martin"
+  "name": "Caleb Martin",
+  "n": {
+   "F": 3,
+   "C": 1
+  }
  },
  "47074007": {
-  "pos": "C",
-  "name": "Cameron Johnson"
+  "pos": "G",
+  "name": "Cameron Johnson",
+  "n": {
+   "C": 1,
+   "G": 2,
+   "F": 1
+  }
  },
  "47199422": {
   "pos": "F",
-  "name": "Jock Landale"
+  "name": "Jock Landale",
+  "n": {
+   "F": 1,
+   "C": 1
+  }
  },
  "47215922": {
   "pos": "G",
-  "name": "Mikal Bridges"
+  "name": "Mikal Bridges",
+  "n": {
+   "G": 3,
+   "F": 1
+  }
  },
  "47246162": {
-  "pos": "C",
-  "name": "Pascal Siakam"
+  "pos": "F",
+  "name": "Pascal Siakam",
+  "n": {
+   "C": 1,
+   "F": 2
+  }
  },
  "47263727": {
   "pos": "F",
-  "name": "Moritz Wagner"
+  "name": "Moritz Wagner",
+  "n": {
+   "F": 2,
+   "G": 1
+  }
  },
  "47333957": {
   "pos": "F",
-  "name": "Dillon Brooks"
+  "name": "Dillon Brooks",
+  "n": {
+   "F": 3,
+   "G": 1,
+   "C": 1
+  }
  },
  "47334092": {
   "pos": "F",
-  "name": "Kevon Looney"
+  "name": "Kevon Looney",
+  "n": {
+   "F": 4
+  }
  },
  "47340197": {
   "pos": "F",
-  "name": "Domantas Sabonis"
+  "name": "Domantas Sabonis",
+  "n": {
+   "F": 3,
+   "G": 1
+  }
  },
  "47363042": {
   "pos": "C",
-  "name": "Duncan Robinson"
+  "name": "Duncan Robinson",
+  "n": {
+   "C": 2,
+   "G": 1
+  }
  },
  "58496027": {
   "pos": "F",
-  "name": "Simone Fontecchio"
+  "name": "Simone Fontecchio",
+  "n": {
+   "F": 3
+  }
  },
  "58570442": {
   "pos": "G",
-  "name": "Tacko Fall"
+  "name": "Tacko Fall",
+  "n": {
+   "G": 1,
+   "C": 1
+  }
  },
  "58613522": {
   "pos": "G",
-  "name": "Dejounte Murray"
+  "name": "Dejounte Murray",
+  "n": {
+   "G": 2
+  }
  },
  "58613537": {
   "pos": "G",
-  "name": "Matisse Thybulle"
+  "name": "Matisse Thybulle",
+  "n": {
+   "G": 4
+  }
  },
  "58618412": {
   "pos": "G",
-  "name": "Terance Mann"
+  "name": "Terance Mann",
+  "n": {
+   "G": 2,
+   "C": 1
+  }
  },
  "58633202": {
   "pos": "G",
-  "name": "Donovan Mitchell"
+  "name": "Donovan Mitchell",
+  "n": {
+   "G": 3
+  }
  },
  "58633742": {
   "pos": "F",
-  "name": "John Collins"
+  "name": "John Collins",
+  "n": {
+   "F": 2,
+   "C": 1
+  }
  },
  "58693787": {
   "pos": "F",
-  "name": "Dean Wade"
+  "name": "Dean Wade",
+  "n": {
+   "F": 3,
+   "C": 1
+  }
  },
  "58698677": {
   "pos": "G",
-  "name": "Luke Kennard"
+  "name": "Luke Kennard",
+  "n": {
+   "G": 3,
+   "C": 2
+  }
  },
  "58711727": {
   "pos": "G",
-  "name": "Landry Shamet"
+  "name": "Landry Shamet",
+  "n": {
+   "G": 2,
+   "F": 2
+  }
  },
  "58761707": {
   "pos": "G",
-  "name": "Jaylen Brown"
+  "name": "Jaylen Brown",
+  "n": {
+   "G": 3,
+   "F": 1
+  }
  },
  "59021147": {
   "pos": "G",
-  "name": "Jalen Brunson"
+  "name": "Jalen Brunson",
+  "n": {
+   "G": 3,
+   "C": 1
+  }
  },
  "59021852": {
-  "pos": "C",
-  "name": "OG Anunoby"
+  "pos": "F",
+  "name": "OG Anunoby",
+  "n": {
+   "C": 1,
+   "G": 1,
+   "F": 2
+  }
  },
  "59021912": {
   "pos": "C",
-  "name": "Thomas Bryant"
+  "name": "Thomas Bryant",
+  "n": {
+   "C": 1,
+   "G": 1,
+   "F": 1
+  }
  },
  "59042552": {
   "pos": "F",
@@ -385,111 +773,214 @@
  },
  "59045552": {
   "pos": "G",
-  "name": "Jamal Murray"
+  "name": "Jamal Murray",
+  "n": {
+   "G": 3,
+   "C": 1
+  }
  },
  "59180177": {
   "pos": "G",
-  "name": "Luka Doncic"
+  "name": "Luka Doncic",
+  "n": {
+   "G": 3,
+   "F": 1
+  }
  },
  "60268622": {
   "pos": "C",
-  "name": "Ivica Zubac"
+  "name": "Ivica Zubac",
+  "n": {
+   "C": 3
+  }
  },
  "60985787": {
   "pos": "F",
-  "name": "Jayson Tatum"
+  "name": "Jayson Tatum",
+  "n": {
+   "F": 3
+  }
  },
  "60986012": {
-  "pos": "F",
-  "name": "Josh Okogie"
+  "pos": "G",
+  "name": "Josh Okogie",
+  "n": {
+   "F": 1,
+   "G": 2
+  }
  },
  "60986162": {
   "pos": "C",
-  "name": "Tony Bradley"
+  "name": "Tony Bradley",
+  "n": {
+   "C": 3
+  }
  },
  "60987032": {
-  "pos": "C",
-  "name": "Jay Huff"
+  "pos": "F",
+  "name": "Jay Huff",
+  "n": {
+   "C": 1,
+   "F": 2
+  }
  },
  "60987047": {
-  "pos": "G",
-  "name": "De'Andre Hunter"
+  "pos": "F",
+  "name": "De'Andre Hunter",
+  "n": {
+   "G": 1,
+   "F": 2
+  }
  },
  "60987062": {
   "pos": "F",
-  "name": "Ty Jerome"
+  "name": "Ty Jerome",
+  "n": {
+   "F": 3,
+   "G": 1
+  }
  },
  "60987737": {
   "pos": "F",
-  "name": "Max Strus"
+  "name": "Max Strus",
+  "n": {
+   "F": 2
+  }
  },
  "60988127": {
   "pos": "F",
-  "name": "Sam Hauser"
+  "name": "Sam Hauser",
+  "n": {
+   "F": 3,
+   "G": 1
+  }
  },
  "60988262": {
   "pos": "F",
-  "name": "Alpha Diallo"
+  "name": "Alpha Diallo",
+  "n": {
+   "F": 2,
+   "G": 2
+  }
  },
  "60994232": {
-  "pos": "G",
-  "name": "Robert Williams III"
+  "pos": "F",
+  "name": "Robert Williams III",
+  "n": {
+   "G": 1,
+   "F": 2
+  }
  },
  "60994337": {
   "pos": "F",
-  "name": "Grant Williams"
+  "name": "Grant Williams",
+  "n": {
+   "F": 2
+  }
  },
  "60994952": {
   "pos": "G",
-  "name": "De'Aaron Fox"
+  "name": "De'Aaron Fox",
+  "n": {
+   "G": 3,
+   "F": 1
+  }
  },
  "60994982": {
   "pos": "C",
-  "name": "Bam Adebayo"
+  "name": "Bam Adebayo",
+  "n": {
+   "C": 1,
+   "F": 1,
+   "G": 1
+  }
  },
  "60994997": {
   "pos": "G",
-  "name": "Malik Monk"
+  "name": "Malik Monk",
+  "n": {
+   "G": 2,
+   "F": 1,
+   "C": 1
+  }
  },
  "60995087": {
-  "pos": "G",
-  "name": "Duop Reath"
+  "pos": "C",
+  "name": "Duop Reath",
+  "n": {
+   "G": 1,
+   "C": 3
+  }
  },
  "60995867": {
   "pos": "G",
-  "name": "Desmond Bane"
+  "name": "Desmond Bane",
+  "n": {
+   "G": 3
+  }
  },
  "60995987": {
   "pos": "C",
-  "name": "Jarrett Allen"
+  "name": "Jarrett Allen",
+  "n": {
+   "C": 2
+  }
  },
  "60996107": {
   "pos": "F",
-  "name": "Lauri Markkanen"
+  "name": "Lauri Markkanen",
+  "n": {
+   "F": 3
+  }
  },
  "60996377": {
-  "pos": "C",
-  "name": "Payton Pritchard"
+  "pos": "G",
+  "name": "Payton Pritchard",
+  "n": {
+   "C": 1,
+   "G": 3
+  }
  },
  "60996647": {
   "pos": "C",
-  "name": "Kevin Huerter"
+  "name": "Kevin Huerter",
+  "n": {
+   "C": 2,
+   "F": 1
+  }
  },
  "60996812": {
   "pos": "F",
-  "name": "Miles Bridges"
+  "name": "Miles Bridges",
+  "n": {
+   "F": 4,
+   "G": 1
+  }
  },
  "60997052": {
-  "pos": "F",
-  "name": "Micah Potter"
+  "pos": "C",
+  "name": "Micah Potter",
+  "n": {
+   "F": 1,
+   "C": 2
+  }
  },
  "60997607": {
-  "pos": "F",
-  "name": "De'Anthony Melton"
+  "pos": "G",
+  "name": "De'Anthony Melton",
+  "n": {
+   "F": 1,
+   "C": 1,
+   "G": 2
+  }
  },
  "60997922": {
   "pos": "F",
-  "name": "Austin Reaves"
+  "name": "Austin Reaves",
+  "n": {
+   "F": 2,
+   "G": 2
+  }
  },
  "61000787": {
   "pos": "F",
@@ -497,75 +988,144 @@
  },
  "61000817": {
   "pos": "C",
-  "name": "Zach Collins"
+  "name": "Zach Collins",
+  "n": {
+   "C": 1,
+   "F": 1,
+   "G": 1
+  }
  },
  "61002422": {
   "pos": "G",
-  "name": "Sam Merrill"
+  "name": "Sam Merrill",
+  "n": {
+   "G": 2
+  }
  },
  "61005962": {
   "pos": "G",
-  "name": "Dru Smith"
+  "name": "Dru Smith",
+  "n": {
+   "G": 3
+  }
  },
  "63334847": {
   "pos": "C",
-  "name": "Isaiah Hartenstein"
+  "name": "Isaiah Hartenstein",
+  "n": {
+   "C": 3
+  }
  },
  "64168232": {
   "pos": "F",
-  "name": "Collin Sexton"
+  "name": "Collin Sexton",
+  "n": {
+   "F": 3,
+   "G": 1
+  }
  },
  "64168262": {
   "pos": "G",
-  "name": "Herbert Jones"
+  "name": "Herbert Jones",
+  "n": {
+   "G": 1,
+   "C": 1,
+   "F": 1
+  }
  },
  "64168712": {
-  "pos": "F",
-  "name": "Gary Trent Jr."
+  "pos": "G",
+  "name": "Gary Trent Jr.",
+  "n": {
+   "F": 1,
+   "G": 3
+  }
  },
  "64168772": {
-  "pos": "F",
-  "name": "Wendell Carter Jr."
+  "pos": "C",
+  "name": "Wendell Carter Jr.",
+  "n": {
+   "F": 1,
+   "C": 3
+  }
  },
  "64168787": {
   "pos": "F",
-  "name": "Marvin Bagley III"
+  "name": "Marvin Bagley III",
+  "n": {
+   "F": 3,
+   "C": 1
+  }
  },
  "64169102": {
   "pos": "C",
-  "name": "Jose Alvarado"
+  "name": "Jose Alvarado",
+  "n": {
+   "C": 2,
+   "G": 1,
+   "F": 1
+  }
  },
  "64169642": {
   "pos": "G",
-  "name": "Trae Young"
+  "name": "Trae Young",
+  "n": {
+   "G": 4
+  }
  },
  "64169852": {
-  "pos": "C",
-  "name": "Mo Bamba"
+  "pos": "F",
+  "name": "Mo Bamba",
+  "n": {
+   "C": 1,
+   "F": 2
+  }
  },
  "64169897": {
   "pos": "F",
-  "name": "Jericho Sims"
+  "name": "Jericho Sims",
+  "n": {
+   "F": 2,
+   "G": 2,
+   "C": 1
+  }
  },
  "64170332": {
   "pos": "G",
-  "name": "Luka Garza"
+  "name": "Luka Garza",
+  "n": {
+   "G": 3,
+   "C": 1
+  }
  },
  "64170407": {
   "pos": "G",
-  "name": "Jordan Poole"
+  "name": "Jordan Poole",
+  "n": {
+   "G": 2
+  }
  },
  "64171652": {
   "pos": "F",
-  "name": "Nickeil Alexander-Walker"
+  "name": "Nickeil Alexander-Walker",
+  "n": {
+   "F": 2,
+   "G": 1
+  }
  },
  "64171802": {
   "pos": "F",
-  "name": "Daniel Gafford"
+  "name": "Daniel Gafford",
+  "n": {
+   "F": 4
+  }
  },
  "64171862": {
   "pos": "G",
-  "name": "Davion Mitchell"
+  "name": "Davion Mitchell",
+  "n": {
+   "G": 3
+  }
  },
  "64172072": {
   "pos": "G",
@@ -573,167 +1133,337 @@
  },
  "64172162": {
   "pos": "G",
-  "name": "Shai Gilgeous-Alexander"
+  "name": "Shai Gilgeous-Alexander",
+  "n": {
+   "G": 2,
+   "F": 1
+  }
  },
  "64172207": {
   "pos": "C",
-  "name": "Nick Richards"
+  "name": "Nick Richards",
+  "n": {
+   "C": 3
+  }
  },
  "64172222": {
-  "pos": "C",
-  "name": "Jarred Vanderbilt"
+  "pos": "F",
+  "name": "Jarred Vanderbilt",
+  "n": {
+   "C": 1,
+   "F": 2,
+   "G": 1
+  }
  },
  "64172237": {
   "pos": "G",
-  "name": "P.J. Washington"
+  "name": "P.J. Washington",
+  "n": {
+   "G": 3,
+   "F": 1
+  }
  },
  "64172627": {
-  "pos": "G",
-  "name": "Michael Porter Jr."
+  "pos": "F",
+  "name": "Michael Porter Jr.",
+  "n": {
+   "G": 1,
+   "F": 2
+  }
  },
  "64173002": {
-  "pos": "G",
-  "name": "Deandre Ayton"
+  "pos": "C",
+  "name": "Deandre Ayton",
+  "n": {
+   "G": 1,
+   "C": 3
+  }
  },
  "64176392": {
   "pos": "F",
-  "name": "Obi Toppin"
+  "name": "Obi Toppin",
+  "n": {
+   "F": 2,
+   "C": 1
+  }
  },
  "64177097": {
   "pos": "F",
-  "name": "Jordan Goodwin"
+  "name": "Jordan Goodwin",
+  "n": {
+   "F": 2,
+   "C": 1
+  }
  },
  "64179497": {
-  "pos": "G",
-  "name": "Paul Reed"
+  "pos": "C",
+  "name": "Paul Reed",
+  "n": {
+   "G": 1,
+   "C": 2
+  }
  },
  "64179647": {
   "pos": "F",
-  "name": "Jamal Cain"
+  "name": "Jamal Cain",
+  "n": {
+   "F": 3,
+   "G": 1
+  }
  },
  "64179767": {
-  "pos": "C",
-  "name": "Sandro Mamukelashvili"
+  "pos": "G",
+  "name": "Sandro Mamukelashvili",
+  "n": {
+   "C": 1,
+   "G": 2,
+   "F": 1
+  }
  },
  "64179842": {
   "pos": "F",
-  "name": "Collin Gillespie"
+  "name": "Collin Gillespie",
+  "n": {
+   "F": 3,
+   "G": 1,
+   "C": 1
+  }
  },
  "64179977": {
-  "pos": "G",
-  "name": "Naji Marshall"
+  "pos": "C",
+  "name": "Naji Marshall",
+  "n": {
+   "G": 1,
+   "F": 1,
+   "C": 2
+  }
  },
  "64190837": {
-  "pos": "C",
-  "name": "Daeqwon Plowden"
+  "pos": "G",
+  "name": "Daeqwon Plowden",
+  "n": {
+   "C": 1,
+   "G": 2
+  }
  },
  "64203332": {
   "pos": "G",
-  "name": "Corey Kispert"
+  "name": "Corey Kispert",
+  "n": {
+   "G": 1,
+   "F": 1,
+   "C": 1
+  }
  },
  "64204742": {
   "pos": "G",
-  "name": "Jamaree Bouyea"
+  "name": "Jamaree Bouyea",
+  "n": {
+   "G": 5
+  }
  },
  "65231567": {
   "pos": "G",
-  "name": "Goga Bitadze"
+  "name": "Goga Bitadze",
+  "n": {
+   "G": 2,
+   "F": 1,
+   "C": 1
+  }
  },
  "65278832": {
   "pos": "F",
-  "name": "Anfernee Simons"
+  "name": "Anfernee Simons",
+  "n": {
+   "F": 3,
+   "G": 1
+  }
  },
  "65278847": {
   "pos": "G",
-  "name": "Mitchell Robinson"
+  "name": "Mitchell Robinson",
+  "n": {
+   "G": 2,
+   "C": 1,
+   "F": 1
+  }
  },
  "65935442": {
   "pos": "F",
-  "name": "RJ Barrett"
+  "name": "RJ Barrett",
+  "n": {
+   "F": 3,
+   "C": 1,
+   "G": 1
+  }
  },
  "65935457": {
-  "pos": "F",
-  "name": "Tre Jones"
+  "pos": "G",
+  "name": "Tre Jones",
+  "n": {
+   "F": 1,
+   "G": 2
+  }
  },
  "65935487": {
   "pos": "F",
-  "name": "Zion Williamson"
+  "name": "Zion Williamson",
+  "n": {
+   "F": 3
+  }
  },
  "65935517": {
   "pos": "G",
-  "name": "Devin Vassell"
+  "name": "Devin Vassell",
+  "n": {
+   "G": 3,
+   "F": 1
+  }
  },
  "65935817": {
   "pos": "C",
-  "name": "Leaky Black"
+  "name": "Leaky Black",
+  "n": {
+   "C": 2,
+   "F": 1,
+   "G": 1
+  }
  },
  "65935832": {
   "pos": "G",
-  "name": "Coby White"
+  "name": "Coby White",
+  "n": {
+   "G": 2,
+   "F": 1
+  }
  },
  "65936747": {
   "pos": "G",
-  "name": "Andrew Nembhard"
+  "name": "Andrew Nembhard",
+  "n": {
+   "G": 3
+  }
  },
  "65936912": {
   "pos": "G",
-  "name": "Keldon Johnson"
+  "name": "Keldon Johnson",
+  "n": {
+   "G": 2,
+   "F": 2
+  }
  },
  "65936927": {
   "pos": "G",
-  "name": "Immanuel Quickley"
+  "name": "Immanuel Quickley",
+  "n": {
+   "G": 3,
+   "F": 1,
+   "C": 1
+  }
  },
  "65936942": {
   "pos": "C",
-  "name": "Tyler Herro"
+  "name": "Tyler Herro",
+  "n": {
+   "C": 2,
+   "F": 2,
+   "G": 1
+  }
  },
  "65954672": {
   "pos": "C",
-  "name": "Darius Garland"
+  "name": "Darius Garland",
+  "n": {
+   "C": 1,
+   "G": 1
+  }
  },
  "65954702": {
-  "pos": "F",
-  "name": "Aaron Nesmith"
+  "pos": "G",
+  "name": "Aaron Nesmith",
+  "n": {
+   "F": 1,
+   "G": 2
+  }
  },
  "65955632": {
   "pos": "F",
-  "name": "Naz Reid"
+  "name": "Naz Reid",
+  "n": {
+   "F": 2,
+   "G": 1
+  }
  },
  "65956097": {
   "pos": "G",
-  "name": "Ayo Dosunmu"
+  "name": "Ayo Dosunmu",
+  "n": {
+   "G": 3,
+   "F": 1
+  }
  },
  "65956277": {
   "pos": "G",
-  "name": "Quentin Grimes"
+  "name": "Quentin Grimes",
+  "n": {
+   "G": 2,
+   "F": 2
+  }
  },
  "65956367": {
   "pos": "C",
-  "name": "Luguentz Dort"
+  "name": "Luguentz Dort",
+  "n": {
+   "C": 3
+  }
  },
  "65956667": {
   "pos": "C",
-  "name": "Brandon Williams"
+  "name": "Brandon Williams",
+  "n": {
+   "C": 2,
+   "F": 1,
+   "G": 1
+  }
  },
  "65957222": {
-  "pos": "G",
-  "name": "Jaxson Hayes"
+  "pos": "C",
+  "name": "Jaxson Hayes",
+  "n": {
+   "G": 1,
+   "C": 2
+  }
  },
  "65958107": {
-  "pos": "C",
-  "name": "Saddiq Bey"
+  "pos": "G",
+  "name": "Saddiq Bey",
+  "n": {
+   "C": 1,
+   "G": 2
+  }
  },
  "65958812": {
-  "pos": "F",
-  "name": "Aaron Wiggins"
+  "pos": "G",
+  "name": "Aaron Wiggins",
+  "n": {
+   "F": 1,
+   "G": 2
+  }
  },
  "65958902": {
   "pos": "G",
-  "name": "Jalen Smith"
+  "name": "Jalen Smith",
+  "n": {
+   "G": 2,
+   "F": 1
+  }
  },
  "65959127": {
   "pos": "C",
-  "name": "Colin Castleton"
+  "name": "Colin Castleton",
+  "n": {
+   "C": 4
+  }
  },
  "65959562": {
   "pos": "F",
@@ -741,39 +1471,82 @@
  },
  "65959832": {
   "pos": "C",
-  "name": "Ron Harper Jr."
+  "name": "Ron Harper Jr.",
+  "n": {
+   "C": 2,
+   "G": 2
+  }
  },
  "65962427": {
   "pos": "C",
-  "name": "Neemias Queta"
+  "name": "Neemias Queta",
+  "n": {
+   "C": 2,
+   "F": 1,
+   "G": 1
+  }
+ },
+ "65962802": {
+  "pos": "G",
+  "name": "Elijah Harkless",
+  "n": {
+   "G": 1
+  }
  },
  "65963192": {
   "pos": "G",
-  "name": "AJ Green"
+  "name": "AJ Green",
+  "n": {
+   "G": 3,
+   "F": 2
+  }
  },
  "65966387": {
   "pos": "F",
-  "name": "Trey Murphy III"
+  "name": "Trey Murphy III",
+  "n": {
+   "F": 2
+  }
  },
  "65967827": {
   "pos": "C",
-  "name": "Malachi Smith"
+  "name": "Malachi Smith",
+  "n": {
+   "C": 1,
+   "F": 1
+  }
  },
  "65969297": {
   "pos": "F",
-  "name": "Tolu Smith"
+  "name": "Tolu Smith",
+  "n": {
+   "F": 2,
+   "G": 1
+  }
  },
  "65969357": {
   "pos": "C",
-  "name": "Charles Bassey"
+  "name": "Charles Bassey",
+  "n": {
+   "C": 3,
+   "G": 1
+  }
  },
  "65974172": {
   "pos": "C",
-  "name": "Jalen Slawson"
+  "name": "Jalen Slawson",
+  "n": {
+   "C": 1,
+   "G": 1,
+   "F": 1
+  }
  },
  "65976917": {
   "pos": "G",
-  "name": "Jalen Pickett"
+  "name": "Jalen Pickett",
+  "n": {
+   "G": 2
+  }
  },
  "66166922": {
   "pos": "G",
@@ -781,35 +1554,68 @@
  },
  "66476132": {
   "pos": "F",
-  "name": "Jaden McDaniels"
+  "name": "Jaden McDaniels",
+  "n": {
+   "F": 3,
+   "C": 1
+  }
  },
  "66476192": {
   "pos": "F",
-  "name": "Trendon Watford"
+  "name": "Trendon Watford",
+  "n": {
+   "F": 2,
+   "C": 1
+  }
  },
  "66476237": {
-  "pos": "F",
-  "name": "Tyrese Maxey"
+  "pos": "G",
+  "name": "Tyrese Maxey",
+  "n": {
+   "F": 1,
+   "C": 1,
+   "G": 2
+  }
  },
  "66476252": {
   "pos": "F",
-  "name": "Precious Achiuwa"
+  "name": "Precious Achiuwa",
+  "n": {
+   "F": 4
+  }
  },
  "66476267": {
   "pos": "G",
-  "name": "Onyeka Okongwu"
+  "name": "Onyeka Okongwu",
+  "n": {
+   "G": 2,
+   "F": 1
+  }
  },
  "66476327": {
   "pos": "F",
-  "name": "Trayce Jackson-Davis"
+  "name": "Trayce Jackson-Davis",
+  "n": {
+   "F": 2,
+   "G": 1,
+   "C": 1
+  }
  },
  "66476372": {
   "pos": "G",
-  "name": "Patrick Williams"
+  "name": "Patrick Williams",
+  "n": {
+   "G": 2,
+   "F": 1
+  }
  },
  "66476417": {
   "pos": "F",
-  "name": "Zeke Nnaji"
+  "name": "Zeke Nnaji",
+  "n": {
+   "F": 3,
+   "G": 1
+  }
  },
  "66476777": {
   "pos": "F",
@@ -817,47 +1623,103 @@
  },
  "66477077": {
   "pos": "F",
-  "name": "Tristan Enaruna"
+  "name": "Tristan Enaruna",
+  "n": {
+   "F": 1,
+   "G": 1
+  }
  },
  "66477107": {
   "pos": "C",
-  "name": "Toumani Camara"
+  "name": "Toumani Camara",
+  "n": {
+   "C": 2,
+   "G": 1
+  }
+ },
+ "66477347": {
+  "pos": "C",
+  "name": "Kobe Brown",
+  "n": {
+   "C": 1,
+   "F": 1
+  }
  },
  "66477572": {
-  "pos": "F",
-  "name": "Christian Braun"
+  "pos": "G",
+  "name": "Christian Braun",
+  "n": {
+   "F": 1,
+   "G": 3
+  }
  },
  "66477647": {
   "pos": "F",
-  "name": "Myron Gardner"
+  "name": "Myron Gardner",
+  "n": {
+   "F": 3
+  }
  },
  "66477857": {
   "pos": "F",
   "name": "Keshad Johnson"
  },
  "66478412": {
-  "pos": "C",
-  "name": "Miles McBride"
+  "pos": "G",
+  "name": "Miles McBride",
+  "n": {
+   "C": 1,
+   "G": 2,
+   "F": 1
+  }
  },
  "66479462": {
-  "pos": "G",
-  "name": "Jamison Battle"
+  "pos": "F",
+  "name": "Jamison Battle",
+  "n": {
+   "G": 2,
+   "F": 3
+  }
+ },
+ "66480182": {
+  "pos": "F",
+  "name": "RayJ Dennis",
+  "n": {
+   "F": 1
+  }
  },
  "66482672": {
   "pos": "G",
-  "name": "Marcus Sasser"
+  "name": "Marcus Sasser",
+  "n": {
+   "G": 2,
+   "F": 2
+  }
  },
  "66483437": {
   "pos": "C",
-  "name": "Evan Mobley"
+  "name": "Evan Mobley",
+  "n": {
+   "C": 1,
+   "G": 1,
+   "F": 1
+  }
  },
  "66483557": {
   "pos": "G",
-  "name": "Cade Cunningham"
+  "name": "Cade Cunningham",
+  "n": {
+   "G": 2,
+   "C": 1
+  }
  },
  "66483617": {
   "pos": "F",
-  "name": "Isaiah Jackson"
+  "name": "Isaiah Jackson",
+  "n": {
+   "F": 1,
+   "G": 1
+  }
  },
  "66483782": {
   "pos": "G",
@@ -865,115 +1727,251 @@
  },
  "66483842": {
   "pos": "G",
-  "name": "Micah Peavy"
+  "name": "Micah Peavy",
+  "n": {
+   "G": 2,
+   "F": 1
+  }
  },
  "66483977": {
   "pos": "F",
-  "name": "Day'Ron Sharpe"
+  "name": "Day'Ron Sharpe",
+  "n": {
+   "F": 1,
+   "G": 1,
+   "C": 1
+  }
  },
  "66484682": {
-  "pos": "G",
-  "name": "Jamal Shead"
+  "pos": "F",
+  "name": "Jamal Shead",
+  "n": {
+   "G": 2,
+   "F": 3
+  }
  },
  "66484772": {
   "pos": "C",
-  "name": "Jaylen Clark"
+  "name": "Jaylen Clark",
+  "n": {
+   "C": 3,
+   "F": 1
+  }
  },
  "66487757": {
-  "pos": "C",
-  "name": "Jabari Walker"
+  "pos": "F",
+  "name": "Jabari Walker",
+  "n": {
+   "C": 1,
+   "F": 2,
+   "G": 1
+  }
  },
  "66489797": {
-  "pos": "C",
-  "name": "Max Christie"
+  "pos": "G",
+  "name": "Max Christie",
+  "n": {
+   "C": 1,
+   "G": 2
+  }
  },
  "66490652": {
   "pos": "F",
-  "name": "Jabari Smith Jr."
+  "name": "Jabari Smith Jr.",
+  "n": {
+   "F": 4,
+   "G": 1
+  }
  },
  "66492122": {
   "pos": "G",
-  "name": "Jaden Bradley"
+  "name": "Jaden Bradley",
+  "n": {
+   "G": 4,
+   "F": 1
+  }
  },
  "66493187": {
-  "pos": "G",
-  "name": "James Wiseman"
+  "pos": "C",
+  "name": "James Wiseman",
+  "n": {
+   "G": 1,
+   "C": 2,
+   "F": 1
+  }
  },
  "66493217": {
-  "pos": "F",
-  "name": "Isaiah Stewart"
+  "pos": "G",
+  "name": "Isaiah Stewart",
+  "n": {
+   "F": 1,
+   "G": 2
+  }
  },
  "66493232": {
   "pos": "G",
-  "name": "Josh Green"
+  "name": "Josh Green",
+  "n": {
+   "G": 3
+  }
  },
  "66493307": {
-  "pos": "C",
-  "name": "LaMelo Ball"
+  "pos": "F",
+  "name": "LaMelo Ball",
+  "n": {
+   "C": 1,
+   "G": 1,
+   "F": 2
+  }
  },
  "66493352": {
   "pos": "G",
-  "name": "Tre Mann"
+  "name": "Tre Mann",
+  "n": {
+   "G": 3,
+   "C": 1
+  }
  },
  "66493397": {
   "pos": "G",
-  "name": "Isaac Okoro"
+  "name": "Isaac Okoro",
+  "n": {
+   "G": 2,
+   "C": 1
+  }
  },
  "66493472": {
   "pos": "C",
-  "name": "Oscar Tshiebwe"
+  "name": "Oscar Tshiebwe",
+  "n": {
+   "C": 4
+  }
  },
  "66493772": {
   "pos": "G",
-  "name": "Terrence Shannon Jr."
+  "name": "Terrence Shannon Jr.",
+  "n": {
+   "G": 1,
+   "F": 1
+  }
  },
  "66493787": {
   "pos": "F",
-  "name": "Jaime Jaquez Jr."
+  "name": "Jaime Jaquez Jr.",
+  "n": {
+   "F": 2,
+   "C": 2,
+   "G": 1
+  }
  },
  "66497312": {
   "pos": "F",
-  "name": "Cam Spencer"
+  "name": "Cam Spencer",
+  "n": {
+   "F": 2,
+   "G": 2
+  }
+ },
+ "66498077": {
+  "pos": "F",
+  "name": "Scottie Barnes",
+  "n": {
+   "F": 2
+  }
  },
  "66498107": {
   "pos": "C",
-  "name": "Walker Kessler"
+  "name": "Walker Kessler",
+  "n": {
+   "C": 2,
+   "G": 1,
+   "F": 1
+  }
  },
  "66498122": {
   "pos": "F",
-  "name": "Ziaire Williams"
+  "name": "Ziaire Williams",
+  "n": {
+   "F": 3,
+   "G": 1
+  }
+ },
+ "66498227": {
+  "pos": "G",
+  "name": "Caleb Love",
+  "n": {
+   "G": 1
+  }
  },
  "66498302": {
   "pos": "G",
-  "name": "LJ Cryer"
+  "name": "LJ Cryer",
+  "n": {
+   "G": 3,
+   "F": 1
+  }
  },
  "66498452": {
   "pos": "G",
-  "name": "Dalen Terry"
+  "name": "Dalen Terry",
+  "n": {
+   "G": 2,
+   "F": 1
+  }
  },
  "66498677": {
-  "pos": "C",
-  "name": "Dylan Cardwell"
+  "pos": "F",
+  "name": "Dylan Cardwell",
+  "n": {
+   "C": 1,
+   "F": 2
+  }
  },
  "66498947": {
   "pos": "F",
-  "name": "Tari Eason"
+  "name": "Tari Eason",
+  "n": {
+   "F": 2,
+   "C": 2,
+   "G": 1
+  }
  },
  "66499442": {
   "pos": "G",
-  "name": "Tyler Kolek"
+  "name": "Tyler Kolek",
+  "n": {
+   "G": 4
+  }
  },
  "66499772": {
   "pos": "F",
-  "name": "Jonathan Kuminga"
+  "name": "Jonathan Kuminga",
+  "n": {
+   "F": 2,
+   "G": 2
+  }
+ },
+ "66499802": {
+  "pos": "G",
+  "name": "Moussa Diabate",
+  "n": {
+   "G": 2
+  }
  },
  "66500372": {
   "pos": "F",
-  "name": "Brandon Miller"
+  "name": "Brandon Miller",
+  "n": {
+   "F": 1,
+   "G": 1
+  }
  },
  "66505172": {
   "pos": "F",
-  "name": "DaRon Holmes II"
+  "name": "DaRon Holmes II",
+  "n": {
+   "F": 4
+  }
  },
  "66505337": {
   "pos": "F",
@@ -981,83 +1979,168 @@
  },
  "66505472": {
   "pos": "G",
-  "name": "Keyonte George"
+  "name": "Keyonte George",
+  "n": {
+   "G": 3
+  }
+ },
+ "66505502": {
+  "pos": "C",
+  "name": "Ryan Nembhard",
+  "n": {
+   "C": 1
+  }
  },
  "66559727": {
   "pos": "G",
-  "name": "Jalen Green"
+  "name": "Jalen Green",
+  "n": {
+   "G": 4,
+   "C": 1
+  }
  },
  "68486537": {
   "pos": "F",
-  "name": "Bryce Hopkins"
+  "name": "Bryce Hopkins",
+  "n": {
+   "F": 4
+  }
  },
  "68497577": {
-  "pos": "G",
-  "name": "Franz Wagner"
+  "pos": "F",
+  "name": "Franz Wagner",
+  "n": {
+   "G": 1,
+   "F": 2,
+   "C": 1
+  }
  },
  "68641967": {
   "pos": "G",
-  "name": "Ryan Kalkbrenner"
+  "name": "Ryan Kalkbrenner",
+  "n": {
+   "G": 2,
+   "C": 1
+  }
  },
  "68642357": {
   "pos": "G",
-  "name": "Bryce McGowens"
+  "name": "Bryce McGowens",
+  "n": {
+   "G": 3
+  }
  },
  "68642372": {
   "pos": "F",
-  "name": "Peyton Watson"
+  "name": "Peyton Watson",
+  "n": {
+   "F": 1,
+   "C": 1
+  }
  },
  "68684462": {
   "pos": "F",
-  "name": "Vit Krejci"
+  "name": "Vit Krejci",
+  "n": {
+   "F": 2
+  }
  },
  "68876942": {
-  "pos": "C",
-  "name": "Ryan Rollins"
+  "pos": "F",
+  "name": "Ryan Rollins",
+  "n": {
+   "C": 1,
+   "F": 3,
+   "G": 1
+  }
  },
  "68887472": {
   "pos": "G",
-  "name": "Spencer Jones"
+  "name": "Spencer Jones",
+  "n": {
+   "G": 1,
+   "C": 1
+  }
  },
  "68887592": {
   "pos": "C",
-  "name": "Branden Carlson"
+  "name": "Branden Carlson",
+  "n": {
+   "C": 3
+  }
  },
  "68888252": {
-  "pos": "C",
-  "name": "Julian Champagnie"
+  "pos": "F",
+  "name": "Julian Champagnie",
+  "n": {
+   "C": 1,
+   "F": 2,
+   "G": 1
+  }
  },
  "68888447": {
   "pos": "G",
-  "name": "Bones Hyland"
+  "name": "Bones Hyland",
+  "n": {
+   "G": 3,
+   "F": 1
+  }
  },
  "68891432": {
   "pos": "F",
-  "name": "Jake LaRavia"
+  "name": "Jake LaRavia",
+  "n": {
+   "F": 2,
+   "C": 1,
+   "G": 1
+  }
  },
  "68891777": {
   "pos": "G",
-  "name": "Pat Spencer"
+  "name": "Pat Spencer",
+  "n": {
+   "G": 3
+  }
  },
  "68893502": {
   "pos": "F",
-  "name": "Quenton Jackson"
+  "name": "Quenton Jackson",
+  "n": {
+   "F": 1,
+   "G": 1,
+   "C": 1
+  }
  },
  "68893922": {
   "pos": "F",
-  "name": "Isaiah Crawford"
+  "name": "Isaiah Crawford",
+  "n": {
+   "F": 4,
+   "G": 1
+  }
  },
  "68895752": {
   "pos": "G",
-  "name": "Zyon Pullin"
+  "name": "Zyon Pullin",
+  "n": {
+   "G": 3
+  }
  },
  "68896307": {
   "pos": "F",
-  "name": "Quinten Post"
+  "name": "Quinten Post",
+  "n": {
+   "F": 3
+  }
  },
  "68896577": {
   "pos": "F",
-  "name": "Alex Morales"
+  "name": "Alex Morales",
+  "n": {
+   "F": 2,
+   "G": 1,
+   "C": 1
+  }
  },
  "68896712": {
   "pos": "F",
@@ -1065,15 +2148,27 @@
  },
  "68897942": {
   "pos": "G",
-  "name": "Santi Aldama"
+  "name": "Santi Aldama",
+  "n": {
+   "G": 1,
+   "C": 1
+  }
  },
  "68908682": {
   "pos": "G",
-  "name": "Baylor Scheierman"
+  "name": "Baylor Scheierman",
+  "n": {
+   "G": 2,
+   "F": 1,
+   "C": 1
+  }
  },
  "68915957": {
   "pos": "G",
-  "name": "Kris Murray"
+  "name": "Kris Murray",
+  "n": {
+   "G": 4
+  }
  },
  "68915972": {
   "pos": "C",
@@ -1081,159 +2176,299 @@
  },
  "68932067": {
   "pos": "F",
-  "name": "Olivier-Maxence Prosper"
+  "name": "Olivier-Maxence Prosper",
+  "n": {
+   "F": 3,
+   "G": 1
+  }
  },
  "68948987": {
   "pos": "C",
-  "name": "Lawson Lovering"
+  "name": "Lawson Lovering",
+  "n": {
+   "C": 4
+  }
  },
  "69011012": {
   "pos": "F",
-  "name": "Zach Edey"
+  "name": "Zach Edey",
+  "n": {
+   "F": 2,
+   "G": 2
+  }
  },
  "69016412": {
   "pos": "G",
-  "name": "Oso Ighodaro"
+  "name": "Oso Ighodaro",
+  "n": {
+   "G": 3,
+   "F": 2
+  }
  },
  "69016442": {
   "pos": "G",
-  "name": "Pelle Larsson"
+  "name": "Pelle Larsson",
+  "n": {
+   "G": 1,
+   "C": 1,
+   "F": 1
+  }
  },
  "69031442": {
   "pos": "F",
-  "name": "Sion James"
+  "name": "Sion James",
+  "n": {
+   "F": 3
+  }
  },
  "70246382": {
   "pos": "F",
-  "name": "Deni Avdija"
+  "name": "Deni Avdija",
+  "n": {
+   "F": 2,
+   "G": 1
+  }
  },
  "70255577": {
   "pos": "G",
-  "name": "Bennedict Mathurin"
+  "name": "Bennedict Mathurin",
+  "n": {
+   "G": 2,
+   "C": 1
+  }
  },
  "70256237": {
-  "pos": "F",
-  "name": "Scoot Henderson"
+  "pos": "G",
+  "name": "Scoot Henderson",
+  "n": {
+   "F": 1,
+   "G": 2
+  }
  },
  "70256402": {
   "pos": "G",
-  "name": "Jordan Walsh"
+  "name": "Jordan Walsh",
+  "n": {
+   "G": 3,
+   "F": 1
+  }
  },
  "70257107": {
   "pos": "G",
-  "name": "Kobe Bufkin"
+  "name": "Kobe Bufkin",
+  "n": {
+   "G": 3
+  }
  },
  "70257197": {
   "pos": "F",
-  "name": "Julian Reese"
+  "name": "Julian Reese",
+  "n": {
+   "F": 3
+  }
  },
  "70257272": {
   "pos": "F",
   "name": "Jaylon Tyson"
  },
  "70257317": {
-  "pos": "F",
-  "name": "Jordan Hawkins"
+  "pos": "G",
+  "name": "Jordan Hawkins",
+  "n": {
+   "F": 1,
+   "G": 2
+  }
  },
  "70257557": {
   "pos": "G",
-  "name": "Isaiah Collier"
+  "name": "Isaiah Collier",
+  "n": {
+   "G": 2,
+   "C": 1
+  }
  },
  "70257632": {
   "pos": "F",
-  "name": "Ronald Holland II"
+  "name": "Ronald Holland II",
+  "n": {
+   "F": 2,
+   "C": 1
+  }
  },
  "70257677": {
   "pos": "G",
-  "name": "Bronny James"
+  "name": "Bronny James",
+  "n": {
+   "G": 3
+  }
  },
  "70257737": {
-  "pos": "G",
-  "name": "Jared McCain"
+  "pos": "F",
+  "name": "Jared McCain",
+  "n": {
+   "G": 1,
+   "F": 2
+  }
  },
  "70260077": {
   "pos": "G",
-  "name": "Jahmai Mashack"
+  "name": "Jahmai Mashack",
+  "n": {
+   "G": 3,
+   "C": 1
+  }
  },
  "70260092": {
   "pos": "G",
-  "name": "Blake Wesley"
+  "name": "Blake Wesley",
+  "n": {
+   "G": 2
+  }
  },
  "70264187": {
   "pos": "C",
-  "name": "Brooks Barnhizer"
+  "name": "Brooks Barnhizer",
+  "n": {
+   "C": 1,
+   "G": 1,
+   "F": 1
+  }
  },
  "70265147": {
   "pos": "G",
-  "name": "Ja'Kobe Walter"
+  "name": "Ja'Kobe Walter",
+  "n": {
+   "G": 5
+  }
  },
  "70272167": {
   "pos": "G",
-  "name": "Amen Thompson"
+  "name": "Amen Thompson",
+  "n": {
+   "G": 5
+  }
  },
  "70272197": {
   "pos": "C",
-  "name": "Ausar Thompson"
+  "name": "Ausar Thompson",
+  "n": {
+   "C": 2,
+   "G": 1
+  }
  },
  "70272962": {
   "pos": "F",
-  "name": "Kyle Filipowski"
+  "name": "Kyle Filipowski",
+  "n": {
+   "F": 3
+  }
  },
  "70273157": {
-  "pos": "G",
-  "name": "Taylor Hendricks"
+  "pos": "F",
+  "name": "Taylor Hendricks",
+  "n": {
+   "G": 1,
+   "F": 3
+  }
  },
  "70316837": {
   "pos": "F",
-  "name": "Josh Minott"
+  "name": "Josh Minott",
+  "n": {
+   "F": 2,
+   "G": 1
+  }
  },
  "70481852": {
   "pos": "F",
-  "name": "Trevon Brazile"
+  "name": "Trevon Brazile",
+  "n": {
+   "F": 2,
+   "G": 2
+  }
  },
  "70513847": {
   "pos": "G",
-  "name": "Chaz Lanier"
+  "name": "Chaz Lanier",
+  "n": {
+   "G": 2
+  }
  },
  "70519187": {
   "pos": "C",
-  "name": "Moussa Cisse"
+  "name": "Moussa Cisse",
+  "n": {
+   "C": 3,
+   "F": 1
+  }
  },
  "70519442": {
   "pos": "C",
-  "name": "PJ Hall"
+  "name": "PJ Hall",
+  "n": {
+   "C": 2
+  }
  },
  "70519517": {
   "pos": "G",
   "name": "Jalen Johnson"
  },
  "70519562": {
-  "pos": "G",
-  "name": "Craig Porter Jr."
+  "pos": "F",
+  "name": "Craig Porter Jr.",
+  "n": {
+   "G": 1,
+   "F": 2
+  }
  },
  "70533077": {
   "pos": "F",
-  "name": "Norchad Omier"
+  "name": "Norchad Omier",
+  "n": {
+   "F": 1,
+   "C": 1
+  }
  },
  "70533722": {
   "pos": "G",
-  "name": "Keon Ellis"
+  "name": "Keon Ellis",
+  "n": {
+   "G": 2,
+   "C": 1
+  }
  },
  "70536347": {
   "pos": "F",
-  "name": "Kobe Sanders"
+  "name": "Kobe Sanders",
+  "n": {
+   "F": 1,
+   "C": 1
+  }
  },
  "70536797": {
   "pos": "F",
-  "name": "Tristan da Silva"
+  "name": "Tristan da Silva",
+  "n": {
+   "F": 3,
+   "C": 1
+  }
  },
  "70536827": {
   "pos": "G",
-  "name": "Nique Clifford"
+  "name": "Nique Clifford",
+  "n": {
+   "G": 2,
+   "F": 2
+  }
  },
  "70540907": {
   "pos": "F",
-  "name": "Alijah Martin"
+  "name": "Alijah Martin",
+  "n": {
+   "F": 2,
+   "C": 1,
+   "G": 2
+  }
  },
  "70547792": {
   "pos": "G",
@@ -1241,407 +2476,821 @@
  },
  "70552007": {
   "pos": "G",
-  "name": "Graham Ike"
+  "name": "Graham Ike",
+  "n": {
+   "G": 1,
+   "F": 1,
+   "C": 1
+  }
  },
  "70559402": {
   "pos": "G",
-  "name": "Jayson Kent"
+  "name": "Jayson Kent",
+  "n": {
+   "G": 2
+  }
  },
  "70599422": {
   "pos": "F",
-  "name": "Chris Youngblood"
+  "name": "Chris Youngblood",
+  "n": {
+   "F": 2,
+   "C": 1
+  }
  },
  "70638137": {
   "pos": "G",
-  "name": "Brandin Podziemski"
+  "name": "Brandin Podziemski",
+  "n": {
+   "G": 2,
+   "F": 1,
+   "C": 1
+  }
  },
  "70670147": {
   "pos": "G",
-  "name": "Reed Sheppard"
+  "name": "Reed Sheppard",
+  "n": {
+   "G": 3,
+   "F": 2
+  }
  },
  "70670477": {
   "pos": "F",
-  "name": "Matas Buzelis"
+  "name": "Matas Buzelis",
+  "n": {
+   "F": 2,
+   "G": 1
+  }
  },
  "70670522": {
-  "pos": "G",
-  "name": "Justin Edwards"
+  "pos": "F",
+  "name": "Justin Edwards",
+  "n": {
+   "G": 1,
+   "F": 3
+  }
  },
  "70693802": {
-  "pos": "C",
-  "name": "Anthony Black"
+  "pos": "G",
+  "name": "Anthony Black",
+  "n": {
+   "C": 1,
+   "G": 2
+  }
  },
  "70694507": {
   "pos": "G",
-  "name": "Noah Clowney"
+  "name": "Noah Clowney",
+  "n": {
+   "G": 2,
+   "F": 1
+  }
  },
  "70696217": {
   "pos": "G",
-  "name": "David Jones Garcia"
+  "name": "David Jones Garcia",
+  "n": {
+   "G": 1,
+   "F": 1
+  }
  },
  "71727257": {
   "pos": "C",
-  "name": "Javon Small"
+  "name": "Javon Small",
+  "n": {
+   "C": 1,
+   "G": 1
+  }
  },
  "72681512": {
   "pos": "G",
-  "name": "Cam Christie"
+  "name": "Cam Christie",
+  "n": {
+   "G": 2
+  }
  },
  "72681572": {
   "pos": "G",
-  "name": "Stephon Castle"
+  "name": "Stephon Castle",
+  "n": {
+   "G": 3,
+   "F": 1
+  }
  },
  "72681677": {
   "pos": "F",
-  "name": "Bub Carrington"
+  "name": "Bub Carrington",
+  "n": {
+   "F": 4
+  }
+ },
+ "72730442": {
+  "pos": "C",
+  "name": "Dailyn Swain",
+  "n": {
+   "C": 1
+  }
  },
  "73027412": {
   "pos": "G",
-  "name": "Jaden Hardy"
+  "name": "Jaden Hardy",
+  "n": {
+   "G": 4
+  }
  },
  "73041197": {
-  "pos": "F",
-  "name": "Dyson Daniels"
+  "pos": "G",
+  "name": "Dyson Daniels",
+  "n": {
+   "F": 1,
+   "G": 2
+  }
  },
  "73047767": {
   "pos": "F",
-  "name": "Derik Queen"
+  "name": "Derik Queen",
+  "n": {
+   "F": 2,
+   "C": 1
+  }
  },
  "73068227": {
   "pos": "C",
-  "name": "Alperen Sengun"
+  "name": "Alperen Sengun",
+  "n": {
+   "C": 3,
+   "F": 1,
+   "G": 1
+  }
  },
  "73068242": {
   "pos": "G",
-  "name": "Josh Giddey"
+  "name": "Josh Giddey",
+  "n": {
+   "G": 3
+  }
  },
  "73097417": {
-  "pos": "F",
-  "name": "Labaron Philon Jr."
+  "pos": "G",
+  "name": "Labaron Philon Jr.",
+  "n": {
+   "F": 1,
+   "G": 2,
+   "C": 1
+  }
  },
  "73098137": {
-  "pos": "F",
-  "name": "Ace Bailey"
+  "pos": "G",
+  "name": "Ace Bailey",
+  "n": {
+   "F": 1,
+   "G": 2
+  }
  },
  "73098362": {
-  "pos": "C",
-  "name": "Morez Johnson Jr."
+  "pos": "F",
+  "name": "Morez Johnson Jr.",
+  "n": {
+   "C": 1,
+   "F": 2,
+   "G": 1
+  }
  },
  "73099082": {
   "pos": "F",
-  "name": "Asa Newell"
+  "name": "Asa Newell",
+  "n": {
+   "F": 3
+  }
  },
  "73331942": {
-  "pos": "F",
-  "name": "Ryan Dunn"
+  "pos": "G",
+  "name": "Ryan Dunn",
+  "n": {
+   "F": 2,
+   "G": 3
+  }
  },
  "73437437": {
-  "pos": "C",
-  "name": "Cody Williams"
+  "pos": "F",
+  "name": "Cody Williams",
+  "n": {
+   "C": 1,
+   "G": 1,
+   "F": 2
+  }
  },
  "73446647": {
   "pos": "G",
-  "name": "Walter Clayton Jr."
+  "name": "Walter Clayton Jr.",
+  "n": {
+   "G": 4
+  }
  },
  "73459997": {
-  "pos": "F",
-  "name": "Will Richard"
+  "pos": "C",
+  "name": "Will Richard",
+  "n": {
+   "F": 1,
+   "C": 2,
+   "G": 1
+  }
  },
  "73462802": {
-  "pos": "C",
-  "name": "Malevy Leons"
+  "pos": "F",
+  "name": "Malevy Leons",
+  "n": {
+   "C": 1,
+   "F": 3
+  }
  },
  "73470212": {
-  "pos": "G",
-  "name": "Dalton Knecht"
+  "pos": "F",
+  "name": "Dalton Knecht",
+  "n": {
+   "G": 1,
+   "F": 2
+  }
  },
  "73471217": {
   "pos": "C",
-  "name": "Jaylin Sellers"
+  "name": "Jaylin Sellers",
+  "n": {
+   "C": 1,
+   "F": 1,
+   "G": 1
+  }
  },
  "73511132": {
   "pos": "G",
-  "name": "Ajay Mitchell"
+  "name": "Ajay Mitchell",
+  "n": {
+   "G": 2,
+   "F": 1
+  }
  },
  "73546472": {
-  "pos": "G",
-  "name": "Cedric Coward"
+  "pos": "F",
+  "name": "Cedric Coward",
+  "n": {
+   "G": 1,
+   "C": 1,
+   "F": 2
+  }
  },
  "73758302": {
   "pos": "F",
-  "name": "Alex Karaban"
+  "name": "Alex Karaban",
+  "n": {
+   "F": 4
+  }
  },
  "74963957": {
   "pos": "G",
-  "name": "Ousmane Dieng"
+  "name": "Ousmane Dieng",
+  "n": {
+   "G": 3,
+   "F": 2
+  }
  },
  "74963987": {
   "pos": "F",
-  "name": "Nikola Jovic"
+  "name": "Nikola Jovic",
+  "n": {
+   "F": 2,
+   "G": 1
+  }
  },
  "74964107": {
   "pos": "F",
-  "name": "Gui Santos"
+  "name": "Gui Santos",
+  "n": {
+   "F": 2
+  }
  },
  "74964137": {
   "pos": "F",
-  "name": "Karlo Matkovic"
+  "name": "Karlo Matkovic",
+  "n": {
+   "F": 3
+  }
  },
  "75356462": {
-  "pos": "G",
-  "name": "Tyrese Proctor"
+  "pos": "F",
+  "name": "Tyrese Proctor",
+  "n": {
+   "G": 1,
+   "F": 2
+  }
  },
  "75569132": {
   "pos": "G",
-  "name": "Dylan Harper"
+  "name": "Dylan Harper",
+  "n": {
+   "G": 4
+  }
  },
  "75569162": {
   "pos": "G",
-  "name": "Drake Powell"
+  "name": "Drake Powell",
+  "n": {
+   "G": 2
+  }
  },
  "75630092": {
   "pos": "G",
-  "name": "Cameron Boozer"
+  "name": "Cameron Boozer",
+  "n": {
+   "G": 2,
+   "F": 2
+  }
  },
  "75630152": {
   "pos": "F",
-  "name": "Cooper Flagg"
+  "name": "Cooper Flagg",
+  "n": {
+   "F": 4
+  }
  },
  "75630332": {
   "pos": "G",
-  "name": "Meleek Thomas"
+  "name": "Meleek Thomas",
+  "n": {
+   "G": 2,
+   "F": 1
+  }
  },
  "75630362": {
   "pos": "F",
-  "name": "Koa Peat"
+  "name": "Koa Peat",
+  "n": {
+   "F": 4,
+   "C": 1
+  }
  },
  "75630392": {
   "pos": "F",
-  "name": "Darryn Peterson"
+  "name": "Darryn Peterson",
+  "n": {
+   "F": 2,
+   "G": 1
+  }
  },
  "75666842": {
   "pos": "F",
-  "name": "Leonard Miller"
+  "name": "Leonard Miller",
+  "n": {
+   "F": 2,
+   "G": 1
+  }
  },
  "75910532": {
   "pos": "F",
-  "name": "Adou Thiero"
+  "name": "Adou Thiero",
+  "n": {
+   "F": 1,
+   "G": 1
+  }
  },
  "75911582": {
-  "pos": "C",
-  "name": "Christian Anderson"
+  "pos": "G",
+  "name": "Christian Anderson",
+  "n": {
+   "C": 1,
+   "G": 2
+  }
  },
  "75924587": {
   "pos": "G",
-  "name": "Carter Bryant"
+  "name": "Carter Bryant",
+  "n": {
+   "G": 2,
+   "F": 2
+  }
+ },
+ "75924692": {
+  "pos": "G",
+  "name": "Kon Knueppel",
+  "n": {
+   "G": 1
+  }
  },
  "75924842": {
   "pos": "F",
-  "name": "Isaiah Evans"
+  "name": "Isaiah Evans",
+  "n": {
+   "F": 3,
+   "C": 1
+  }
  },
  "76135457": {
   "pos": "C",
-  "name": "Baba Miller"
+  "name": "Baba Miller",
+  "n": {
+   "C": 2
+  }
  },
  "76226972": {
   "pos": "C",
-  "name": "Sidy Cissoko"
+  "name": "Sidy Cissoko",
+  "n": {
+   "C": 2,
+   "G": 1
+  }
  },
  "76234157": {
   "pos": "F",
-  "name": "Brayden Burries"
+  "name": "Brayden Burries",
+  "n": {
+   "F": 3,
+   "C": 1,
+   "G": 1
+  }
  },
  "76400072": {
-  "pos": "C",
-  "name": "Collin Murray-Boyles"
+  "pos": "F",
+  "name": "Collin Murray-Boyles",
+  "n": {
+   "C": 1,
+   "F": 3,
+   "G": 1
+  }
  },
  "76428332": {
   "pos": "C",
-  "name": "Caleb Wilson"
+  "name": "Caleb Wilson",
+  "n": {
+   "C": 1,
+   "F": 1,
+   "G": 1
+  }
  },
  "76497347": {
   "pos": "G",
-  "name": "Rayan Rupert"
+  "name": "Rayan Rupert",
+  "n": {
+   "G": 3
+  }
  },
  "76527482": {
   "pos": "F",
-  "name": "Mikel Brown Jr."
+  "name": "Mikel Brown Jr.",
+  "n": {
+   "F": 1,
+   "C": 1,
+   "G": 1
+  }
  },
  "76563392": {
   "pos": "G",
-  "name": "Bilal Coulibaly"
+  "name": "Bilal Coulibaly",
+  "n": {
+   "G": 2,
+   "F": 2
+  }
  },
  "76563422": {
   "pos": "F",
-  "name": "Victor Wembanyama"
+  "name": "Victor Wembanyama",
+  "n": {
+   "F": 4
+  }
  },
  "76584317": {
   "pos": "F",
-  "name": "GG Jackson"
+  "name": "GG Jackson",
+  "n": {
+   "F": 3,
+   "C": 1
+  }
  },
  "76584392": {
   "pos": "F",
-  "name": "Tobe Awaka"
+  "name": "Tobe Awaka",
+  "n": {
+   "F": 1,
+   "G": 1
+  }
  },
  "76584542": {
   "pos": "G",
-  "name": "Donovan Clingan"
+  "name": "Donovan Clingan",
+  "n": {
+   "G": 2,
+   "F": 1
+  }
  },
  "76585412": {
-  "pos": "C",
-  "name": "Kel'el Ware"
+  "pos": "G",
+  "name": "Kel'el Ware",
+  "n": {
+   "C": 1,
+   "G": 3,
+   "F": 1
+  }
+ },
+ "76585622": {
+  "pos": "G",
+  "name": "Adem Bona",
+  "n": {
+   "G": 1,
+   "F": 1
+  }
  },
  "76588067": {
   "pos": "F",
-  "name": "Josh Dix"
+  "name": "Josh Dix",
+  "n": {
+   "F": 2,
+   "G": 1
+  }
  },
  "76588157": {
   "pos": "G",
-  "name": "Jett Howard"
+  "name": "Jett Howard",
+  "n": {
+   "G": 4
+  }
  },
  "76588202": {
-  "pos": "F",
-  "name": "Tarris Reed Jr."
+  "pos": "C",
+  "name": "Tarris Reed Jr.",
+  "n": {
+   "F": 1,
+   "C": 3
+  }
  },
  "76588322": {
   "pos": "C",
-  "name": "Carson Cooper"
+  "name": "Carson Cooper",
+  "n": {
+   "C": 2
+  }
  },
  "76588547": {
   "pos": "F",
-  "name": "Nick Martinelli"
+  "name": "Nick Martinelli",
+  "n": {
+   "F": 2
+  }
  },
  "76588622": {
   "pos": "G",
-  "name": "Bruce Thornton"
+  "name": "Bruce Thornton",
+  "n": {
+   "G": 5
+  }
  },
  "76588652": {
-  "pos": "G",
-  "name": "Brice Sensabaugh"
+  "pos": "C",
+  "name": "Brice Sensabaugh",
+  "n": {
+   "G": 1,
+   "C": 2
+  }
  },
  "76588682": {
   "pos": "F",
-  "name": "Felix Okpara"
+  "name": "Felix Okpara",
+  "n": {
+   "F": 2,
+   "G": 1
+  }
  },
  "76588877": {
   "pos": "G",
-  "name": "Braden Smith"
+  "name": "Braden Smith",
+  "n": {
+   "G": 2,
+   "F": 1
+  }
  },
  "76590722": {
   "pos": "F",
-  "name": "Rasheer Fleming"
+  "name": "Rasheer Fleming",
+  "n": {
+   "F": 4
+  }
  },
  "76591667": {
   "pos": "F",
-  "name": "Tobi Lawal"
+  "name": "Tobi Lawal",
+  "n": {
+   "F": 3,
+   "G": 1
+  }
  },
  "76591937": {
   "pos": "G",
-  "name": "Emanuel Sharp"
+  "name": "Emanuel Sharp",
+  "n": {
+   "G": 3,
+   "F": 1
+  }
  },
  "76591967": {
   "pos": "G",
-  "name": "Jarace Walker"
+  "name": "Jarace Walker",
+  "n": {
+   "G": 1,
+   "C": 1,
+   "F": 1
+  }
  },
  "76594937": {
   "pos": "F",
-  "name": "Gradey Dick"
+  "name": "Gradey Dick",
+  "n": {
+   "F": 2
+  }
  },
  "76594997": {
   "pos": "G",
-  "name": "Zuby Ejiofor"
+  "name": "Zuby Ejiofor",
+  "n": {
+   "G": 2,
+   "C": 1
+  }
  },
  "76595312": {
   "pos": "F",
-  "name": "Dillon Mitchell"
+  "name": "Dillon Mitchell",
+  "n": {
+   "F": 3
+  }
  },
  "76608422": {
   "pos": "G",
-  "name": "Ryan Conwell"
+  "name": "Ryan Conwell",
+  "n": {
+   "G": 3
+  }
  },
  "76608662": {
   "pos": "C",
-  "name": "Danny Wolf"
+  "name": "Danny Wolf",
+  "n": {
+   "C": 1,
+   "G": 1,
+   "F": 1
+  }
  },
  "76609052": {
   "pos": "F",
-  "name": "Daniss Jenkins"
+  "name": "Daniss Jenkins",
+  "n": {
+   "F": 2,
+   "G": 1
+  }
  },
  "76618337": {
   "pos": "C",
-  "name": "Isaac Jones"
+  "name": "Isaac Jones",
+  "n": {
+   "C": 3
+  }
  },
  "76619522": {
-  "pos": "C",
-  "name": "Jonathan Mogbo"
+  "pos": "F",
+  "name": "Jonathan Mogbo",
+  "n": {
+   "C": 1,
+   "F": 3
+  }
  },
  "76682372": {
-  "pos": "C",
-  "name": "Jaylen Wells"
+  "pos": "F",
+  "name": "Jaylen Wells",
+  "n": {
+   "C": 1,
+   "G": 1,
+   "F": 2
+  }
  },
  "76710602": {
   "pos": "G",
-  "name": "Cameron Carr"
+  "name": "Cameron Carr",
+  "n": {
+   "G": 3
+  }
  },
  "76870247": {
   "pos": "G",
-  "name": "VJ Edgecombe"
+  "name": "VJ Edgecombe",
+  "n": {
+   "G": 3,
+   "F": 1
+  }
  },
  "77140367": {
   "pos": "G",
-  "name": "Darius Acuff Jr."
+  "name": "Darius Acuff Jr.",
+  "n": {
+   "G": 2,
+   "F": 2
+  }
  },
  "77140382": {
   "pos": "F",
-  "name": "Chris Cenac Jr."
+  "name": "Chris Cenac Jr.",
+  "n": {
+   "F": 3
+  }
  },
  "77141837": {
   "pos": "F",
-  "name": "AJ Dybantsa"
+  "name": "AJ Dybantsa",
+  "n": {
+   "F": 3,
+   "G": 1
+  }
  },
  "77162432": {
   "pos": "G",
-  "name": "Jeremiah Fears"
+  "name": "Jeremiah Fears",
+  "n": {
+   "G": 2,
+   "F": 1
+  }
  },
  "77162957": {
-  "pos": "C",
-  "name": "Will Riley"
+  "pos": "G",
+  "name": "Will Riley",
+  "n": {
+   "C": 1,
+   "G": 2,
+   "F": 1
+  }
  },
  "77237222": {
   "pos": "G",
-  "name": "Kingston Flemings"
+  "name": "Kingston Flemings",
+  "n": {
+   "G": 2,
+   "F": 1
+  }
  },
  "77237792": {
   "pos": "F",
-  "name": "Allen Graves"
+  "name": "Allen Graves",
+  "n": {
+   "F": 4,
+   "G": 1
+  }
  },
  "77364872": {
   "pos": "C",
-  "name": "Rocco Zikarsky"
+  "name": "Rocco Zikarsky",
+  "n": {
+   "C": 3
+  }
  },
  "77415947": {
-  "pos": "F",
-  "name": "Alex Sarr"
+  "pos": "C",
+  "name": "Alex Sarr",
+  "n": {
+   "F": 1,
+   "C": 2
+  }
  },
  "77469452": {
   "pos": "C",
-  "name": "Nate Ament"
+  "name": "Nate Ament",
+  "n": {
+   "C": 2,
+   "F": 2,
+   "G": 1
+  }
  },
  "77565272": {
   "pos": "G",
-  "name": "AJ Johnson"
+  "name": "AJ Johnson",
+  "n": {
+   "G": 3
+  }
  },
  "77619512": {
   "pos": "F",
-  "name": "Kyshawn George"
+  "name": "Kyshawn George",
+  "n": {
+   "F": 4
+  }
  },
  "77620892": {
-  "pos": "G",
-  "name": "Chaney Johnson"
+  "pos": "F",
+  "name": "Chaney Johnson",
+  "n": {
+   "G": 1,
+   "F": 2
+  }
  },
  "77625812": {
   "pos": "C",
-  "name": "Aday Mara"
+  "name": "Aday Mara",
+  "n": {
+   "C": 3
+  }
  },
  "77635712": {
   "pos": "C",
@@ -1649,11 +3298,19 @@
  },
  "77635772": {
   "pos": "F",
-  "name": "Hugo Gonzalez"
+  "name": "Hugo Gonzalez",
+  "n": {
+   "F": 2,
+   "G": 2
+  }
  },
  "77637122": {
   "pos": "F",
-  "name": "Yaxel Lendeborg"
+  "name": "Yaxel Lendeborg",
+  "n": {
+   "F": 2,
+   "G": 2
+  }
  },
  "77648822": {
   "pos": "F",
@@ -1661,82 +3318,164 @@
  },
  "77661497": {
   "pos": "F",
-  "name": "Riley Minix"
+  "name": "Riley Minix",
+  "n": {
+   "F": 2,
+   "G": 1
+  }
  },
  "78056342": {
   "pos": "C",
-  "name": "Khaman Maluach"
+  "name": "Khaman Maluach",
+  "n": {
+   "C": 2,
+   "F": 1,
+   "G": 2
+  }
  },
  "78168692": {
   "pos": "C",
-  "name": "Zaccharie Risacher"
+  "name": "Zaccharie Risacher",
+  "n": {
+   "C": 3,
+   "F": 1
+  }
  },
  "78168707": {
-  "pos": "C",
-  "name": "Tidjane Salaun"
+  "pos": "F",
+  "name": "Tidjane Salaun",
+  "n": {
+   "C": 1,
+   "F": 2
+  }
  },
  "78180812": {
-  "pos": "C",
-  "name": "Pacome Dadiet"
+  "pos": "F",
+  "name": "Pacome Dadiet",
+  "n": {
+   "C": 1,
+   "F": 2,
+   "G": 1
+  }
  },
  "78220667": {
-  "pos": "G",
-  "name": "Kasparas Jakucionis"
+  "pos": "C",
+  "name": "Kasparas Jakucionis",
+  "n": {
+   "G": 1,
+   "C": 2,
+   "F": 2
+  }
  },
  "78225902": {
-  "pos": "C",
-  "name": "Bogoljub Markovic"
+  "pos": "F",
+  "name": "Bogoljub Markovic",
+  "n": {
+   "C": 1,
+   "F": 2
+  }
  },
  "78267257": {
   "pos": "C",
-  "name": "Yang Hansen"
+  "name": "Yang Hansen",
+  "n": {
+   "C": 3
+  }
  },
  "78479852": {
   "pos": "F",
-  "name": "Karim Lopez"
+  "name": "Karim Lopez",
+  "n": {
+   "F": 3,
+   "G": 1
+  }
  },
  "78574517": {
-  "pos": "F",
-  "name": "Tre Johnson"
+  "pos": "G",
+  "name": "Tre Johnson",
+  "n": {
+   "F": 1,
+   "G": 3
+  }
  },
  "78594482": {
-  "pos": "C",
-  "name": "Jase Richardson"
+  "pos": "G",
+  "name": "Jase Richardson",
+  "n": {
+   "C": 1,
+   "G": 3
+  }
  },
  "78594917": {
   "pos": "G",
-  "name": "Liam McNeeley"
+  "name": "Liam McNeeley",
+  "n": {
+   "G": 3
+  }
  },
  "78621527": {
-  "pos": "F",
-  "name": "Bennett Stirtz"
+  "pos": "G",
+  "name": "Bennett Stirtz",
+  "n": {
+   "F": 1,
+   "G": 2
+  }
  },
  "78638507": {
   "pos": "C",
-  "name": "Noa Essengue"
+  "name": "Noa Essengue",
+  "n": {
+   "C": 1,
+   "F": 1,
+   "G": 1
+  }
  },
  "78813542": {
   "pos": "F",
-  "name": "Keaton Wagler"
+  "name": "Keaton Wagler",
+  "n": {
+   "F": 1,
+   "G": 1
+  }
  },
  "78877952": {
   "pos": "G",
-  "name": "Ebuka Okorie"
+  "name": "Ebuka Okorie",
+  "n": {
+   "G": 2
+  }
  },
  "79188017": {
   "pos": "G",
-  "name": "Nolan Traore"
+  "name": "Nolan Traore",
+  "n": {
+   "G": 2,
+   "C": 1
+  }
  },
  "79188062": {
-  "pos": "C",
-  "name": "Joan Beringer"
+  "pos": "G",
+  "name": "Joan Beringer",
+  "n": {
+   "C": 1,
+   "F": 1,
+   "G": 2
+  }
  },
  "79221617": {
   "pos": "F",
-  "name": "Hannes Steinbach"
+  "name": "Hannes Steinbach",
+  "n": {
+   "F": 2
+  }
  },
  "79349567": {
-  "pos": "C",
-  "name": "Mohamed Diawara"
+  "pos": "G",
+  "name": "Mohamed Diawara",
+  "n": {
+   "C": 1,
+   "G": 2,
+   "F": 1
+  }
  }
 }

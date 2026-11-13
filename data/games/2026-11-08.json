@@ -1260,7 +1260,8 @@
      "oreb": 0,
      "dreb": 4,
      "pf": 1,
-     "pm": -4
+     "pm": -4,
+     "starter": true
     },
     {
      "id": 66493787,
@@ -1283,7 +1284,8 @@
      "oreb": 0,
      "dreb": 2,
      "pf": 0,
-     "pm": -6
+     "pm": -6,
+     "starter": true
     },
     {
      "id": 47005487,
@@ -1306,7 +1308,8 @@
      "oreb": 1,
      "dreb": 4,
      "pf": 1,
-     "pm": -3
+     "pm": -3,
+     "starter": true
     },
     {
      "id": 65936942,
@@ -1329,7 +1332,8 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 0,
-     "pm": -3
+     "pm": -3,
+     "starter": true
     },
     {
      "id": 76234157,
@@ -1352,7 +1356,8 @@
      "oreb": 4,
      "dreb": 4,
      "pf": 3,
-     "pm": -12
+     "pm": -12,
+     "starter": true
     },
     {
      "id": 74963957,
@@ -1375,7 +1380,8 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 0,
-     "pm": -2
+     "pm": -2,
+     "starter": false
     },
     {
      "id": 77469452,
@@ -1398,7 +1404,8 @@
      "oreb": 2,
      "dreb": 3,
      "pf": 4,
-     "pm": -14
+     "pm": -14,
+     "starter": false
     },
     {
      "id": 64169897,
@@ -1421,7 +1428,8 @@
      "oreb": 0,
      "dreb": 2,
      "pf": 0,
-     "pm": -2
+     "pm": -2,
+     "starter": false
     },
     {
      "id": 76585412,
@@ -1444,7 +1452,8 @@
      "oreb": 0,
      "dreb": 0,
      "pf": 0,
-     "pm": -15
+     "pm": -15,
+     "starter": false
     },
     {
      "id": 65963192,
@@ -1467,7 +1476,8 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 3,
-     "pm": -21
+     "pm": -21,
+     "starter": false
     },
     {
      "id": 68876942,
@@ -1490,7 +1500,8 @@
      "oreb": 0,
      "dreb": 5,
      "pf": 3,
-     "pm": -7
+     "pm": -7,
+     "starter": false
     },
     {
      "id": 78220667,
@@ -1513,13 +1524,15 @@
      "oreb": 2,
      "dreb": 0,
      "pf": 0,
-     "pm": -11
+     "pm": -11,
+     "starter": false
     },
     {
      "id": 44866712,
      "name": "Caris LeVert",
      "jersey": 12,
-     "teamId": 39
+     "teamId": 39,
+     "starter": false
     },
     {
      "id": 64832,
@@ -1542,7 +1555,8 @@
      "oreb": 1,
      "dreb": 2,
      "pf": 1,
-     "pm": 16
+     "pm": 16,
+     "starter": true
     },
     {
      "id": 60985787,
@@ -1565,7 +1579,8 @@
      "oreb": 1,
      "dreb": 3,
      "pf": 0,
-     "pm": 5
+     "pm": 5,
+     "starter": true
     },
     {
      "id": 65962427,
@@ -1588,7 +1603,8 @@
      "oreb": 5,
      "dreb": 4,
      "pf": 1,
-     "pm": 0
+     "pm": 0,
+     "starter": true
     },
     {
      "id": 48992,
@@ -1611,7 +1627,8 @@
      "oreb": 1,
      "dreb": 2,
      "pf": 1,
-     "pm": -11
+     "pm": -11,
+     "starter": true
     },
     {
      "id": 46179707,
@@ -1634,7 +1651,8 @@
      "oreb": 1,
      "dreb": 2,
      "pf": 3,
-     "pm": 7
+     "pm": 7,
+     "starter": true
     },
     {
      "id": 60988127,
@@ -1657,7 +1675,8 @@
      "oreb": 1,
      "dreb": 2,
      "pf": 1,
-     "pm": 15
+     "pm": 15,
+     "starter": false
     },
     {
      "id": 64170332,
@@ -1680,7 +1699,8 @@
      "oreb": 3,
      "dreb": 2,
      "pf": 3,
-     "pm": 3
+     "pm": 3,
+     "starter": false
     },
     {
      "id": 65278847,
@@ -1703,7 +1723,8 @@
      "oreb": 4,
      "dreb": 3,
      "pf": 0,
-     "pm": 19
+     "pm": 19,
+     "starter": false
     },
     {
      "id": 60996377,
@@ -1726,7 +1747,8 @@
      "oreb": 1,
      "dreb": 4,
      "pf": 2,
-     "pm": 29
+     "pm": 29,
+     "starter": false
     },
     {
      "id": 65959832,
@@ -1749,7 +1771,8 @@
      "oreb": 0,
      "dreb": 0,
      "pf": 0,
-     "pm": -1
+     "pm": -1,
+     "starter": false
     },
     {
      "id": 68908682,
@@ -1772,7 +1795,8 @@
      "oreb": 0,
      "dreb": 1,
      "pf": 1,
-     "pm": 15
+     "pm": 15,
+     "starter": false
     },
     {
      "id": 70256402,
@@ -1795,7 +1819,8 @@
      "oreb": 1,
      "dreb": 2,
      "pf": 3,
-     "pm": 3
+     "pm": 3,
+     "starter": false
     },
     {
      "id": 77635772,
@@ -1818,9 +1843,11 @@
      "oreb": 1,
      "dreb": 1,
      "pf": 0,
-     "pm": 0
+     "pm": 0,
+     "starter": false
     }
-   ]
+   ],
+   "lineupDone": true
   },
   {
    "id": 1556904,
