@@ -1,0 +1,104 @@
+{
+ "date": "2026-11-19",
+ "demo": false,
+ "complete": false,
+ "updatedAt": "2026-11-16T19:59:42.920Z",
+ "games": [
+  {
+   "id": 1579766,
+   "date": "2026-11-19",
+   "start": "2026-11-20T01:00:00.000Z",
+   "status": "scheduled",
+   "statusText": "Scheduled",
+   "home": {
+    "id": 37,
+    "name": "San Antonio Spurs",
+    "short": "Spurs",
+    "abbr": "SA",
+    "logo": "https://highlightly.net/nba/images/teams/37.png",
+    "score": null
+   },
+   "away": {
+    "id": 30,
+    "name": "LA Clippers",
+    "short": "Clippers",
+    "abbr": "LAC",
+    "logo": "https://highlightly.net/nba/images/teams/30.png",
+    "score": null
+   },
+   "players": []
+  },
+  {
+   "id": 1579765,
+   "date": "2026-11-19",
+   "start": "2026-11-20T01:00:00.000Z",
+   "status": "scheduled",
+   "statusText": "Scheduled",
+   "home": {
+    "id": 41,
+    "name": "Minnesota Timberwolves",
+    "short": "Timberwolves",
+    "abbr": "MIN",
+    "logo": "https://highlightly.net/nba/images/teams/41.png",
+    "score": null
+   },
+   "away": {
+    "id": 26,
+    "name": "New York Knicks",
+    "short": "Knicks",
+    "abbr": "NY",
+    "logo": "https://highlightly.net/nba/images/teams/26.png",
+    "score": null
+   },
+   "players": []
+  },
+  {
+   "id": 1579764,
+   "date": "2026-11-19",
+   "start": "2026-11-20T01:00:00.000Z",
+   "status": "scheduled",
+   "statusText": "Scheduled",
+   "home": {
+    "id": 39,
+    "name": "Milwaukee Bucks",
+    "short": "Bucks",
+    "abbr": "MIL",
+    "logo": "https://highlightly.net/nba/images/teams/39.png",
+    "score": null
+   },
+   "away": {
+    "id": 31,
+    "name": "Portland Trail Blazers",
+    "short": "Trail Blazers",
+    "abbr": "POR",
+    "logo": "https://highlightly.net/nba/images/teams/31.png",
+    "score": null
+   },
+   "players": []
+  },
+  {
+   "id": 1579763,
+   "date": "2026-11-19",
+   "start": "2026-11-20T01:00:00.000Z",
+   "status": "scheduled",
+   "statusText": "Scheduled",
+   "home": {
+    "id": 42,
+    "name": "Memphis Grizzlies",
+    "short": "Grizzlies",
+    "abbr": "MEM",
+    "logo": "https://highlightly.net/nba/images/teams/42.png",
+    "score": null
+   },
+   "away": {
+    "id": 43,
+    "name": "Golden State Warriors",
+    "short": "Warriors",
+    "abbr": "GS",
+    "logo": "https://highlightly.net/nba/images/teams/43.png",
+    "score": null
+   },
+   "players": []
+  }
+ ]
+}
