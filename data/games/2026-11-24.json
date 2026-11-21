@@ -1,0 +1,80 @@
+{
+ "date": "2026-11-24",
+ "demo": false,
+ "complete": false,
+ "updatedAt": "2026-11-21T17:05:38.317Z",
+ "games": [
+  {
+   "id": 1588057,
+   "date": "2026-11-24",
+   "start": "2026-11-25T03:00:00.000Z",
+   "status": "scheduled",
+   "statusText": "Scheduled",
+   "home": {
+    "id": 3,
+    "name": "Denver Nuggets",
+    "short": "Nuggets",
+    "abbr": "DEN",
+    "logo": "https://highlightly.net/nba/images/teams/3.png",
+    "score": null
+   },
+   "away": {
+    "id": 40,
+    "name": "Dallas Mavericks",
+    "short": "Mavericks",
+    "abbr": "DAL",
+    "logo": "https://highlightly.net/nba/images/teams/40.png",
+    "score": null
+   },
+   "players": []
+  },
+  {
+   "id": 1588056,
+   "date": "2026-11-24",
+   "start": "2026-11-25T01:00:00.000Z",
+   "status": "scheduled",
+   "statusText": "Scheduled",
+   "home": {
+    "id": 50,
+    "name": "Washington Wizards",
+    "short": "Wizards",
+    "abbr": "WSH",
+    "logo": "https://highlightly.net/nba/images/teams/50.png",
+    "score": null
+   },
+   "away": {
+    "id": 2,
+    "name": "Boston Celtics",
+    "short": "Celtics",
+    "abbr": "BOS",
+    "logo": "https://highlightly.net/nba/images/teams/2.png",
+    "score": null
+   },
+   "players": []
+  },
+  {
+   "id": 1588055,
+   "date": "2026-11-24",
+   "start": "2026-11-25T00:00:00.000Z",
+   "status": "scheduled",
+   "statusText": "Scheduled",
+   "home": {
+    "id": 24,
+    "name": "Orlando Magic",
+    "short": "Magic",
+    "abbr": "ORL",
+    "logo": "https://highlightly.net/nba/images/teams/24.png",
+    "score": null
+   },
+   "away": {
+    "id": 25,
+    "name": "Detroit Pistons",
+    "short": "Pistons",
+    "abbr": "DET",
+    "logo": "https://highlightly.net/nba/images/teams/25.png",
+    "score": null
+   },
+   "players": []
+  }
+ ]
+}
