@@ -3,14 +3,15 @@
   "pos": "F",
   "name": "Dillon Brooks",
   "n": {
-   "F": 2
+   "F": 3
   }
  },
  "2": {
   "pos": "G",
   "name": "Miles Bridges",
   "n": {
-   "G": 2
+   "G": 2,
+   "F": 1
   }
  },
  "3": {
@@ -18,84 +19,93 @@
   "name": "Khaman Maluach",
   "n": {
    "G": 1,
-   "F": 1
+   "F": 1,
+   "C": 1
   }
  },
  "4": {
-  "pos": "C",
+  "pos": "G",
   "name": "Devin Booker",
   "n": {
    "C": 1,
-   "G": 1
+   "G": 2
   }
  },
  "5": {
   "pos": "G",
   "name": "Jalen Green",
   "n": {
-   "G": 1,
+   "G": 2,
    "F": 1
   }
  },
  "6": {
-  "pos": "G",
+  "pos": "F",
   "name": "Oso Ighodaro",
   "n": {
    "G": 1,
-   "F": 1
+   "F": 2
   }
  },
  "7": {
   "pos": "F",
   "name": "Ryan Dunn",
   "n": {
-   "F": 2
+   "F": 3
   }
  },
  "8": {
   "pos": "F",
   "name": "Luke Kennard",
   "n": {
-   "F": 2
+   "F": 2,
+   "C": 1
   }
  },
  "9": {
-  "pos": "C",
+  "pos": "F",
   "name": "Jordan Goodwin",
   "n": {
    "C": 1,
-   "F": 1
+   "F": 2
   }
  },
  "10": {
   "pos": "G",
   "name": "Collin Gillespie",
   "n": {
-   "G": 1,
+   "G": 2,
    "C": 1
   }
  },
  "11": {
-  "pos": "G",
+  "pos": "F",
   "name": "Koa Peat",
   "n": {
    "G": 1,
-   "F": 1
+   "F": 2
   }
  },
  "12": {
   "pos": "F",
   "name": "Rasheer Fleming",
   "n": {
-   "F": 2
+   "F": 3
+  }
+ },
+ "13": {
+  "pos": "C",
+  "name": "Duop Reath",
+  "n": {
+   "C": 1
   }
  },
  "14": {
-  "pos": "C",
+  "pos": "G",
   "name": "Jamaree Bouyea",
   "n": {
    "C": 1,
-   "G": 1
+   "G": 2
   }
  },
  "15": {
@@ -294,16 +304,16 @@
   "pos": "F",
   "name": "Jake LaRavia",
   "n": {
-   "F": 2,
+   "F": 3,
    "G": 1
   }
  },
  "43": {
-  "pos": "F",
+  "pos": "G",
   "name": "Walker Kessler",
   "n": {
    "F": 1,
-   "G": 1
+   "G": 2
   }
  },
  "44": {
@@ -311,7 +321,8 @@
   "name": "Matisse Thybulle",
   "n": {
    "G": 2,
-   "C": 1
+   "C": 1,
+   "F": 1
   }
  },
  "45": {
@@ -319,14 +330,15 @@
   "name": "Luka Doncic",
   "n": {
    "G": 2,
-   "C": 1
+   "C": 1,
+   "F": 1
   }
  },
  "47": {
   "pos": "G",
   "name": "Jarred Vanderbilt",
   "n": {
-   "G": 1,
+   "G": 2,
    "F": 1,
    "C": 1
   }
@@ -336,7 +348,7 @@
   "name": "Sandro Mamukelashvili",
   "n": {
    "C": 2,
-   "F": 1
+   "F": 2
   }
  },
  "49": {
@@ -344,7 +356,8 @@
   "name": "Collin Sexton",
   "n": {
    "G": 1,
-   "F": 2
+   "F": 2,
+   "C": 1
   }
  },
  "50": {
@@ -352,35 +365,35 @@
   "name": "Quentin Grimes",
   "n": {
    "G": 2,
-   "F": 1
+   "F": 2
   }
  },
  "51": {
   "pos": "G",
   "name": "Bronny James",
   "n": {
-   "G": 3
+   "G": 4
   }
  },
  "53": {
   "pos": "G",
   "name": "Jaden Hardy",
   "n": {
-   "G": 3
+   "G": 4
   }
  },
  "54": {
   "pos": "F",
   "name": "Kevon Looney",
   "n": {
-   "F": 3
+   "F": 4
   }
  },
  "56": {
   "pos": "G",
   "name": "Jaden McDaniels",
   "n": {
-   "G": 2,
+   "G": 3,
    "F": 1
   }
  },
@@ -388,7 +401,8 @@
   "pos": "F",
   "name": "Jonathan Kuminga",
   "n": {
-   "F": 3
+   "F": 3,
+   "G": 1
   }
  },
  "58": {
@@ -396,14 +410,15 @@
   "name": "Rudy Gobert",
   "n": {
    "G": 2,
-   "C": 1
+   "C": 1,
+   "F": 1
   }
  },
  "59": {
   "pos": "G",
   "name": "Ayo Dosunmu",
   "n": {
-   "G": 1,
+   "G": 2,
    "C": 1,
    "F": 1
   }
@@ -412,7 +427,7 @@
   "pos": "C",
   "name": "LaMelo Ball",
   "n": {
-   "C": 1,
+   "C": 2,
    "G": 1,
    "F": 1
   }
@@ -422,21 +437,23 @@
   "name": "Trey Lyles",
   "n": {
    "F": 1,
-   "C": 2
+   "C": 2,
+   "G": 1
   }
  },
  "62": {
   "pos": "F",
   "name": "Cody Williams",
   "n": {
-   "F": 3
+   "F": 4
   }
  },
  "63": {
   "pos": "F",
   "name": "Isaiah Evans",
   "n": {
-   "F": 3
+   "F": 3,
+   "G": 1
   }
  },
  "64": {
@@ -444,14 +461,15 @@
   "name": "Joan Beringer",
   "n": {
    "G": 2,
-   "C": 1
+   "C": 1,
+   "F": 1
   }
  },
  "66": {
-  "pos": "F",
+  "pos": "G",
   "name": "Terrence Shannon Jr.",
   "n": {
-   "G": 1,
+   "G": 2,
    "F": 2
   }
  },
@@ -460,14 +478,16 @@
   "name": "Bones Hyland",
   "n": {
    "G": 2,
-   "F": 1
+   "F": 1,
+   "C": 1
   }
  },
  "68": {
   "pos": "G",
   "name": "Zyon Pullin",
   "n": {
-   "G": 2
+   "G": 2,
+   "C": 1
   }
  },
  "69": {
@@ -475,21 +495,21 @@
   "name": "Derrick Jones Jr.",
   "n": {
    "C": 1,
-   "F": 2
+   "F": 3
   }
  },
  "70": {
   "pos": "F",
   "name": "Rui Hachimura",
   "n": {
-   "F": 3
+   "F": 4
   }
  },
  "71": {
-  "pos": "C",
+  "pos": "G",
   "name": "Isaiah Jackson",
   "n": {
-   "G": 1,
+   "G": 2,
    "C": 2
   }
  },
@@ -498,7 +518,7 @@
   "name": "Kris Dunn",
   "n": {
    "G": 2,
-   "F": 1
+   "F": 2
   }
  },
  "73": {
@@ -506,15 +526,16 @@
   "name": "Darius Garland",
   "n": {
    "F": 2,
-   "G": 1
+   "G": 1,
+   "C": 1
   }
  },
  "74": {
-  "pos": "F",
+  "pos": "G",
   "name": "Baba Miller",
   "n": {
    "F": 1,
-   "G": 1,
+   "G": 2,
    "C": 1
   }
  },
@@ -530,15 +551,15 @@
   "name": "Brook Lopez",
   "n": {
    "G": 1,
-   "C": 2
+   "C": 3
   }
  },
  "78": {
-  "pos": "C",
+  "pos": "G",
   "name": "Kobe Sanders",
   "n": {
    "C": 1,
-   "G": 1,
+   "G": 2,
    "F": 1
   }
  },
@@ -554,14 +575,14 @@
   "name": "Gradey Dick",
   "n": {
    "F": 2,
-   "G": 1
+   "G": 2
   }
  },
  "81": {
   "pos": "C",
   "name": "Keaton Wagler",
   "n": {
-   "C": 2,
+   "C": 3,
    "F": 1
   }
  },
@@ -569,7 +590,8 @@
   "pos": "F",
   "name": "Jalen Pickett",
   "n": {
-   "F": 1
+   "F": 1,
+   "G": 1
   }
  },
  "83": {
@@ -677,22 +699,30 @@
   "name": "Kevin Durant",
   "n": {
    "G": 1,
-   "F": 1
+   "F": 1,
+   "C": 1
   }
  },
  "98": {
-  "pos": "G",
+  "pos": "F",
   "name": "Jabari Smith Jr.",
   "n": {
    "G": 1,
-   "F": 1
+   "F": 2
+  }
+ },
+ "99": {
+  "pos": "C",
+  "name": "Clint Capela",
+  "n": {
+   "C": 1
   }
  },
  "100": {
   "pos": "F",
   "name": "Fred VanVleet",
   "n": {
-   "F": 1,
+   "F": 2,
    "G": 1
   }
  },
@@ -700,7 +730,7 @@
   "pos": "G",
   "name": "Amen Thompson",
   "n": {
-   "G": 1,
+   "G": 2,
    "C": 1
   }
  },
@@ -708,7 +738,8 @@
   "pos": "G",
   "name": "Tari Eason",
   "n": {
-   "G": 2
+   "G": 2,
+   "F": 1
   }
  },
  "103": {
@@ -723,7 +754,7 @@
   "pos": "G",
   "name": "Marcus Smart",
   "n": {
-   "G": 1,
+   "G": 2,
    "F": 1
   }
  },
@@ -731,7 +762,7 @@
   "pos": "G",
   "name": "Bogdan Bogdanovic",
   "n": {
-   "G": 1,
+   "G": 2,
    "C": 1
   }
  },
@@ -739,21 +770,21 @@
   "pos": "F",
   "name": "Jae'Sean Tate",
   "n": {
-   "F": 2
+   "F": 3
   }
  },
  "107": {
   "pos": "F",
   "name": "Isaiah Crawford",
   "n": {
-   "F": 2
+   "F": 3
   }
  },
  "108": {
   "pos": "F",
   "name": "Alperen Sengun",
   "n": {
-   "F": 1,
+   "F": 2,
    "G": 1
   }
  },
@@ -761,14 +792,14 @@
   "pos": "C",
   "name": "Reed Sheppard",
   "n": {
-   "C": 2
+   "C": 3
   }
  },
  "110": {
   "pos": "G",
   "name": "Bruce Thornton",
   "n": {
-   "G": 1
+   "G": 2
   }
  },
  "111": {
@@ -880,7 +911,8 @@
   "name": "Pascal Siakam",
   "n": {
    "F": 2,
-   "G": 1
+   "G": 1,
+   "C": 1
   }
  },
  "126": {
@@ -888,44 +920,45 @@
   "name": "Jay Huff",
   "n": {
    "F": 2,
-   "C": 1
+   "C": 2
   }
  },
  "127": {
   "pos": "G",
   "name": "Kelly Oubre Jr.",
   "n": {
-   "G": 3
+   "G": 3,
+   "F": 1
   }
  },
  "128": {
   "pos": "G",
   "name": "Andrew Nembhard",
   "n": {
-   "G": 2
+   "G": 3
   }
  },
  "129": {
   "pos": "G",
   "name": "Aaron Nesmith",
   "n": {
-   "G": 3
+   "G": 4
   }
  },
  "130": {
-  "pos": "G",
+  "pos": "C",
   "name": "Larry Nance Jr.",
   "n": {
    "G": 1,
    "F": 1,
-   "C": 1
+   "C": 2
   }
  },
  "131": {
   "pos": "G",
   "name": "Jalen Slawson",
   "n": {
-   "G": 2,
+   "G": 3,
    "C": 1
   }
  },
@@ -933,44 +966,46 @@
   "pos": "G",
   "name": "Jarace Walker",
   "n": {
-   "G": 3
+   "G": 4
   }
  },
  "133": {
   "pos": "C",
   "name": "Kobe Brown",
   "n": {
-   "C": 1
+   "C": 1,
+   "G": 1
   }
  },
  "134": {
   "pos": "F",
   "name": "Quenton Jackson",
   "n": {
-   "F": 3
+   "F": 4
   }
  },
  "135": {
-  "pos": "F",
+  "pos": "G",
   "name": "Braden Smith",
   "n": {
    "F": 1,
    "C": 1,
-   "G": 1
+   "G": 2
   }
  },
  "136": {
   "pos": "F",
   "name": "Obi Toppin",
   "n": {
-   "F": 3
+   "F": 4
   }
  },
  "137": {
   "pos": "C",
   "name": "Ivica Zubac",
   "n": {
-   "C": 3
+   "C": 3,
+   "F": 1
   }
  },
  "138": {
@@ -984,48 +1019,49 @@
   "pos": "G",
   "name": "Scottie Barnes",
   "n": {
-   "G": 2
+   "G": 2,
+   "F": 1
   }
  },
  "140": {
-  "pos": "C",
+  "pos": "F",
   "name": "Jakob Poeltl",
   "n": {
-   "F": 1,
+   "F": 2,
    "C": 2
   }
  },
  "141": {
-  "pos": "C",
+  "pos": "G",
   "name": "Immanuel Quickley",
   "n": {
    "C": 1,
-   "G": 1,
+   "G": 2,
    "F": 1
   }
  },
  "142": {
-  "pos": "F",
+  "pos": "C",
   "name": "Ja'Kobe Walter",
   "n": {
-   "C": 1,
+   "C": 2,
    "F": 2
   }
  },
  "143": {
-  "pos": "F",
+  "pos": "G",
   "name": "Trayce Jackson-Davis",
   "n": {
    "F": 1,
-   "G": 1,
+   "G": 2,
    "C": 1
   }
  },
  "144": {
-  "pos": "G",
+  "pos": "F",
   "name": "Jamison Battle",
   "n": {
-   "F": 1,
+   "F": 2,
    "G": 2
   }
  },
@@ -1033,22 +1069,22 @@
   "pos": "F",
   "name": "Collin Murray-Boyles",
   "n": {
-   "F": 3
+   "F": 4
   }
  },
  "146": {
   "pos": "F",
   "name": "Allen Graves",
   "n": {
-   "F": 3
+   "F": 4
   }
  },
  "147": {
-  "pos": "G",
+  "pos": "F",
   "name": "Jamal Shead",
   "n": {
    "G": 1,
-   "F": 1,
+   "F": 2,
    "C": 1
   }
  },
@@ -1056,7 +1092,7 @@
   "pos": "F",
   "name": "Kyle Anderson",
   "n": {
-   "F": 2,
+   "F": 3,
    "C": 1
   }
  },
@@ -1064,14 +1100,14 @@
   "pos": "G",
   "name": "Jaden Bradley",
   "n": {
-   "G": 2
+   "G": 3
   }
  },
  "150": {
   "pos": "F",
   "name": "Alijah Martin",
   "n": {
-   "F": 3
+   "F": 4
   }
  },
  "151": {
@@ -1271,18 +1307,18 @@
   }
  },
  "177": {
-  "pos": "C",
+  "pos": "F",
   "name": "Jalen Smith",
   "n": {
    "C": 1,
-   "F": 1
+   "F": 2
   }
  },
  "178": {
   "pos": "F",
   "name": "Matas Buzelis",
   "n": {
-   "F": 3
+   "F": 4
   }
  },
  "180": {
@@ -1297,7 +1333,7 @@
   "pos": "G",
   "name": "Josh Giddey",
   "n": {
-   "G": 2,
+   "G": 3,
    "F": 1
   }
  },
@@ -1305,14 +1341,15 @@
   "pos": "G",
   "name": "Zach Collins",
   "n": {
-   "G": 3
+   "G": 3,
+   "F": 1
   }
  },
  "183": {
   "pos": "F",
   "name": "Isaac Okoro",
   "n": {
-   "F": 2,
+   "F": 3,
    "C": 1
   }
  },
@@ -1321,14 +1358,14 @@
   "name": "Leonard Miller",
   "n": {
    "G": 1,
-   "F": 2
+   "F": 3
   }
  },
  "185": {
   "pos": "F",
   "name": "Tobe Awaka",
   "n": {
-   "F": 1
+   "F": 2
   }
  },
  "186": {
@@ -1336,7 +1373,7 @@
   "name": "Noa Essengue",
   "n": {
    "C": 2,
-   "F": 1
+   "F": 2
   }
  },
  "187": {
@@ -1344,7 +1381,7 @@
   "name": "Buddy Hield",
   "n": {
    "C": 2,
-   "G": 1
+   "G": 2
   }
  },
  "188": {
@@ -1352,22 +1389,30 @@
   "name": "Tre Jones",
   "n": {
    "G": 2,
-   "F": 1
+   "F": 2
   }
  },
  "189": {
   "pos": "G",
   "name": "Jordan Hawkins",
   "n": {
-   "G": 2
+   "G": 2,
+   "C": 1
+  }
+ },
+ "190": {
+  "pos": "G",
+  "name": "Jaylin Sellers",
+  "n": {
+   "G": 1
   }
  },
  "191": {
-  "pos": "C",
+  "pos": "F",
   "name": "Patrick Williams",
   "n": {
    "C": 1,
-   "F": 1,
+   "F": 2,
    "G": 1
   }
  },
@@ -1375,14 +1420,16 @@
   "pos": "F",
   "name": "Julius Randle",
   "n": {
-   "F": 2
+   "F": 2,
+   "G": 1
   }
  },
  "193": {
   "pos": "F",
   "name": "Michael Porter Jr.",
   "n": {
-   "F": 2
+   "F": 2,
+   "C": 1
   }
  },
  "194": {
@@ -1396,7 +1443,7 @@
   "pos": "C",
   "name": "Day'Ron Sharpe",
   "n": {
-   "C": 2
+   "C": 3
   }
  },
  "196": {
@@ -1410,7 +1457,7 @@
   "pos": "G",
   "name": "Josh Minott",
   "n": {
-   "G": 1,
+   "G": 2,
    "F": 1
   }
  },
@@ -1418,30 +1465,31 @@
   "pos": "G",
   "name": "Noah Clowney",
   "n": {
-   "G": 2
+   "G": 3
   }
  },
  "199": {
   "pos": "F",
   "name": "Danny Wolf",
   "n": {
-   "F": 1,
+   "F": 2,
    "G": 1
   }
  },
  "200": {
-  "pos": "G",
+  "pos": "F",
   "name": "Moritz Wagner",
   "n": {
    "G": 1,
-   "F": 1
+   "F": 2
   }
  },
  "201": {
   "pos": "G",
   "name": "Terance Mann",
   "n": {
-   "G": 2
+   "G": 2,
+   "C": 1
   }
  },
  "202": {
@@ -1449,7 +1497,8 @@
   "name": "Keon Ellis",
   "n": {
    "C": 1,
-   "F": 1
+   "F": 1,
+   "G": 1
   }
  },
  "203": {
@@ -1463,7 +1512,7 @@
   "pos": "G",
   "name": "Mikel Brown Jr.",
   "n": {
-   "G": 2
+   "G": 3
   }
  },
  "206": {
@@ -1565,18 +1614,19 @@
   }
  },
  "220": {
-  "pos": "G",
+  "pos": "F",
   "name": "LeBron James",
   "n": {
    "G": 1,
-   "F": 1
+   "F": 2
   }
  },
  "221": {
   "pos": "F",
   "name": "Dean Wade",
   "n": {
-   "F": 1
+   "F": 1,
+   "G": 1
   }
  },
  "222": {
@@ -1590,7 +1640,7 @@
   "pos": "G",
   "name": "Tyrese Maxey",
   "n": {
-   "G": 2
+   "G": 3
   }
  },
  "224": {
@@ -1598,14 +1648,22 @@
   "name": "VJ Edgecombe",
   "n": {
    "G": 1,
-   "C": 1
+   "C": 1,
+   "F": 1
+  }
+ },
+ "225": {
+  "pos": "G",
+  "name": "Adem Bona",
+  "n": {
+   "G": 1
   }
  },
  "226": {
   "pos": "G",
   "name": "Kentavious Caldwell-Pope",
   "n": {
-   "G": 2
+   "G": 3
   }
  },
  "227": {
@@ -1613,22 +1671,24 @@
   "name": "Anfernee Simons",
   "n": {
    "F": 1,
-   "C": 1
+   "C": 1,
+   "G": 1
   }
  },
  "228": {
   "pos": "F",
   "name": "Labaron Philon Jr.",
   "n": {
-   "F": 2
+   "F": 2,
+   "C": 1
   }
  },
  "229": {
-  "pos": "G",
+  "pos": "F",
   "name": "Justin Edwards",
   "n": {
    "G": 1,
-   "F": 1
+   "F": 2
   }
  },
  "230": {
@@ -1863,21 +1923,23 @@
   "name": "Moussa Diabate",
   "n": {
    "G": 1,
-   "F": 1
+   "F": 1,
+   "C": 1
   }
  },
  "262": {
   "pos": "F",
   "name": "Brandon Miller",
   "n": {
-   "F": 2
+   "F": 3
   }
  },
  "263": {
   "pos": "C",
   "name": "Naz Reid",
   "n": {
-   "C": 2
+   "C": 2,
+   "G": 1
   }
  },
  "264": {
@@ -1892,28 +1954,29 @@
   "name": "Sion James",
   "n": {
    "F": 1,
-   "C": 1
+   "C": 1,
+   "G": 1
   }
  },
  "266": {
   "pos": "G",
   "name": "Royce O'Neale",
   "n": {
-   "G": 2
+   "G": 3
   }
  },
  "267": {
   "pos": "F",
   "name": "Tidjane Salaun",
   "n": {
-   "F": 2
+   "F": 3
   }
  },
  "268": {
   "pos": "F",
   "name": "Hannes Steinbach",
   "n": {
-   "F": 1
+   "F": 2
   }
  },
  "269": {
@@ -1921,7 +1984,15 @@
   "name": "Ryan Kalkbrenner",
   "n": {
    "C": 1,
-   "F": 1
+   "F": 1,
+   "G": 1
+  }
+ },
+ "270": {
+  "pos": "C",
+  "name": "PJ Hall",
+  "n": {
+   "C": 1
   }
  },
  "272": {
@@ -1929,24 +2000,25 @@
   "name": "Christian Anderson",
   "n": {
    "G": 1,
-   "C": 1
+   "C": 1,
+   "F": 1
   }
  },
  "273": {
   "pos": "F",
   "name": "Liam McNeeley",
   "n": {
-   "F": 1,
+   "F": 2,
    "C": 1
   }
  },
  "274": {
-  "pos": "F",
+  "pos": "C",
   "name": "Toumani Camara",
   "n": {
    "F": 1,
    "G": 1,
-   "C": 1
+   "C": 2
   }
  },
  "275": {
@@ -1954,7 +2026,7 @@
   "name": "Deni Avdija",
   "n": {
    "F": 2,
-   "G": 1
+   "G": 2
   }
  },
  "276": {
@@ -1962,15 +2034,15 @@
   "name": "Donovan Clingan",
   "n": {
    "G": 1,
-   "F": 2
+   "F": 3
   }
  },
  "277": {
-  "pos": "C",
+  "pos": "F",
   "name": "Damian Lillard",
   "n": {
    "C": 1,
-   "F": 1,
+   "F": 2,
    "G": 1
   }
  },
@@ -1978,14 +2050,15 @@
   "pos": "G",
   "name": "Ja Morant",
   "n": {
-   "G": 1
+   "G": 2
   }
  },
  "279": {
   "pos": "F",
   "name": "John Tonje",
   "n": {
-   "F": 3
+   "F": 3,
+   "C": 1
   }
  },
  "280": {
@@ -1993,14 +2066,15 @@
   "name": "Micah Potter",
   "n": {
    "G": 1,
-   "C": 2
+   "C": 2,
+   "F": 1
   }
  },
  "281": {
-  "pos": "F",
+  "pos": "G",
   "name": "Branden Carlson",
   "n": {
-   "G": 1,
+   "G": 2,
    "F": 2
   }
  },
@@ -2009,14 +2083,15 @@
   "name": "Yang Hansen",
   "n": {
    "C": 2,
-   "F": 1
+   "F": 1,
+   "G": 1
   }
  },
  "283": {
   "pos": "G",
   "name": "Jrue Holiday",
   "n": {
-   "G": 1,
+   "G": 2,
    "C": 1,
    "F": 1
   }
@@ -2026,15 +2101,15 @@
   "name": "Scoot Henderson",
   "n": {
    "F": 1,
-   "G": 2
+   "G": 3
   }
  },
  "286": {
-  "pos": "C",
+  "pos": "F",
   "name": "Sidy Cissoko",
   "n": {
    "C": 1,
-   "F": 1,
+   "F": 2,
    "G": 1
   }
  },
@@ -2042,7 +2117,8 @@
   "pos": "G",
   "name": "Cedric Coward",
   "n": {
-   "G": 3
+   "G": 3,
+   "F": 1
   }
  },
  "288": {
@@ -2058,21 +2134,22 @@
   "name": "Jaylen Wells",
   "n": {
    "G": 2,
-   "F": 1
+   "F": 2
   }
  },
  "290": {
   "pos": "F",
   "name": "Zach Edey",
   "n": {
-   "F": 2
+   "F": 2,
+   "G": 1
   }
  },
  "291": {
   "pos": "F",
   "name": "Ty Jerome",
   "n": {
-   "F": 1
+   "F": 2
   }
  },
  "292": {
@@ -2084,10 +2161,10 @@
   }
  },
  "293": {
-  "pos": "G",
+  "pos": "F",
   "name": "Kris Murray",
   "n": {
-   "F": 1,
+   "F": 2,
    "G": 2
   }
  },
@@ -2095,7 +2172,7 @@
   "pos": "C",
   "name": "Olivier-Maxence Prosper",
   "n": {
-   "C": 2,
+   "C": 3,
    "F": 1
   }
  },
@@ -2103,21 +2180,23 @@
   "pos": "F",
   "name": "Taylor Hendricks",
   "n": {
-   "F": 3
+   "F": 3,
+   "C": 1
   }
  },
  "297": {
   "pos": "F",
   "name": "Karim Lopez",
   "n": {
-   "F": 3
+   "F": 4
   }
  },
  "298": {
   "pos": "F",
   "name": "Isaiah Stewart",
   "n": {
-   "F": 2
+   "F": 2,
+   "C": 1
   }
  },
  "299": {
@@ -2125,14 +2204,14 @@
   "name": "Quinten Post",
   "n": {
    "C": 2,
-   "F": 1
+   "F": 2
   }
  },
  "301": {
   "pos": "G",
   "name": "Cam Spencer",
   "n": {
-   "G": 3
+   "G": 4
   }
  },
  "302": {
@@ -2140,23 +2219,23 @@
   "name": "Herbert Jones",
   "n": {
    "C": 1,
-   "F": 2
+   "F": 3
   }
  },
  "303": {
-  "pos": "G",
+  "pos": "F",
   "name": "Zion Williamson",
   "n": {
    "G": 1,
    "C": 1,
-   "F": 1
+   "F": 2
   }
  },
  "304": {
   "pos": "F",
   "name": "Trey Murphy III",
   "n": {
-   "F": 1
+   "F": 2
   }
  },
  "305": {
@@ -2164,7 +2243,7 @@
   "name": "Karlo Matkovic",
   "n": {
    "C": 2,
-   "F": 1
+   "F": 2
   }
  },
  "306": {
@@ -2172,7 +2251,7 @@
   "name": "Jeremiah Fears",
   "n": {
    "F": 2,
-   "G": 1
+   "G": 2
   }
  },
  "308": {
@@ -2180,14 +2259,22 @@
   "name": "Derik Queen",
   "n": {
    "F": 2,
-   "C": 1
+   "C": 2
   }
  },
  "309": {
   "pos": "F",
   "name": "Saddiq Bey",
   "n": {
-   "F": 3
+   "F": 3,
+   "C": 1
+  }
+ },
+ "310": {
+  "pos": "F",
+  "name": "Bryce McGowens",
+  "n": {
+   "F": 1
   }
  },
  "312": {
@@ -2201,22 +2288,22 @@
   "pos": "C",
   "name": "DeAndre Jordan",
   "n": {
-   "C": 3
+   "C": 4
   }
  },
  "314": {
   "pos": "G",
   "name": "AJ Johnson",
   "n": {
-   "G": 2,
+   "G": 3,
    "F": 1
   }
  },
  "315": {
-  "pos": "G",
+  "pos": "F",
   "name": "Domantas Sabonis",
   "n": {
-   "F": 1,
+   "F": 2,
    "G": 2
   }
  },
@@ -2224,7 +2311,7 @@
   "pos": "G",
   "name": "De'Andre Hunter",
   "n": {
-   "G": 2,
+   "G": 3,
    "F": 1
   }
  },
@@ -2232,23 +2319,24 @@
   "pos": "G",
   "name": "Precious Achiuwa",
   "n": {
-   "G": 2
+   "G": 2,
+   "F": 1
   }
  },
  "318": {
   "pos": "G",
   "name": "Zach LaVine",
   "n": {
-   "G": 2,
+   "G": 3,
    "C": 1
   }
  },
  "319": {
-  "pos": "G",
+  "pos": "C",
   "name": "Darius Acuff Jr.",
   "n": {
    "G": 1,
-   "C": 1,
+   "C": 2,
    "F": 1
   }
  },
@@ -2256,31 +2344,32 @@
   "pos": "F",
   "name": "Alex Karaban",
   "n": {
-   "F": 3
+   "F": 3,
+   "C": 1
   }
  },
  "321": {
-  "pos": "G",
+  "pos": "F",
   "name": "Malik Monk",
   "n": {
    "G": 1,
    "C": 1,
-   "F": 1
+   "F": 2
   }
  },
  "322": {
-  "pos": "F",
+  "pos": "C",
   "name": "Nique Clifford",
   "n": {
-   "C": 1,
+   "C": 2,
    "F": 2
   }
  },
  "323": {
-  "pos": "G",
+  "pos": "F",
   "name": "Emanuel Sharp",
   "n": {
-   "F": 1,
+   "F": 2,
    "G": 2
   }
  },
@@ -2289,7 +2378,7 @@
   "name": "Leaky Black",
   "n": {
    "G": 1,
-   "F": 2
+   "F": 3
   }
  },
  "326": {
@@ -2297,7 +2386,7 @@
   "name": "Daeqwon Plowden",
   "n": {
    "C": 1,
-   "G": 2
+   "G": 3
   }
  },
  "327": {
@@ -2385,40 +2474,42 @@
   }
  },
  "340": {
-  "pos": "G",
+  "pos": "C",
   "name": "Jarrett Allen",
   "n": {
    "G": 1,
-   "C": 1
+   "C": 2
   }
  },
  "342": {
   "pos": "C",
   "name": "James Harden",
   "n": {
-   "C": 2
+   "C": 2,
+   "F": 1
   }
  },
  "343": {
-  "pos": "F",
+  "pos": "G",
   "name": "Donovan Mitchell",
   "n": {
    "F": 1,
-   "G": 1
+   "G": 2
   }
  },
  "344": {
   "pos": "C",
   "name": "Peyton Watson",
   "n": {
-   "C": 1
+   "C": 1,
+   "G": 1
   }
  },
  "345": {
   "pos": "G",
   "name": "Mario Hezonja",
   "n": {
-   "G": 1,
+   "G": 2,
    "C": 1
   }
  },
@@ -2426,15 +2517,22 @@
   "pos": "G",
   "name": "Sam Merrill",
   "n": {
-   "G": 1,
+   "G": 2,
    "F": 1
+  }
+ },
+ "347": {
+  "pos": "G",
+  "name": "Jaylon Tyson",
+  "n": {
+   "G": 1
   }
  },
  "348": {
   "pos": "G",
   "name": "Craig Porter Jr.",
   "n": {
-   "G": 2
+   "G": 3
   }
  },
  "349": {
@@ -2442,22 +2540,23 @@
   "name": "Tyrese Proctor",
   "n": {
    "F": 1,
-   "G": 1
+   "G": 1,
+   "C": 1
   }
  },
  "351": {
   "pos": "G",
   "name": "Thomas Bryant",
   "n": {
-   "G": 1,
+   "G": 2,
    "F": 1
   }
  },
  "353": {
-  "pos": "F",
+  "pos": "G",
   "name": "Isaiah Hartenstein",
   "n": {
-   "G": 1,
+   "G": 2,
    "F": 2
   }
  },
@@ -2465,7 +2564,7 @@
   "pos": "F",
   "name": "Kenrich Williams",
   "n": {
-   "F": 1,
+   "F": 2,
    "G": 1,
    "C": 1
   }
@@ -2474,15 +2573,15 @@
   "pos": "F",
   "name": "Shai Gilgeous-Alexander",
   "n": {
-   "F": 1,
+   "F": 2,
    "C": 1
   }
  },
  "356": {
-  "pos": "F",
+  "pos": "G",
   "name": "Jared McCain",
   "n": {
-   "G": 1,
+   "G": 2,
    "F": 2
   }
  },
@@ -2491,7 +2590,7 @@
   "name": "Ajay Mitchell",
   "n": {
    "F": 1,
-   "G": 2
+   "G": 3
   }
  },
  "358": {
@@ -2506,7 +2605,8 @@
   "pos": "F",
   "name": "Brooks Barnhizer",
   "n": {
-   "F": 3
+   "F": 3,
+   "G": 1
   }
  },
  "360": {
@@ -2514,30 +2614,30 @@
   "name": "Aday Mara",
   "n": {
    "G": 2,
-   "C": 1
+   "C": 2
   }
  },
  "361": {
-  "pos": "F",
+  "pos": "G",
   "name": "Micah Peavy",
   "n": {
    "F": 1,
-   "G": 1
+   "G": 2
   }
  },
  "362": {
   "pos": "G",
   "name": "Josh Dix",
   "n": {
-   "G": 2
+   "G": 3
   }
  },
  "363": {
-  "pos": "G",
+  "pos": "F",
   "name": "Bennett Stirtz",
   "n": {
    "G": 1,
-   "F": 1,
+   "F": 2,
    "C": 1
   }
  },
@@ -2554,15 +2654,15 @@
   "pos": "G",
   "name": "Josh Green",
   "n": {
-   "G": 3,
+   "G": 4,
    "F": 1
   }
  },
  "366": {
-  "pos": "C",
+  "pos": "F",
   "name": "Keyonte George",
   "n": {
-   "F": 1,
+   "F": 2,
    "C": 2,
    "G": 1
   }
@@ -2572,14 +2672,15 @@
   "name": "Ace Bailey",
   "n": {
    "F": 2,
-   "G": 2
+   "G": 2,
+   "C": 1
   }
  },
  "368": {
   "pos": "G",
   "name": "Darryn Peterson",
   "n": {
-   "G": 4
+   "G": 5
   }
  },
  "369": {
@@ -2587,7 +2688,8 @@
   "name": "Brice Sensabaugh",
   "n": {
    "G": 3,
-   "F": 1
+   "F": 1,
+   "C": 1
   }
  },
  "370": {
@@ -2595,7 +2697,8 @@
   "name": "Mo Bamba",
   "n": {
    "C": 1,
-   "F": 3
+   "F": 3,
+   "G": 1
   }
  },
  "371": {
@@ -2603,14 +2706,14 @@
   "name": "Svi Mykhailiuk",
   "n": {
    "F": 3,
-   "G": 1
+   "G": 2
   }
  },
  "372": {
   "pos": "G",
   "name": "Josh Okogie",
   "n": {
-   "G": 3,
+   "G": 4,
    "F": 1
   }
  },
@@ -2618,7 +2721,7 @@
   "pos": "G",
   "name": "Isaiah Collier",
   "n": {
-   "G": 3,
+   "G": 4,
    "C": 1
   }
  },
@@ -2626,7 +2729,7 @@
   "pos": "F",
   "name": "Kyle Filipowski",
   "n": {
-   "F": 2,
+   "F": 3,
    "G": 1,
    "C": 1
   }
@@ -2635,7 +2738,7 @@
   "pos": "C",
   "name": "Tony Bradley",
   "n": {
-   "C": 3,
+   "C": 4,
    "F": 1
   }
  },
@@ -2657,14 +2760,15 @@
   "pos": "G",
   "name": "Devin Vassell",
   "n": {
-   "G": 3
+   "G": 4
   }
  },
  "380": {
   "pos": "F",
   "name": "Stephon Castle",
   "n": {
-   "F": 3
+   "F": 3,
+   "G": 1
   }
  },
  "381": {
@@ -2678,7 +2782,7 @@
   "pos": "C",
   "name": "Keldon Johnson",
   "n": {
-   "C": 2,
+   "C": 3,
    "G": 1
   }
  },
@@ -2687,7 +2791,7 @@
   "name": "Julian Champagnie",
   "n": {
    "C": 1,
-   "F": 2
+   "F": 3
   }
  },
  "384": {
@@ -2695,14 +2799,15 @@
   "name": "Carter Bryant",
   "n": {
    "C": 1,
-   "F": 2
+   "F": 2,
+   "G": 1
   }
  },
  "385": {
-  "pos": "G",
+  "pos": "F",
   "name": "Luke Kornet",
   "n": {
-   "F": 1,
+   "F": 2,
    "G": 2
   }
  },
@@ -2711,14 +2816,14 @@
   "name": "Harrison Barnes",
   "n": {
    "G": 2,
-   "F": 1
+   "F": 2
   }
  },
  "387": {
   "pos": "F",
   "name": "David Jones Garcia",
   "n": {
-   "F": 1,
+   "F": 2,
    "G": 1
   }
  },
@@ -2727,37 +2832,39 @@
   "name": "Tarris Reed Jr.",
   "n": {
    "C": 2,
-   "F": 1
+   "F": 1,
+   "G": 1
   }
  },
  "389": {
   "pos": "G",
   "name": "Jordan McLaughlin",
   "n": {
-   "G": 2,
+   "G": 3,
    "C": 1
   }
  },
  "390": {
-  "pos": "F",
+  "pos": "G",
   "name": "Kyle Kuzma",
   "n": {
    "F": 1,
-   "G": 1
+   "G": 2
   }
  },
  "391": {
   "pos": "G",
   "name": "Jaime Jaquez Jr.",
   "n": {
-   "G": 3
+   "G": 3,
+   "F": 1
   }
  },
  "392": {
   "pos": "C",
   "name": "Myles Turner",
   "n": {
-   "C": 1,
+   "C": 2,
    "G": 1
   }
  },
@@ -2766,7 +2873,7 @@
   "name": "Tyler Herro",
   "n": {
    "G": 2,
-   "C": 1
+   "C": 2
   }
  },
  "394": {
@@ -2774,7 +2881,15 @@
   "name": "Ryan Rollins",
   "n": {
    "F": 1,
-   "C": 1
+   "C": 1,
+   "G": 1
+  }
+ },
+ "395": {
+  "pos": "F",
+  "name": "Ousmane Dieng",
+  "n": {
+   "F": 1
   }
  },
  "396": {
@@ -2782,7 +2897,7 @@
   "name": "Nate Ament",
   "n": {
    "G": 1,
-   "F": 2
+   "F": 3
   }
  },
  "397": {
@@ -2797,15 +2912,15 @@
   "name": "Jericho Sims",
   "n": {
    "F": 1,
-   "C": 2
+   "C": 3
   }
  },
  "399": {
-  "pos": "G",
+  "pos": "C",
   "name": "Kel'el Ware",
   "n": {
    "G": 1,
-   "C": 1,
+   "C": 2,
    "F": 1
   }
  },
@@ -2813,17 +2928,17 @@
   "pos": "F",
   "name": "Gary Trent Jr.",
   "n": {
-   "F": 2,
+   "F": 3,
    "G": 1
   }
  },
  "401": {
-  "pos": "C",
+  "pos": "F",
   "name": "AJ Green",
   "n": {
    "C": 1,
    "G": 1,
-   "F": 1
+   "F": 2
   }
  },
  "402": {
@@ -2831,14 +2946,14 @@
   "name": "Brayden Burries",
   "n": {
    "G": 2,
-   "F": 1
+   "F": 2
   }
  },
  "403": {
   "pos": "F",
   "name": "Kasparas Jakucionis",
   "n": {
-   "F": 2,
+   "F": 3,
    "G": 1
   }
  },
@@ -2847,21 +2962,22 @@
   "name": "Caris LeVert",
   "n": {
    "G": 2,
-   "F": 1
+   "F": 1,
+   "C": 1
   }
  },
  "405": {
   "pos": "G",
   "name": "Dailyn Swain",
   "n": {
-   "G": 2
+   "G": 3
   }
  },
  "406": {
   "pos": "G",
   "name": "Kevin McCullar Jr.",
   "n": {
-   "G": 1
+   "G": 2
   }
  },
  "407": {
@@ -2877,14 +2993,21 @@
   "name": "Jordan Poole",
   "n": {
    "F": 2,
-   "G": 1
+   "G": 2
+  }
+ },
+ "411": {
+  "pos": "C",
+  "name": "Jaylen Brown",
+  "n": {
+   "C": 1
   }
  },
  "412": {
   "pos": "G",
   "name": "Meleek Thomas",
   "n": {
-   "G": 1,
+   "G": 2,
    "F": 1
   }
  },
@@ -2893,15 +3016,15 @@
   "name": "Ziaire Williams",
   "n": {
    "G": 2,
-   "F": 1
+   "F": 2
   }
  },
  "416": {
-  "pos": "G",
+  "pos": "F",
   "name": "Robert Williams III",
   "n": {
    "G": 1,
-   "F": 1
+   "F": 2
   }
  },
  "418": {
@@ -2909,22 +3032,24 @@
   "name": "Egor Demin",
   "n": {
    "G": 1,
-   "C": 1
+   "C": 1,
+   "F": 1
   }
  },
  "424": {
-  "pos": "F",
+  "pos": "G",
   "name": "Alex Caruso",
   "n": {
    "F": 1,
-   "G": 1
+   "G": 2
   }
  },
  "432": {
   "pos": "F",
   "name": "Carson Cooper",
   "n": {
-   "F": 2
+   "F": 2,
+   "C": 1
   }
  },
  "433": {
@@ -2932,7 +3057,7 @@
   "name": "Jahmai Mashack",
   "n": {
    "C": 1,
-   "G": 2
+   "G": 3
   }
  },
  "434": {
@@ -2964,11 +3089,18 @@
    "G": 1
   }
  },
+ "443": {
+  "pos": "F",
+  "name": "Ja'Kobi Gillespie",
+  "n": {
+   "F": 1
+  }
+ },
  "445": {
   "pos": "G",
   "name": "Jabari Walker",
   "n": {
-   "G": 1,
+   "G": 2,
    "F": 1
   }
  },
@@ -2976,7 +3108,7 @@
   "pos": "F",
   "name": "Keegan Murray",
   "n": {
-   "F": 3
+   "F": 4
   }
  },
  "447": {
@@ -2984,14 +3116,16 @@
   "name": "Yves Missi",
   "n": {
    "C": 2,
-   "F": 1
+   "F": 1,
+   "G": 1
   }
  },
  "448": {
   "pos": "F",
   "name": "Steven Adams",
   "n": {
-   "F": 2
+   "F": 2,
+   "G": 1
   }
  },
  "451": {
@@ -3013,8 +3147,22 @@
   "pos": "F",
   "name": "Jayson Kent",
   "n": {
-   "F": 1,
+   "F": 2,
    "G": 1,
+   "C": 1
+  }
+ },
+ "456": {
+  "pos": "F",
+  "name": "Harrison Ingram",
+  "n": {
+   "F": 1
+  }
+ },
+ "457": {
+  "pos": "C",
+  "name": "Maliq Brown",
+  "n": {
    "C": 1
   }
  },
@@ -3023,15 +3171,15 @@
   "name": "Adou Thiero",
   "n": {
    "G": 1,
-   "F": 2
+   "F": 3
   }
  },
  "463": {
-  "pos": "G",
+  "pos": "F",
   "name": "Cameron Carr",
   "n": {
    "G": 1,
-   "F": 1,
+   "F": 2,
    "C": 1
   }
  },
@@ -3047,14 +3195,15 @@
   "pos": "C",
   "name": "Jonas Aidoo",
   "n": {
-   "C": 2
+   "C": 2,
+   "G": 1
   }
  },
  "483": {
   "pos": "G",
   "name": "Javon Small",
   "n": {
-   "G": 1,
+   "G": 2,
    "F": 1
   }
  },
@@ -3069,16 +3218,16 @@
   "pos": "C",
   "name": "Nic Claxton",
   "n": {
-   "C": 1,
+   "C": 2,
    "F": 1
   }
  },
  "497": {
-  "pos": "G",
+  "pos": "C",
   "name": "Norchad Omier",
   "n": {
    "G": 1,
-   "C": 1
+   "C": 2
   }
  },
  "500": {
@@ -3106,12 +3255,20 @@
   "pos": "F",
   "name": "Jaron Pierre Jr.",
   "n": {
-   "F": 3
+   "F": 3,
+   "G": 1
   }
  },
  "517": {
   "pos": "F",
   "name": "Malik Dia",
+  "n": {
+   "F": 2
+  }
+ },
+ "519": {
+  "pos": "F",
+  "name": "Kobe Bufkin",
   "n": {
    "F": 1
   }
@@ -3120,16 +3277,16 @@
   "pos": "G",
   "name": "Dylan Cardwell",
   "n": {
-   "G": 2,
+   "G": 3,
    "C": 1
   }
  },
  "541": {
-  "pos": "C",
+  "pos": "G",
   "name": "Malachi Smith",
   "n": {
    "C": 1,
-   "G": 1
+   "G": 2
   }
  },
  "559": {
@@ -3172,6 +3329,14 @@
   "pos": "F",
   "name": "Johni Broome",
   "n": {
+   "F": 1,
+   "G": 1
+  }
+ },
+ "588": {
+  "pos": "F",
+  "name": "Brandon Ingram",
+  "n": {
    "F": 1
   }
  },
@@ -3179,14 +3344,22 @@
   "pos": "C",
   "name": "Yanic Konan Niederhauser",
   "n": {
-   "C": 2
+   "C": 2,
+   "G": 1
   }
  },
  "591": {
   "pos": "G",
   "name": "Max Strus",
   "n": {
-   "G": 3
+   "G": 4
+  }
+ },
+ "595": {
+  "pos": "F",
+  "name": "Grant Nelson",
+  "n": {
+   "F": 1
   }
  },
  "598": {
@@ -3222,15 +3395,16 @@
   "pos": "G",
   "name": "Dominick Barlow",
   "n": {
-   "G": 1
+   "G": 1,
+   "F": 1
   }
  },
  "637": {
-  "pos": "G",
+  "pos": "C",
   "name": "Tacko Fall",
   "n": {
    "G": 1,
-   "C": 1
+   "C": 2
   }
  },
  "654": {
@@ -3238,7 +3412,7 @@
   "name": "Mason Plumlee",
   "n": {
    "G": 1,
-   "C": 2
+   "C": 3
   }
  },
  "655": {
@@ -3246,6 +3420,13 @@
   "name": "Nikola Topic",
   "n": {
    "F": 1
+  }
+ },
+ "672": {
+  "pos": "G",
+  "name": "Gabe Vincent",
+  "n": {
+   "G": 1
   }
  },
  "677": {
@@ -3259,14 +3440,14 @@
   "pos": "G",
   "name": "Coby White",
   "n": {
-   "G": 2
+   "G": 3
   }
  },
  "707": {
   "pos": "G",
   "name": "T.J. McConnell",
   "n": {
-   "G": 2
+   "G": 3
   }
  },
  "30557": {
