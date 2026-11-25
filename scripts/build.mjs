@@ -28,7 +28,15 @@ const played = p => (p.min ?? 0) > 0 || (p.pts ?? 0) > 0;
 const positions = demo ? {} : (await readJson('data/positions.json', {}));
 const POS_GROUPS = { G: 'Bases y escoltas', F: 'Aleros y ala-pivotes', C: 'Pivotes' };
 const POS_NAMES = { PG: 'Base', SG: 'Escolta', G: 'Base / escolta', SF: 'Alero', PF: 'Ala-pivote', F: 'Alero / ala-pivote', C: 'Pivote' };
-const posOf = id => String(positions[id]?.pos ?? '').toUpperCase().split(/[-/ ]/)[0];
+// Fichas de jugadores (/players/{id}): foto y posición oficial. La oficial manda sobre la de las formaciones.
+const profiles = demo ? {} : (await readJson('data/profiles.json', {}));
+const posOf = id => String(profiles[id]?.pos ?? positions[id]?.pos ?? '').toUpperCase().split(/[-/ ]/)[0];
+const bio = id => { const x = profiles[id]; if (!x) return ''; const parts = [x.height && esc(x.height), x.weight && esc(x.weight), x.draft?.year && `draft ${x.draft.year}${x.draft.pick ? ` (#${x.draft.pick})` : ''}`].filter(Boolean); return parts.length ? parts.join(' · ') + ' · ' : ''; };
+const initials = name => String(name ?? '').split(/\s+/).filter(Boolean).slice(0, 2).map(w => w[0]).join('').toUpperCase();
+// Foto del jugador con marco de sticker; si no hay foto (o no carga), sus iniciales.
+const face = (p, size = 'md') => profiles[p.id]?.photo
+  ? `<img class="face ${size}" src="${esc(profiles[p.id].photo)}" alt="" loading="lazy" data-abbr="${esc(initials(p.name))}">`
+  : `<span class="face ${size} mono" aria-hidden="true">${esc(initials(p.name))}</span>`;
 const groupOf = id => {
   const a = posOf(id);
   return ['PG', 'SG', 'G'].includes(a) ? 'G' : ['SF', 'PF', 'F'].includes(a) ? 'F' : a === 'C' ? 'C' : null;
@@ -194,11 +202,11 @@ const teamUrl = (t, root) => `${root}equipo/${t.slug}.html`;
 const playerUrl = (p, root) => `${root}jugador/${p.slug}.html`;
 const gameUrl = (slug, root) => `${root}partido/${slug}.html`;
 const hotCard = (h, stat, root) => `<a class="hot card" href="${playerUrl(h.p, root)}?stat=${stat}&amp;n=5&amp;line=${h.line}#comparador">
-  <span class="who"><strong>${esc(h.p.name)}${h.over >= 4 ? ' 🔥' : ''}</strong><small>${esc(h.p.team?.abbr)} ${h.home ? 'vs' : '@'} ${esc(h.opp.abbr)} · ${fmtTime(h.g.start)}</small></span>
+  <span class="hot-top">${face(h.p, "sm")}<span class="who"><strong>${esc(h.p.name)}${h.over >= 4 ? ' <span class="hotmark">HOT</span>' : ''}</strong><small>${esc(h.p.team?.abbr)} ${h.home ? 'vs' : '@'} ${esc(h.opp.abbr)} · ${fmtTime(h.g.start)}</small></span></span>
   <span class="hot-line">Más de ${fmtLine(h.line)} ${HOT_STATS[stat][1]} en <strong>${h.over} de 5</strong> · prom. últ. 5: ${fmt(h.a5)}</span>
 </a>`;
 const badge = (t, size = 'md') => t.logo
-  ? `<img class="logo ${size}" src="${esc(t.logo)}" alt="" loading="lazy" width="40" height="40">`
+  ? `<img class="logo ${size}" src="${esc(t.logo)}" alt="" loading="lazy" width="40" height="40" data-abbr="${esc(t.abbr)}">`
   : `<span class="logo ${size} mono" aria-hidden="true">${esc(t.abbr)}</span>`;
 
 const ad = label => config.adsenseClient
@@ -234,16 +242,19 @@ function page({ path, title, desc, body, home = false }) {
 <meta property="og:description" content="${esc(desc)}">
 <meta property="og:type" content="website">
 <meta property="og:locale" content="es_AR">
-<meta name="theme-color" content="#0f172a">
+<meta name="theme-color" content="#0e0f12">
 ${demo ? '<meta name="robots" content="noindex">' : ''}
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%232f5bea'/%3E%3Cpath d='M6 22h20' stroke='%23ffb020' stroke-width='3'/%3E%3Cpath d='M9 18v-6M16 18V8M23 18v-9' stroke='white' stroke-width='3' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='15' fill='%230e0f12' stroke='white' stroke-width='2'/%3E%3Cpath d='M7 19h18' stroke='%23c8ff3d' stroke-width='1.5' stroke-dasharray='2 2'/%3E%3Cpath d='M10 22v-4M16 22V9M22 22v-9' stroke='%23c8ff3d' stroke-width='3.5' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Barlow+Condensed:ital,wght@1,800;1,900&family=Barlow:wght@400;600;700&family=Space+Mono:wght@700&family=Yellowtail&display=swap">
 <link rel="stylesheet" href="${root}assets/style.css">
 ${config.adsenseClient ? `<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${esc(config.adsenseClient)}" crossorigin="anonymous"></script>` : ''}
 </head>
 <body data-root="${root}">
 ${demo ? '<div class="demo-bar">DEMO · Datos de ejemplo con jugadores inventados</div>' : ''}
 <header class="top">
-  <a class="brand" href="${root}index.html" aria-label="${esc(config.name)}, inicio"><span class="brand-mark" aria-hidden="true"></span>${esc(config.name)}</a>
+  <a class="brand" href="${root}index.html" aria-label="${esc(config.name)}, inicio">${LOGO}</a>
   <nav><a href="${root}index.html#hoy">Hoy</a><a href="${root}racha-hoy.html">Racha</a><a href="${root}jugadores.html">Jugadores</a><a href="${root}defensa.html">Defensa</a></nav>
 </header>
 ${home ? '' : `<div class="top-search">${searchForm(root)}</div>`}
@@ -262,6 +273,14 @@ ${body}
 `;
   return write(path, html);
 }
+
+// Logo: sticker troquelado (borde negro, borde blanco grueso, letra cursiva y la "línea" verde abajo).
+const LOGO = `<svg class="logo-sticker" viewBox="0 0 150 66" aria-hidden="true"><g transform="rotate(-6 75 33)" font-family="Yellowtail, cursive" font-size="44" text-anchor="middle">
+<text x="75" y="42" fill="#0e0f12" stroke="#0e0f12" stroke-width="15" stroke-linejoin="round" paint-order="stroke">Sharpi</text>
+<text x="75" y="42" fill="#fff" stroke="#fff" stroke-width="11" stroke-linejoin="round" paint-order="stroke">Sharpi</text>
+<path d="M33 54 C60 60, 98 59, 122 49" stroke="#fff" stroke-width="10" fill="none" stroke-linecap="round"/>
+<text x="75" y="42" fill="#0e0f12">Sharpi</text>
+<path d="M33 54 C60 60, 98 59, 122 49" stroke="#c8ff3d" stroke-width="3.5" fill="none" stroke-linecap="round"/></g></svg>`;
 
 async function write(path, content) {
   await mkdir(dirname(`${OUT}/${path}`), { recursive: true });
@@ -334,9 +353,11 @@ await write('data/buscador.json', JSON.stringify([...players.values()]
     desc: 'Estadísticas NBA en español para apostadores: últimos 5, 10 y 20 partidos de cada jugador, comparador contra la línea, defensa de cada equipo y partidos de hoy.',
     body: `
 <section class="hero">
-  <h1>Estadísticas NBA para apostar</h1>
+  <p class="kicker">Estadísticas NBA · en español</p>
+  <h1>¿Pasa la <span class="mark">línea</span> hoy?</h1>
   <p class="lead">Buscá un jugador, cargá la línea y mirá cuántas veces la superó.</p>
   ${searchForm('', true)}
+  <p class="note note-hero" aria-hidden="true">↑ escribilo como lo dirías, lo entiende</p>
   <div class="chips">${exampleQueries.map(q => `<button type="button" class="chip" data-q="${esc(q)}">${esc(q)}</button>`).join('')}</div>
 </section>
 
@@ -346,9 +367,9 @@ await write('data/buscador.json', JSON.stringify([...players.values()]
 </section>
 
 ${hotToday.length ? `<section class="block">
-  <div class="block-head"><h2>🔥 En racha hoy</h2><a href="racha-hoy.html">Ver todas las rachas →</a></div>
+  <div class="block-head"><h2>En racha hoy</h2><span class="note" aria-hidden="true">los que vienen enchufados</span><a href="racha-hoy.html">Ver todas las rachas →</a></div>
   <div class="hots">${hotToday.slice(0, 8).map(h => hotCard(h, 'pts', '')).join('')}</div>
-  <p class="muted small">Jugadores de hoy que superaron su propia línea de puntos (su promedio de los últimos 10, redondeado a ,5) en la mayoría de sus últimos 5 partidos. 🔥 = 4 o 5 de 5.</p>
+  <p class="muted small">Jugadores de hoy que superaron su propia línea de puntos (su promedio de los últimos 10, redondeado a ,5) en la mayoría de sus últimos 5 partidos. HOT = 4 o 5 de 5.</p>
 </section>` : ''}
 
 ${ad('inicio')}
@@ -357,12 +378,12 @@ ${best.length ? `<section class="block">
   <div class="block-head"><h2>Figuras de la última fecha</h2><span class="muted">${esc(fmtLongDay(lastDay.date))}</span></div>
   <div class="leaders">${best.map(({ p, g }) => {
     const pl = players.get(p.id); const opp = p.teamId === g.home.id ? g.away : g.home;
-    return `<a class="leader card" href="${playerUrl(pl, '')}"><span class="big">${p.pts}</span><span class="unit">PTS</span><span class="who"><strong>${esc(p.name)}</strong><small>${esc(pl.team?.abbr)} vs ${esc(opp.abbr)} · ${p.reb ?? 0} REB · ${p.ast ?? 0} AST</small></span></a>`;
+    return `<a class="leader card" href="${playerUrl(pl, '')}">${face(pl, "sm")}<span class="big">${p.pts}</span><span class="unit">PTS</span><span class="who"><strong>${esc(p.name)}</strong><small>${esc(pl.team?.abbr)} vs ${esc(opp.abbr)} · ${p.reb ?? 0} REB · ${p.ast ?? 0} AST</small></span></a>`;
   }).join('')}</div>
 </section>` : ''}
 
 <section class="block">
-  <div class="block-head"><h2>Máximos anotadores</h2><span class="muted">promedio últimos 10</span></div>
+  <div class="block-head"><h2>Máximos anotadores</h2><span class="note" aria-hidden="true">promedio de los últimos 10</span></div>
   <ol class="rank card">${topScorers.slice(0, 10).map(p => `<li><a href="${playerUrl(p, '')}"><span class="name">${esc(p.name)}</span><span class="muted">${esc(p.team?.abbr)}</span><span class="val">${fmt(avg(p.log, 'pts', 10))}</span></a></li>`).join('')}</ol>
 </section>
 
@@ -400,10 +421,10 @@ for (const p of players.values()) {
     body: `
 <section class="player-hero card">
   <div class="ph-top">
-    ${t ? badge(t, 'lg') : ''}
+    <div class="face-wrap">${face(p, 'xl')}${t ? badge(t, 'md') : ''}</div>
     <div>
       <h1>${esc(p.name)}${demo ? ' <span class="tag">DEMO</span>' : ''}</h1>
-      <p class="muted">${t ? `<a href="${teamUrl(t, root)}">${esc(t.name)}</a>` : ''}${p.jersey ? ` · #${esc(p.jersey)}` : ''} ${POS_NAMES[posOf(p.id)] ? ` · ${POS_NAMES[posOf(p.id)]}` : ''} · ${p.log.length} partidos esta temporada${starts.length ? ` · titular en ${starts.filter(e => e.st).length} de ${starts.length}` : ''}</p>
+      <p class="muted">${t ? `<a href="${teamUrl(t, root)}">${esc(t.name)}</a>` : ''}${p.jersey ? ` · #${esc(p.jersey)}` : ''} ${POS_NAMES[posOf(p.id)] ? ` · ${POS_NAMES[posOf(p.id)]}` : ''} · ${bio(p.id)}${p.log.length} partidos esta temporada${starts.length ? ` · titular en ${starts.filter(e => e.st).length} de ${starts.length}` : ''}</p>
     </div>
   </div>
   <div class="bignums">
@@ -415,6 +436,7 @@ for (const p of players.values()) {
 
 <section class="block" id="comparador">
   <h2>Comparador contra la línea</h2>
+  <p class="note note-cmp" aria-hidden="true">poné la línea de tu casa de apuestas ↓</p>
   <div class="card cmp">
     <div class="cmp-controls">
       <label>Estadística
@@ -599,8 +621,8 @@ ${ad('ataque')}`,
     desc: 'Los jugadores de los partidos de hoy que superaron su línea en 4 o 5 de sus últimos 5 partidos, en puntos, rebotes, asistencias, triples y PRA.',
     body: `
 <section class="block">
-  <h1>🔥 En racha hoy</h1>
-  <p class="lead">${todayGames.length ? `Jugadores de los ${todayGames.length} partidos de hoy que superaron su propia línea en la mayoría de sus últimos 5 partidos (🔥 = 4 o 5 de 5).` : 'Hoy no hay partidos de NBA.'}</p>
+  <h1>En racha hoy</h1>
+  <p class="lead">${todayGames.length ? `Jugadores de los ${todayGames.length} partidos de hoy que superaron su propia línea en la mayoría de sus últimos 5 partidos (HOT = 4 o 5 de 5).` : 'Hoy no hay partidos de NBA.'}</p>
   <nav class="seg jump" aria-label="Estadísticas">${Object.entries(HOT_STATS).map(([k, [l]]) => `<a href="#${k}">${l}</a>`).join('')}</nav>
 </section>
 ${sections.join('\n')}
@@ -654,7 +676,7 @@ for (const day of days) {
         : `Previa de ${g.away.name} vs ${g.home.name}: promedios de los jugadores, defensa y ataque de cada equipo y jugadores en racha.`,
       body: `${header}
 ${final ? `<section class="block"><h2>Estadísticas del partido</h2>${sides.map(boxTable).join('')}</section>` : `
-${hots.length ? `<section class="block"><h2>🔥 En racha</h2><div class="hots">${hots.slice(0, 8).map(({ h, stat }) => hotCard(h, stat, root)).join('')}</div></section>` : ''}
+${hots.length ? `<section class="block"><h2>En racha</h2><div class="hots">${hots.slice(0, 8).map(({ h, stat }) => hotCard(h, stat, root)).join('')}</div></section>` : ''}
 <section class="block"><h2>Cómo llegan</h2><div class="ctxgrid">${sides.map(teamCtx).join('')}</div></section>
 <section class="block"><h2>Jugadores</h2>${sides.map(previewTable).join('')}<p class="muted small">PTS 5 y PTS 10: promedio de puntos en los últimos 5 y 10 partidos. El resto, últimos 10.</p></section>`}
 ${ad('partido')}`,

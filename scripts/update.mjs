@@ -145,7 +145,7 @@ function parseLineups(res) {
 }
 
 const normName = s => String(s ?? '').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/[^a-z]/g, '');
-const MAX_LINEUPS = Number(process.env.MAX_LINEUPS || 40);
+const MAX_LINEUPS = Number(process.env.MAX_LINEUPS || 15);
 
 // Pide formaciones de los partidos más recientes que tengan jugadores sin posición conocida.
 async function updatePositions() {
@@ -192,6 +192,48 @@ async function updatePositions() {
   return found;
 }
 
+// Ficha de cada jugador (/players/{id}): foto, posición oficial, altura, peso y draft.
+// Una consulta por jugador; primero los que más minutos juegan. Se completa en varios días.
+const MAX_PROFILES = Number(process.env.MAX_PROFILES || 70);
+async function updateProfiles() {
+  const path = 'data/profiles.json';
+  const profiles = await readJson(path, {});
+  const minutes = new Map();
+  for (const f of await listGameFiles(DIR)) {
+    for (const g of (await readJson(`${DIR}/${f}`)).games) {
+      for (const p of g.players ?? []) minutes.set(p.id, (minutes.get(p.id) ?? 0) + (p.min ?? 0));
+    }
+  }
+  const todo = [...minutes].filter(([id, m]) => m > 0 && !profiles[id]).sort((a, b) => b[1] - a[1]).map(([id]) => id);
+  let calls = 0, empty = 0, found = 0;
+  for (const id of todo) {
+    if (calls >= MAX_PROFILES || MAX_REQUESTS - used < 1) break;
+    calls++;
+    const res = await api(`/players/${id}`);
+    const x = (Array.isArray(res) ? res : Array.isArray(res?.data) ? res.data : [res?.data ?? res])[0];
+    if (!x?.id && !x?.fullName) {
+      empty++;
+      console.warn(`  Ficha vacía para el jugador ${id}. Respuesta: ${JSON.stringify(res).slice(0, 500)}`);
+      if (empty >= 3 && !found) { console.warn('  Las fichas vienen vacías: se corta para no gastar consultas.'); break; }
+      continue;
+    }
+    const pr = x.profile ?? {};
+    profiles[id] = {
+      name: x.fullName ?? pr.fullName ?? null,
+      photo: x.logo || null,
+      pos: pr.position?.abbreviation ?? null,
+      height: pr.height ?? null,
+      weight: pr.weight ?? null,
+      birth: pr.birthDate ?? null,
+      draft: pr.draft?.year ? { year: pr.draft.year, round: pr.draft.round, pick: pr.draft.pick } : null,
+    };
+    found++;
+  }
+  await writeJson(path, profiles);
+  const withPhoto = Object.values(profiles).filter(p => p.photo).length;
+  return `${found} nuevas (${withPhoto} de ${Object.keys(profiles).length} con foto; faltan ${Math.max(0, todo.length - found)})`;
+}
+
 const today = ymd();
 const existing = new Set(await listGameFiles(DIR));
 console.log(`Actualizando (hoy NBA: ${today}, máximo ${MAX_REQUESTS} consultas)`);
@@ -215,6 +257,7 @@ try {
 
   // Con lo que sobra del cupo: posiciones y titulares.
   if (MAX_REQUESTS - used >= 1) console.log(`  Posiciones: ${await updatePositions()} jugadores con posición nueva.`);
+  if (MAX_REQUESTS - used >= 1) console.log(`  Fichas de jugadores: ${await updateProfiles()}.`);
 } catch (e) {
   if (!(e instanceof BudgetError)) throw e;
   console.log(`  ${e.message} Lo que falta se baja en la próxima corrida.`);

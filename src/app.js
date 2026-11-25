@@ -1,3 +1,15 @@
+// Escudos que no cargan (algunos de la API vienen rotos): se reemplazan por la sigla del equipo.
+document.addEventListener("error", e => {
+  const img = e.target;
+  if (!(img instanceof HTMLImageElement) || !img.dataset.abbr) return;
+  const s = document.createElement("span");
+  s.className = img.className + " mono";
+  s.setAttribute("aria-hidden", "true");
+  s.textContent = img.dataset.abbr;
+  img.replaceWith(s);
+}, true);
+// Los que ya fallaron antes de que cargue este script.
+document.querySelectorAll("img.logo[data-abbr]").forEach(img => { if (img.complete && !img.naturalWidth) img.dispatchEvent(new Event("error")); });
 // Buscador que responde preguntas ("puntos de LeBron últimos 3") y comparador contra la línea.
 (() => {
   const root = document.body.dataset.root || '';

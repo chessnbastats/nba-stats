@@ -1,4 +1,4 @@
-# Línea Stats · Estadísticas NBA para apostar, en español
+# Sharpi · Estadísticas NBA para apostar, en español
 
 Sitio estático que se actualiza solo todos los días con GitHub Actions y se publica gratis en GitHub Pages.
 

@@ -1,6 +1,6 @@
 // Configuración general del sitio. Lo que haya que cambiar a mano, se cambia acá.
 export default {
-  name: 'Línea Stats',
+  name: 'Sharpi',
   tagline: 'Estadísticas NBA para apostar, en español',
   // URL pública final (sin barra al final). En GitHub Actions se toma de la variable SITE_URL.
   url: process.env.SITE_URL || 'https://chessnbastats.github.io/nba-stats',

@@ -46,7 +46,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/games data/positions.json 2>/dev/null || git add data/games
+          git add data
           git diff --cached --quiet || { git commit -m "Datos $(date -u +%F)" && git push; }
 
       - name: Armar el sitio
