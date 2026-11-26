@@ -284,11 +284,11 @@ ${body}
 
 // Logo: sticker troquelado (borde negro, borde blanco grueso, letra cursiva y la "línea" verde abajo).
 const LOGO = `<svg class="logo-sticker" viewBox="0 0 150 66" aria-hidden="true"><g transform="rotate(-6 75 33)" font-family="Yellowtail, cursive" font-size="44" text-anchor="middle">
-<text x="75" y="42" fill="#0e0f12" stroke="#0e0f12" stroke-width="15" stroke-linejoin="round" paint-order="stroke">Sharpi</text>
-<text x="75" y="42" fill="#fff" stroke="#fff" stroke-width="11" stroke-linejoin="round" paint-order="stroke">Sharpi</text>
+<text x="75" y="42" fill="#0e0f12" stroke="#0e0f12" stroke-width="15" stroke-linejoin="round" paint-order="stroke">Sharpı</text><circle cx="131.5" cy="19.5" r="10.1" fill="#0e0f12"/>
+<text x="75" y="42" fill="#fff" stroke="#fff" stroke-width="11" stroke-linejoin="round" paint-order="stroke">Sharpı</text><circle cx="131.5" cy="19.5" r="8.1" fill="#fff"/>
 <path d="M33 54 C60 60, 98 59, 122 49" stroke="#fff" stroke-width="10" fill="none" stroke-linecap="round"/>
-<text x="75" y="42" fill="#0e0f12">Sharpi</text>
-<path d="M33 54 C60 60, 98 59, 122 49" stroke="#c8ff3d" stroke-width="3.5" fill="none" stroke-linecap="round"/></g></svg>`;
+<text x="75" y="42" fill="#0e0f12">Sharpı</text>
+<path d="M33 54 C60 60, 98 59, 122 49" stroke="#c8ff3d" stroke-width="3.5" fill="none" stroke-linecap="round"/><circle cx="131.5" cy="19.5" r="2.6" fill="#c8ff3d"/></g></svg>`;
 
 async function write(path, content) {
   await mkdir(dirname(`${OUT}/${path}`), { recursive: true });

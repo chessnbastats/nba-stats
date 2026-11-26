@@ -6,13 +6,14 @@ import { readJson } from './lib.mjs';
 
 // Prueba manual (botón "Run workflow" con prueba = true): publica la imagen de la última fecha jugada.
 const TEST = process.env.SOCIAL_TEST === 'true';
+const PHOTO = process.env.SOCIAL_PHOTO === 'true';
 const which = TEST ? 'ayer' : 'hoy';
 const data = JSON.parse(await readFile(`dist/share/${which}.json`, 'utf8'));
 const log = await readJson('data/social.json', {});
 const before = JSON.stringify(log);
 const num = v => new Intl.NumberFormat('es-AR', { maximumFractionDigits: 1 }).format(v);
 
-if (data.demo || !data.players.length) { console.log('Redes: hoy no hay nada para publicar.'); process.exit(0); }
+if (!PHOTO && (data.demo || !data.players.length)) { console.log('Redes: hoy no hay nada para publicar.'); process.exit(0); }
 
 const caption = [
   `${TEST ? '[Prueba con la fecha pasada] ' : ''}En racha hoy · ${data.day}`,
@@ -38,7 +39,7 @@ async function telegram() {
   return 'publicado';
 }
 
-// En la prueba también se pone el logo como foto del canal (el bot necesita el permiso "Cambiar información").
+// Con foto_canal = true se pone el logo como foto del canal (el bot necesita el permiso "Cambiar información").
 async function telegramPhoto() {
   const { TELEGRAM_BOT_TOKEN: token, TELEGRAM_CHAT_ID: chat } = process.env;
   if (!token || !chat) return 'sin claves';
@@ -52,7 +53,8 @@ async function telegramPhoto() {
 }
 
 let failed = false;
-for (const [name, fn] of [['Telegram', telegram], ...(TEST ? [['Foto del canal', telegramPhoto]] : [])]) {
+const jobs = PHOTO && !TEST ? [['Foto del canal', telegramPhoto]] : [['Telegram', telegram], ...(PHOTO ? [['Foto del canal', telegramPhoto]] : [])];
+for (const [name, fn] of jobs) {
   try { console.log(`${name}: ${await fn()}.`); }
   catch (e) { failed = true; console.error(`${name}: ${e.message}`); }
 }

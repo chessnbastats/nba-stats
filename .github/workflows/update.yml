@@ -10,6 +10,10 @@ on:
         description: "Prueba: publicar en Telegram la imagen de la última fecha jugada"
         type: boolean
         default: false
+      foto_canal:
+        description: "Cambiar la foto del canal de Telegram por el logo"
+        type: boolean
+        default: false
   push:
     branches: [main]
     paths-ignore: ['data/**']
@@ -80,6 +84,7 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ vars.TELEGRAM_CHAT_ID }}
           SOCIAL_TEST: ${{ inputs.prueba }}
+          SOCIAL_PHOTO: ${{ inputs.foto_canal }}
         run: |
           node scripts/social.mjs
           git add data/social.json 2>/dev/null || true

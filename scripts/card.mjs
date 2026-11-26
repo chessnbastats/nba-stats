@@ -26,11 +26,11 @@ async function photoUri(url) {
 }
 
 const LOGO = `<g transform="translate(52 40) scale(2.3) rotate(-6 75 33)" font-family="Yellowtail" font-size="44" text-anchor="middle">
-<text x="75" y="42" fill="${C.bg}" stroke="${C.bg}" stroke-width="15" stroke-linejoin="round">Sharpi</text>
-<text x="75" y="42" fill="#fff" stroke="#fff" stroke-width="11" stroke-linejoin="round">Sharpi</text>
+<text x="75" y="42" fill="${C.bg}" stroke="${C.bg}" stroke-width="15" stroke-linejoin="round">Sharpı</text><circle cx="131.5" cy="19.5" r="10.1" fill="#0e0f12"/>
+<text x="75" y="42" fill="#fff" stroke="#fff" stroke-width="11" stroke-linejoin="round">Sharpı</text><circle cx="131.5" cy="19.5" r="8.1" fill="#fff"/>
 <path d="M33 54 C60 60, 98 59, 122 49" stroke="#fff" stroke-width="10" fill="none" stroke-linecap="round"/>
-<text x="75" y="42" fill="${C.bg}">Sharpi</text>
-<path d="M33 54 C60 60, 98 59, 122 49" stroke="${C.accent}" stroke-width="3.5" fill="none" stroke-linecap="round"/></g>`;
+<text x="75" y="42" fill="${C.bg}">Sharpı</text>
+<path d="M33 54 C60 60, 98 59, 122 49" stroke="${C.accent}" stroke-width="3.5" fill="none" stroke-linecap="round"/><circle cx="131.5" cy="19.5" r="2.6" fill="#c8ff3d"/></g>`;
 
 const ROW_Y = 470, ROW_H = 148;
 async function row(p, i) {
