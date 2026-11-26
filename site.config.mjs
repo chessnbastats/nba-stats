@@ -6,6 +6,10 @@ export default {
   url: process.env.SITE_URL || 'https://chessnbastats.github.io/nba-stats',
   // Zona horaria para mostrar los horarios de los partidos.
   displayTimeZone: 'America/Argentina/Buenos_Aires',
+  // Contador de visitas de Cloudflare Web Analytics: el "token" que da Cloudflare (es público). Vacío = sin contador.
+  cloudflareAnalytics: 'acefa4b1a5dd45279996d08d292f6edc',
+  // Google Search Console: el código de la etiqueta meta "google-site-verification". Vacío = sin etiqueta.
+  googleVerification: '',
   // Google AdSense: cuando te aprueben, poné acá tu "ca-pub-XXXXXXXX". Vacío = se muestran espacios reservados.
   adsenseClient: '',
   // Mail de contacto (AdSense lo pide). Vacío = no se muestra.

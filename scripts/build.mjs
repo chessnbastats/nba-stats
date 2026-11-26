@@ -257,6 +257,8 @@ ${demo ? '<meta name="robots" content="noindex">' : ''}
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Barlow+Condensed:ital,wght@1,800;1,900&family=Barlow:wght@400;600;700&family=Space+Mono:wght@700&family=Yellowtail&display=swap">
 <link rel="stylesheet" href="${root}assets/style.css">
+${config.googleVerification ? `<meta name="google-site-verification" content="${esc(config.googleVerification)}">` : ''}
+${config.cloudflareAnalytics && !demo ? `<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "${esc(config.cloudflareAnalytics)}"}'></script>` : ''}
 ${config.adsenseClient ? `<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${esc(config.adsenseClient)}" crossorigin="anonymous"></script>` : ''}
 </head>
 <body data-root="${root}">
@@ -745,7 +747,9 @@ await page({
   body: `<article class="block prose">
 <h1>Política de privacidad</h1>
 <p>${esc(config.name)} no pide registrarse y no recolecta datos personales como nombre, mail o teléfono.</p>
-<h2>Cookies y publicidad</h2>
+${config.cloudflareAnalytics ? `<h2>Estadísticas de visitas</h2>
+<p>Contamos las visitas con Cloudflare Web Analytics, que no usa cookies ni guarda datos personales: solo cuántas personas entran, a qué páginas y desde qué país. Más información en <a href="https://www.cloudflare.com/web-analytics/" rel="noopener">Cloudflare Web Analytics</a>.</p>
+` : ''}<h2>Cookies y publicidad</h2>
 <p>Este sitio puede mostrar anuncios de Google AdSense. Google y sus socios usan cookies para mostrar anuncios según las visitas anteriores a este y otros sitios. Podés desactivar los anuncios personalizados en <a href="https://adssettings.google.com" rel="noopener">la configuración de anuncios de Google</a>. Más información en <a href="https://policies.google.com/technologies/ads" rel="noopener">cómo usa Google las cookies en publicidad</a>.</p>
 <h2>Links a otros sitios</h2>
 <p>Algunos links pueden llevar a sitios de terceros, como casas de apuestas con licencia. Cada sitio tiene su propia política de privacidad.</p>
