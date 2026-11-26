@@ -9,7 +9,7 @@ export default {
   // Contador de visitas de Cloudflare Web Analytics: el "token" que da Cloudflare (es público). Vacío = sin contador.
   cloudflareAnalytics: 'acefa4b1a5dd45279996d08d292f6edc',
   // Google Search Console: el código de la etiqueta meta "google-site-verification". Vacío = sin etiqueta.
-  googleVerification: '',
+  googleVerification: '-Vk6SOgs-EQQa0_MTmVWa_TQHxpnNUHGtzD8EkQXYC8',
   // Google AdSense: cuando te aprueben, poné acá tu "ca-pub-XXXXXXXX". Vacío = se muestran espacios reservados.
   adsenseClient: '',
   // Mail de contacto (AdSense lo pide). Vacío = no se muestra.
