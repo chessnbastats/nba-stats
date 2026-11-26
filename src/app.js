@@ -6,10 +6,10 @@ document.addEventListener("error", e => {
   s.className = img.className + " mono";
   s.setAttribute("aria-hidden", "true");
   s.textContent = img.dataset.abbr;
-  img.replaceWith(s);
+  if (img.dataset.face) { s.className = `face ${img.dataset.face} mono`; img.parentElement.replaceWith(s); } else img.replaceWith(s);
 }, true);
 // Los que ya fallaron antes de que cargue este script.
-document.querySelectorAll("img.logo[data-abbr]").forEach(img => { if (img.complete && !img.naturalWidth) img.dispatchEvent(new Event("error")); });
+document.querySelectorAll("img[data-abbr]").forEach(img => { if (img.complete && !img.naturalWidth) img.dispatchEvent(new Event("error")); });
 // Buscador que responde preguntas ("puntos de LeBron últimos 3") y comparador contra la línea.
 (() => {
   const root = document.body.dataset.root || '';

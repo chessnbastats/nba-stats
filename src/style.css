@@ -437,14 +437,21 @@ main { counter-reset: sec; }
 
 /* ===== Fotos de jugadores: recortadas como sticker (borde blanco, un poco torcidas) ===== */
 .face { flex: none; display: inline-grid; place-items: center; border-radius: 50%; border: 3px solid #fff; background: var(--paper); object-fit: cover; object-position: 50% 12%; box-shadow: 2px 3px 0 rgba(0,0,0,.5); transform: rotate(-3deg); }
-.face.sm { width: 44px; height: 44px; border-width: 2px; }
-.face.md { width: 56px; height: 56px; }
-.face.xl { width: 104px; height: 104px; border-width: 4px; }
+.face.sm { width: 58px; height: 58px; border-width: 2px; }
+.face.md { width: 72px; height: 72px; }
+.face.xl { width: 140px; height: 140px; border-width: 4px; }
 .face.mono { color: var(--paper-ink); font-family: var(--display); font-style: italic; font-weight: 900; font-size: 1rem; }
-.face.xl.mono { font-size: 2.2rem; }
+.face.xl.mono { font-size: 2.8rem; }
+/* Las fotos de ESPN vienen apaisadas y con aire: se agrandan adentro del círculo para que se vea la cara. */
+.face.pic { position: relative; overflow: hidden; }
+.face.pic img { position: absolute; width: 160%; max-width: none; height: auto; left: -30%; top: 4%; }
 .face-wrap { position: relative; flex: none; }
 .face-wrap .logo { position: absolute; right: -6px; bottom: -4px; width: 36px; height: 36px; background: var(--bg); border: 2px solid var(--bg); }
 .hot-top { display: flex; align-items: center; gap: 10px; }
 .hot .face { border-color: var(--paper-ink); box-shadow: none; }
 .leader { grid-template-columns: auto auto auto 1fr; align-items: center; }
 .leader .face { margin-right: 4px; }
+
+/* Máximos anotadores con foto */
+.rank a:has(.face) { grid-template-columns: 28px auto 1fr auto auto; }
+.rank .face.sm { width: 46px; height: 46px; }

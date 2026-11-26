@@ -18,6 +18,14 @@ if (!demo && !days.some(d => d.games.some(g => g.players?.length))) {
   days = (await Promise.all(files.map(f => readJson(`${dir}/${f}`)))).filter(Boolean);
 }
 if (!files.length) { console.error('No hay datos. Corré primero: npm run demo'); process.exit(1); }
+// Highlightly cambió los ids de todos los jugadores el 17/11: el mismo jugador aparece con dos ids.
+// Se unen por nombre y equipo usando el id más reciente (el que usan las formaciones y fichas nuevas).
+{
+  const key = p => `${p.name}|${p.teamId}`;
+  const latest = new Map();
+  for (const d of [...days].sort((a, b) => a.date.localeCompare(b.date))) for (const g of d.games) for (const p of g.players ?? []) latest.set(key(p), p.id);
+  for (const d of days) for (const g of d.games) for (const p of g.players ?? []) p.id = latest.get(key(p));
+}
 
 // ---------- Armado de datos ----------
 const STATS = { min: 'MIN', pts: 'PTS', reb: 'REB', ast: 'AST', fg3m: '3PM', stl: 'ROB', blk: 'TAP', pra: 'PRA' };
@@ -35,7 +43,7 @@ const bio = id => { const x = profiles[id]; if (!x) return ''; const parts = [x.
 const initials = name => String(name ?? '').split(/\s+/).filter(Boolean).slice(0, 2).map(w => w[0]).join('').toUpperCase();
 // Foto del jugador con marco de sticker; si no hay foto (o no carga), sus iniciales.
 const face = (p, size = 'md') => profiles[p.id]?.photo
-  ? `<img class="face ${size}" src="${esc(profiles[p.id].photo)}" alt="" loading="lazy" data-abbr="${esc(initials(p.name))}">`
+  ? `<span class="face ${size} pic"><img src="${esc(profiles[p.id].photo)}" alt="" loading="lazy" data-face="${size}" data-abbr="${esc(initials(p.name))}"></span>`
   : `<span class="face ${size} mono" aria-hidden="true">${esc(initials(p.name))}</span>`;
 const groupOf = id => {
   const a = posOf(id);
@@ -384,7 +392,7 @@ ${best.length ? `<section class="block">
 
 <section class="block">
   <div class="block-head"><h2>Máximos anotadores</h2><span class="note" aria-hidden="true">promedio de los últimos 10</span></div>
-  <ol class="rank card">${topScorers.slice(0, 10).map(p => `<li><a href="${playerUrl(p, '')}"><span class="name">${esc(p.name)}</span><span class="muted">${esc(p.team?.abbr)}</span><span class="val">${fmt(avg(p.log, 'pts', 10))}</span></a></li>`).join('')}</ol>
+  <ol class="rank card">${topScorers.slice(0, 10).map(p => `<li><a href="${playerUrl(p, '')}">${face(p, 'sm')}<span class="name">${esc(p.name)}</span><span class="muted">${esc(p.team?.abbr)}</span><span class="val">${fmt(avg(p.log, 'pts', 10))}</span></a></li>`).join('')}</ol>
 </section>
 
 <section class="block ctas">
@@ -762,6 +770,19 @@ ${config.contact ? `<h2>Contacto</h2><p>Por consultas sobre esta política: <a h
 </section>`,
   });
 }
+
+// Datos de la imagen diaria para redes (la dibuja scripts/card.mjs): top 5 en racha de puntos.
+// "ayer" usa los partidos de la última fecha jugada; sirve para la prueba manual de redes.
+const shareData = (date, games) => JSON.stringify({
+  date, day: fmtLongDay(date), url: config.url, demo, games: games.length,
+  players: hotPlayers("pts", games).slice(0, 5).map(h => ({
+    name: h.p.name, team: h.p.team?.abbr, opp: h.opp.abbr, home: h.home, time: fmtTime(h.g.start),
+    line: h.line, over: h.over, a5: h.a5, hits: h.p.log.slice(0, 5).map(e => (e.pts ?? 0) > h.line),
+    photo: profiles[h.p.id]?.photo || null,
+  })),
+}, null, 1);
+await write("share/hoy.json", shareData(todayKey, todayGames));
+if (lastDay) await write("share/ayer.json", shareData(lastDay.date, lastDay.games));
 
 // Sitemap y robots
 const today = new Date().toISOString().slice(0, 10);

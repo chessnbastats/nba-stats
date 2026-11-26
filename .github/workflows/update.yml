@@ -4,7 +4,12 @@ name: Actualizar y publicar
 on:
   schedule:
     - cron: '0 10 * * *' # 10:00 UTC = 7:00 en Argentina (ya terminaron todos los partidos)
-  workflow_dispatch: {}   # botón "Run workflow" para correrlo a mano
+  workflow_dispatch:      # botón "Run workflow" para correrlo a mano
+    inputs:
+      prueba:
+        description: "Prueba: publicar en Telegram la imagen de la última fecha jugada"
+        type: boolean
+        default: false
   push:
     branches: [main]
     paths-ignore: ['data/**']
@@ -30,6 +35,9 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+          cache: npm
+
+      - run: npm ci
 
       # Si la API falla (o todavía no hay key), se publica igual con los datos que ya hay.
       - name: Bajar datos de Highlightly
@@ -40,6 +48,12 @@ jobs:
           HIGHLIGHTLY_BASE: ${{ vars.HIGHLIGHTLY_BASE }}
           MAX_REQUESTS: '90'
         run: node scripts/update.mjs
+
+      # Fotos y fichas de jugadores desde los planteles públicos de ESPN (sin clave).
+      - name: Fotos de jugadores
+        if: github.event_name != 'push'
+        continue-on-error: true
+        run: node scripts/photos.mjs
 
       - name: Guardar los datos en el repo
         if: github.event_name != 'push'
@@ -53,6 +67,23 @@ jobs:
         env:
           SITE_URL: ${{ vars.SITE_URL }}
         run: node scripts/build.mjs
+
+      # Imagen diaria "En racha hoy" (dist/share/hoy.png) y publicación en redes con claves cargadas.
+      - name: Imagen del día
+        continue-on-error: true
+        run: node scripts/card.mjs hoy && node scripts/card.mjs ayer && node scripts/avatar.mjs
+
+      - name: Publicar en redes
+        if: github.event_name != 'push'
+        continue-on-error: true
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ vars.TELEGRAM_CHAT_ID }}
+          SOCIAL_TEST: ${{ inputs.prueba }}
+        run: |
+          node scripts/social.mjs
+          git add data/social.json 2>/dev/null || true
+          git diff --cached --quiet || { git commit -m "Redes $(date -u +%F)" && git pull --rebase && git push; }
 
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3

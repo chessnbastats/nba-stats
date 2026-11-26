@@ -1,1 +1,7410 @@
-{}
+{
+ "1": {
+  "name": "Dillon Brooks",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3155526.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "102 kg",
+  "src": "espn"
+ },
+ "2": {
+  "name": "Miles Bridges",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4066383.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "102 kg",
+  "src": "espn"
+ },
+ "3": {
+  "name": "Khaman Maluach",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5203685.png",
+  "pos": "C",
+  "height": "2,18 m",
+  "weight": "113 kg",
+  "src": "espn"
+ },
+ "4": {
+  "name": "Devin Booker",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3136193.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "5": {
+  "name": "Jalen Green",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4437244.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "84 kg",
+  "src": "espn"
+ },
+ "6": {
+  "name": "Oso Ighodaro",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4601023.png",
+  "pos": "F",
+  "height": "2,11 m",
+  "weight": "107 kg",
+  "src": "espn"
+ },
+ "7": {
+  "name": "Ryan Dunn",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4888725.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "8": {
+  "name": "Luke Kennard",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3913174.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "9": {
+  "name": "Jordan Goodwin",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4278402.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "10": {
+  "name": "Collin Gillespie",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4278585.png",
+  "pos": "G",
+  "height": "1,85 m",
+  "weight": "88 kg",
+  "src": "espn"
+ },
+ "11": {
+  "name": "Koa Peat",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5041953.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "111 kg",
+  "src": "espn"
+ },
+ "12": {
+  "name": "Rasheer Fleming",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5105977.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "109 kg",
+  "src": "espn"
+ },
+ "13": {
+  "name": "Duop Reath",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4066268.png",
+  "pos": "C",
+  "height": "2,06 m",
+  "weight": "111 kg",
+  "src": "espn"
+ },
+ "14": {
+  "name": "Jamaree Bouyea",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4280245.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "82 kg",
+  "src": "espn"
+ },
+ "15": {
+  "name": "Aaron Gordon",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3064290.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "107 kg",
+  "src": "espn"
+ },
+ "16": {
+  "name": "Cameron Johnson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3138196.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "95 kg",
+  "src": "espn"
+ },
+ "17": {
+  "name": "Nikola Jokic",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3112335.png",
+  "pos": "C",
+  "height": "2,11 m",
+  "weight": "129 kg",
+  "src": "espn"
+ },
+ "18": {
+  "name": "Jamal Murray",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3936299.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "19": {
+  "name": "Christian Braun",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4431767.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "20": {
+  "name": "Marvin Bagley III",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4277848.png",
+  "pos": "F",
+  "height": "2,08 m",
+  "weight": "107 kg",
+  "src": "espn"
+ },
+ "21": {
+  "name": "Trevon Brazile",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4698719.png",
+  "pos": "F",
+  "height": "2,08 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "22": {
+  "name": "DeMar DeRozan",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3978.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "23": {
+  "name": "Tyus Jones",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3135046.png",
+  "pos": "G",
+  "height": "1,83 m",
+  "weight": "89 kg",
+  "src": "espn"
+ },
+ "24": {
+  "name": "Zeke Nnaji",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4431690.png",
+  "pos": "F",
+  "height": "2,08 m",
+  "weight": "109 kg",
+  "src": "espn"
+ },
+ "25": {
+  "name": "DaRon Holmes II",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4433607.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "102 kg",
+  "src": "espn"
+ },
+ "26": {
+  "name": "Bryce Hopkins",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4565698.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "27": {
+  "name": "Ryan Nembhard",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4433629.png",
+  "pos": "G",
+  "height": "1,80 m",
+  "weight": "82 kg",
+  "src": "espn"
+ },
+ "28": {
+  "name": "Draymond Green",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/6589.png",
+  "pos": "F",
+  "height": "1,98 m",
+  "weight": "104 kg",
+  "src": "espn"
+ },
+ "29": {
+  "name": "Gui Santos",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4997536.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "84 kg",
+  "src": "espn"
+ },
+ "30": {
+  "name": "Yaxel Lendeborg",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5175737.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "109 kg",
+  "src": "espn"
+ },
+ "32": {
+  "name": "Brandin Podziemski",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4709138.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "33": {
+  "name": "Georges Niang",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/2990969.png",
+  "pos": "F",
+  "height": "1,98 m",
+  "weight": "104 kg",
+  "src": "espn"
+ },
+ "34": {
+  "name": "Malevy Leons",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4897449.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "92 kg",
+  "src": "espn"
+ },
+ "35": {
+  "name": "Al Horford",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3213.png",
+  "pos": "C",
+  "height": "2,03 m",
+  "weight": "109 kg",
+  "src": "espn"
+ },
+ "36": {
+  "name": "Charles Bassey",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4397886.png",
+  "pos": "C",
+  "height": "2,08 m",
+  "weight": "104 kg",
+  "src": "espn"
+ },
+ "37": {
+  "name": "Gary Payton II",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3134903.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "88 kg",
+  "src": "espn"
+ },
+ "38": {
+  "name": "De'Anthony Melton",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4066436.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "91 kg",
+  "src": "espn"
+ },
+ "39": {
+  "name": "Brandon Williams",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4397040.png",
+  "pos": "G",
+  "height": "1,85 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "40": {
+  "name": "LJ Cryer",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4433149.png",
+  "pos": "G",
+  "height": "1,83 m",
+  "weight": "91 kg",
+  "src": "espn"
+ },
+ "41": {
+  "name": "Will Richard",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4897262.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "42": {
+  "name": "Jake LaRavia",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4592691.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "107 kg",
+  "src": "espn"
+ },
+ "43": {
+  "name": "Walker Kessler",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4433136.png",
+  "pos": "C",
+  "height": "2,18 m",
+  "weight": "111 kg",
+  "src": "espn"
+ },
+ "44": {
+  "name": "Matisse Thybulle",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3907498.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "92 kg",
+  "src": "espn"
+ },
+ "45": {
+  "name": "Luka Doncic",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3945274.png",
+  "pos": "G",
+  "height": "2,03 m",
+  "weight": "104 kg",
+  "src": "espn"
+ },
+ "47": {
+  "name": "Jarred Vanderbilt",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4278077.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "97 kg",
+  "src": "espn"
+ },
+ "48": {
+  "name": "Sandro Mamukelashvili",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4278580.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "109 kg",
+  "src": "espn"
+ },
+ "49": {
+  "name": "Collin Sexton",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4277811.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "50": {
+  "name": "Quentin Grimes",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4397014.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "95 kg",
+  "src": "espn"
+ },
+ "51": {
+  "name": "Bronny James",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4683774.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "95 kg",
+  "src": "espn"
+ },
+ "53": {
+  "name": "Jaden Hardy",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4868423.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "90 kg",
+  "src": "espn"
+ },
+ "54": {
+  "name": "Kevon Looney",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3155535.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "101 kg",
+  "src": "espn"
+ },
+ "56": {
+  "name": "Jaden McDaniels",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4431671.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "84 kg",
+  "src": "espn"
+ },
+ "57": {
+  "name": "Jonathan Kuminga",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4433247.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "102 kg",
+  "src": "espn"
+ },
+ "58": {
+  "name": "Rudy Gobert",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3032976.png",
+  "pos": "C",
+  "height": "2,16 m",
+  "weight": "117 kg",
+  "src": "espn"
+ },
+ "59": {
+  "name": "Ayo Dosunmu",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4397002.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "91 kg",
+  "src": "espn"
+ },
+ "60": {
+  "name": "LaMelo Ball",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432816.png",
+  "pos": "G",
+  "height": "2,01 m",
+  "weight": "82 kg",
+  "src": "espn"
+ },
+ "61": {
+  "name": "Trey Lyles",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3136196.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "106 kg",
+  "src": "espn"
+ },
+ "62": {
+  "name": "Cody Williams",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4895758.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "63": {
+  "name": "Isaiah Evans",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5061585.png",
+  "pos": "F",
+  "height": "1,98 m",
+  "weight": "84 kg",
+  "src": "espn"
+ },
+ "64": {
+  "name": "Joan Beringer",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5279133.png",
+  "pos": "F",
+  "height": "2,11 m",
+  "weight": "104 kg",
+  "src": "espn"
+ },
+ "66": {
+  "name": "Terrence Shannon Jr.",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432847.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "67": {
+  "name": "Bones Hyland",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4592492.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "77 kg",
+  "src": "espn"
+ },
+ "68": {
+  "name": "Zyon Pullin",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4592979.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "69": {
+  "name": "Derrick Jones Jr.",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3936099.png",
+  "pos": "F",
+  "height": "1,98 m",
+  "weight": "95 kg",
+  "src": "espn"
+ },
+ "70": {
+  "name": "Rui Hachimura",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4066648.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "104 kg",
+  "src": "espn"
+ },
+ "71": {
+  "name": "Isaiah Jackson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432170.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "72": {
+  "name": "Kris Dunn",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/2991139.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "73": {
+  "name": "Darius Garland",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4396907.png",
+  "pos": "G",
+  "height": "1,85 m",
+  "weight": "87 kg",
+  "src": "espn"
+ },
+ "74": {
+  "name": "Baba Miller",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5075626.png",
+  "pos": "F",
+  "height": "2,11 m",
+  "weight": "94 kg",
+  "src": "espn"
+ },
+ "75": {
+  "name": "Nick Martinelli",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5105832.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "102 kg",
+  "src": "espn"
+ },
+ "76": {
+  "name": "Brook Lopez",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3448.png",
+  "pos": "C",
+  "height": "2,16 m",
+  "weight": "128 kg",
+  "src": "espn"
+ },
+ "78": {
+  "name": "Kobe Sanders",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4702352.png",
+  "pos": "G",
+  "height": "2,03 m",
+  "weight": "94 kg",
+  "src": "espn"
+ },
+ "79": {
+  "name": "Cam Christie",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4845363.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "80": {
+  "name": "Gradey Dick",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5106258.png",
+  "pos": "G",
+  "height": "2,01 m",
+  "weight": "91 kg",
+  "src": "espn"
+ },
+ "81": {
+  "name": "Keaton Wagler",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5254165.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "85 kg",
+  "src": "espn"
+ },
+ "82": {
+  "name": "Jalen Pickett",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4398390.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "92 kg",
+  "src": "espn"
+ },
+ "83": {
+  "name": "Daniel Gafford",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4278049.png",
+  "pos": "F",
+  "height": "2,08 m",
+  "weight": "120 kg",
+  "src": "espn"
+ },
+ "84": {
+  "name": "P.J. Washington",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4278078.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "104 kg",
+  "src": "espn"
+ },
+ "85": {
+  "name": "Cooper Flagg",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5041939.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "86": {
+  "name": "Kyrie Irving",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/6442.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "88 kg",
+  "src": "espn"
+ },
+ "87": {
+  "name": "Max Christie",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432582.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "88": {
+  "name": "Caleb Martin",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3138160.png",
+  "pos": "F",
+  "height": "1,96 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "89": {
+  "name": "Morez Johnson Jr.",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4873153.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "113 kg",
+  "src": "espn"
+ },
+ "90": {
+  "name": "Zaccharie Risacher",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5211175.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "91 kg",
+  "src": "espn"
+ },
+ "91": {
+  "name": "Marcus Sasser",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432107.png",
+  "pos": "G",
+  "height": "1,85 m",
+  "weight": "88 kg",
+  "src": "espn"
+ },
+ "92": {
+  "name": "Walter Clayton Jr.",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4896372.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "88 kg",
+  "src": "espn"
+ },
+ "93": {
+  "name": "Naji Marshall",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4278594.png",
+  "pos": "F",
+  "height": "1,98 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "95": {
+  "name": "Moussa Cisse",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4701208.png",
+  "pos": "C",
+  "height": "2,11 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "96": {
+  "name": "Jett Howard",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5105806.png",
+  "pos": "G",
+  "height": "2,03 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "97": {
+  "name": "Kevin Durant",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3202.png",
+  "pos": "F",
+  "height": "2,11 m",
+  "weight": "109 kg",
+  "src": "espn"
+ },
+ "98": {
+  "name": "Jabari Smith Jr.",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432639.png",
+  "pos": "F",
+  "height": "2,11 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "99": {
+  "name": "Clint Capela",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3102529.png",
+  "pos": "C",
+  "height": "2,08 m",
+  "weight": "116 kg",
+  "src": "espn"
+ },
+ "100": {
+  "name": "Fred VanVleet",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/2991230.png",
+  "pos": "G",
+  "height": "1,83 m",
+  "weight": "89 kg",
+  "src": "espn"
+ },
+ "101": {
+  "name": "Amen Thompson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4684740.png",
+  "pos": "G",
+  "height": "2,01 m",
+  "weight": "91 kg",
+  "src": "espn"
+ },
+ "102": {
+  "name": "Tari Eason",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4433192.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "103": {
+  "name": "Oscar Tshiebwe",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432827.png",
+  "pos": "C",
+  "height": "2,03 m",
+  "weight": "116 kg",
+  "src": "espn"
+ },
+ "104": {
+  "name": "Marcus Smart",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/2990992.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "105": {
+  "name": "Bogdan Bogdanovic",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3037789.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "102 kg",
+  "src": "espn"
+ },
+ "106": {
+  "name": "Jae'Sean Tate",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3136777.png",
+  "pos": "F",
+  "height": "1,93 m",
+  "weight": "104 kg",
+  "src": "espn"
+ },
+ "107": {
+  "name": "Isaiah Crawford",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4592857.png",
+  "pos": "F",
+  "height": "1,98 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "108": {
+  "name": "Alperen Sengun",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4871144.png",
+  "pos": "C",
+  "height": "2,11 m",
+  "weight": "110 kg",
+  "src": "espn"
+ },
+ "109": {
+  "name": "Reed Sheppard",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4711272.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "84 kg",
+  "src": "espn"
+ },
+ "110": {
+  "name": "Bruce Thornton",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5105837.png",
+  "pos": "G",
+  "height": "1,83 m",
+  "weight": "104 kg",
+  "src": "espn"
+ },
+ "111": {
+  "name": "Giannis Antetokounmpo",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3032977.png",
+  "pos": "F",
+  "height": "2,11 m",
+  "weight": "110 kg",
+  "src": "espn"
+ },
+ "112": {
+  "name": "Andrew Wiggins",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3059319.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "95 kg",
+  "src": "espn"
+ },
+ "113": {
+  "name": "Bam Adebayo",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4066261.png",
+  "pos": "C",
+  "height": "2,06 m",
+  "weight": "118 kg",
+  "src": "espn"
+ },
+ "114": {
+  "name": "Klay Thompson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/6475.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "115": {
+  "name": "Davion Mitchell",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4278053.png",
+  "pos": "G",
+  "height": "1,83 m",
+  "weight": "95 kg",
+  "src": "espn"
+ },
+ "116": {
+  "name": "Bobby Portis",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3064482.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "113 kg",
+  "src": "espn"
+ },
+ "117": {
+  "name": "Simone Fontecchio",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3899664.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "118": {
+  "name": "Myron Gardner",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4431772.png",
+  "pos": "F",
+  "height": "1,96 m",
+  "weight": "102 kg",
+  "src": "espn"
+ },
+ "119": {
+  "name": "Nikola Jovic",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4997528.png",
+  "pos": "F",
+  "height": "2,08 m",
+  "weight": "109 kg",
+  "src": "espn"
+ },
+ "120": {
+  "name": "Nick Richards",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4278076.png",
+  "pos": "C",
+  "height": "2,11 m",
+  "weight": "111 kg",
+  "src": "espn"
+ },
+ "121": {
+  "name": "Tim Hardaway Jr.",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/2528210.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "122": {
+  "name": "Dru Smith",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4066993.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "91 kg",
+  "src": "espn"
+ },
+ "123": {
+  "name": "Pelle Larsson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4601025.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "124": {
+  "name": "Ryan Conwell",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5107157.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "125": {
+  "name": "Pascal Siakam",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3149673.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "111 kg",
+  "src": "espn"
+ },
+ "126": {
+  "name": "Jay Huff",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4065731.png",
+  "pos": "C",
+  "height": "2,16 m",
+  "weight": "109 kg",
+  "src": "espn"
+ },
+ "127": {
+  "name": "Kelly Oubre Jr.",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3133603.png",
+  "pos": "G",
+  "height": "2,03 m",
+  "weight": "92 kg",
+  "src": "espn"
+ },
+ "128": {
+  "name": "Andrew Nembhard",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4395712.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "87 kg",
+  "src": "espn"
+ },
+ "129": {
+  "name": "Aaron Nesmith",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4396909.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "130": {
+  "name": "Larry Nance Jr.",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/2580365.png",
+  "pos": "F",
+  "height": "1,98 m",
+  "weight": "111 kg",
+  "src": "espn"
+ },
+ "131": {
+  "name": "Jalen Slawson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4398207.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "132": {
+  "name": "Jarace Walker",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5106060.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "107 kg",
+  "src": "espn"
+ },
+ "133": {
+  "name": "Kobe Brown",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4431752.png",
+  "pos": "G",
+  "height": "2,01 m",
+  "weight": "113 kg",
+  "src": "espn"
+ },
+ "134": {
+  "name": "Quenton Jackson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4592829.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "78 kg",
+  "src": "espn"
+ },
+ "135": {
+  "name": "Braden Smith",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5105854.png",
+  "pos": "G",
+  "height": "1,78 m",
+  "weight": "76 kg",
+  "src": "espn"
+ },
+ "136": {
+  "name": "Obi Toppin",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4278355.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "137": {
+  "name": "Ivica Zubac",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4017837.png",
+  "pos": "C",
+  "height": "2,13 m",
+  "weight": "109 kg",
+  "src": "espn"
+ },
+ "138": {
+  "name": "RJ Barrett",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4395625.png",
+  "pos": "F",
+  "height": "1,98 m",
+  "weight": "97 kg",
+  "src": "espn"
+ },
+ "139": {
+  "name": "Scottie Barnes",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4433134.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "108 kg",
+  "src": "espn"
+ },
+ "140": {
+  "name": "Jakob Poeltl",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3134908.png",
+  "pos": "C",
+  "height": "2,13 m",
+  "weight": "115 kg",
+  "src": "espn"
+ },
+ "141": {
+  "name": "Immanuel Quickley",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4395724.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "142": {
+  "name": "Ja'Kobe Walter",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4684272.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "82 kg",
+  "src": "espn"
+ },
+ "143": {
+  "name": "Trayce Jackson-Davis",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4431684.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "111 kg",
+  "src": "espn"
+ },
+ "144": {
+  "name": "Jamison Battle",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4431893.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "145": {
+  "name": "Collin Murray-Boyles",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5093267.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "111 kg",
+  "src": "espn"
+ },
+ "146": {
+  "name": "Allen Graves",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5149115.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "102 kg",
+  "src": "espn"
+ },
+ "147": {
+  "name": "Jamal Shead",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432241.png",
+  "pos": "G",
+  "height": "1,85 m",
+  "weight": "91 kg",
+  "src": "espn"
+ },
+ "148": {
+  "name": "Kyle Anderson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/2993874.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "104 kg",
+  "src": "espn"
+ },
+ "149": {
+  "name": "Jaden Bradley",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432737.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "150": {
+  "name": "Alijah Martin",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4702656.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "96 kg",
+  "src": "espn"
+ },
+ "151": {
+  "name": "Franz Wagner",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4566434.png",
+  "pos": "F",
+  "height": "2,08 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "152": {
+  "name": "Wendell Carter Jr.",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4277847.png",
+  "pos": "C",
+  "height": "2,08 m",
+  "weight": "122 kg",
+  "src": "espn"
+ },
+ "153": {
+  "name": "Desmond Bane",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4066320.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "154": {
+  "name": "Anthony Black",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4712849.png",
+  "pos": "G",
+  "height": "2,01 m",
+  "weight": "91 kg",
+  "src": "espn"
+ },
+ "155": {
+  "name": "Jase Richardson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5239561.png",
+  "pos": "G",
+  "height": "1,85 m",
+  "weight": "82 kg",
+  "src": "espn"
+ },
+ "156": {
+  "name": "Jamal Cain",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4278572.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "87 kg",
+  "src": "espn"
+ },
+ "157": {
+  "name": "Tristan da Silva",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4702382.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "158": {
+  "name": "Nikola Vucevic",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/6478.png",
+  "pos": "C",
+  "height": "2,06 m",
+  "weight": "118 kg",
+  "src": "espn"
+ },
+ "159": {
+  "name": "Goga Bitadze",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4348700.png",
+  "pos": "C",
+  "height": "2,11 m",
+  "weight": "113 kg",
+  "src": "espn"
+ },
+ "160": {
+  "name": "Alex Morales",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4593034.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "82 kg",
+  "src": "espn"
+ },
+ "162": {
+  "name": "Jevon Carter",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3133635.png",
+  "pos": "G",
+  "height": "1,83 m",
+  "weight": "91 kg",
+  "src": "espn"
+ },
+ "163": {
+  "name": "Paul George",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4251.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "164": {
+  "name": "Jayson Tatum",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4065648.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "102 kg",
+  "src": "espn"
+ },
+ "165": {
+  "name": "Mitchell Robinson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4351852.png",
+  "pos": "C",
+  "height": "2,13 m",
+  "weight": "109 kg",
+  "src": "espn"
+ },
+ "166": {
+  "name": "Derrick White",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3078576.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "91 kg",
+  "src": "espn"
+ },
+ "167": {
+  "name": "Jordan Walsh",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4683689.png",
+  "pos": "G",
+  "height": "2,01 m",
+  "weight": "94 kg",
+  "src": "espn"
+ },
+ "168": {
+  "name": "Sam Hauser",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4065804.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "169": {
+  "name": "Chris Cenac Jr.",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5142621.png",
+  "pos": "F",
+  "height": "2,11 m",
+  "weight": "109 kg",
+  "src": "espn"
+ },
+ "170": {
+  "name": "Luka Garza",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4277951.png",
+  "pos": "C",
+  "height": "2,08 m",
+  "weight": "110 kg",
+  "src": "espn"
+ },
+ "171": {
+  "name": "Neemias Queta",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4397424.png",
+  "pos": "C",
+  "height": "2,13 m",
+  "weight": "118 kg",
+  "src": "espn"
+ },
+ "172": {
+  "name": "Payton Pritchard",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4066354.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "96 kg",
+  "src": "espn"
+ },
+ "173": {
+  "name": "Ron Harper Jr.",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4397251.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "106 kg",
+  "src": "espn"
+ },
+ "174": {
+  "name": "Baylor Scheierman",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4593841.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "97 kg",
+  "src": "espn"
+ },
+ "175": {
+  "name": "Hugo Gonzalez",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5175647.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "176": {
+  "name": "Mike Conley",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3195.png",
+  "pos": "G",
+  "height": "1,85 m",
+  "weight": "79 kg",
+  "src": "espn"
+ },
+ "177": {
+  "name": "Jalen Smith",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4397189.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "178": {
+  "name": "Matas Buzelis",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4711294.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "95 kg",
+  "src": "espn"
+ },
+ "180": {
+  "name": "Norman Powell",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/2595516.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "181": {
+  "name": "Josh Giddey",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4871145.png",
+  "pos": "G",
+  "height": "2,01 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "182": {
+  "name": "Zach Collins",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4066650.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "113 kg",
+  "src": "espn"
+ },
+ "183": {
+  "name": "Isaac Okoro",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432822.png",
+  "pos": "F",
+  "height": "1,93 m",
+  "weight": "102 kg",
+  "src": "espn"
+ },
+ "184": {
+  "name": "Leonard Miller",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5044385.png",
+  "pos": "F",
+  "height": "2,08 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "185": {
+  "name": "Tobe Awaka",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5105555.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "116 kg",
+  "src": "espn"
+ },
+ "186": {
+  "name": "Noa Essengue",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5242496.png",
+  "pos": "F",
+  "height": "2,11 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "187": {
+  "name": "Buddy Hield",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/2990984.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "188": {
+  "name": "Tre Jones",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4395626.png",
+  "pos": "G",
+  "height": "1,85 m",
+  "weight": "84 kg",
+  "src": "espn"
+ },
+ "189": {
+  "name": "Jordan Hawkins",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4683750.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "190": {
+  "name": "Jaylin Sellers",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4898010.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "191": {
+  "name": "Patrick Williams",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4431687.png",
+  "pos": "F",
+  "height": "1,98 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "192": {
+  "name": "Julius Randle",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3064514.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "113 kg",
+  "src": "espn"
+ },
+ "193": {
+  "name": "Michael Porter Jr.",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4278104.png",
+  "pos": "F",
+  "height": "2,08 m",
+  "weight": "99 kg",
+  "src": "espn"
+ },
+ "194": {
+  "name": "Chaney Johnson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5174655.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "102 kg",
+  "src": "espn"
+ },
+ "195": {
+  "name": "Day'Ron Sharpe",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432194.png",
+  "pos": "C",
+  "height": "2,08 m",
+  "weight": "120 kg",
+  "src": "espn"
+ },
+ "196": {
+  "name": "Nolan Traore",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5279130.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "84 kg",
+  "src": "espn"
+ },
+ "197": {
+  "name": "Josh Minott",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4687718.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "198": {
+  "name": "Noah Clowney",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4712896.png",
+  "pos": "F",
+  "height": "2,08 m",
+  "weight": "95 kg",
+  "src": "espn"
+ },
+ "199": {
+  "name": "Danny Wolf",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5107173.png",
+  "pos": "F",
+  "height": "2,11 m",
+  "weight": "113 kg",
+  "src": "espn"
+ },
+ "200": {
+  "name": "Moritz Wagner",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3150844.png",
+  "pos": "C",
+  "height": "2,11 m",
+  "weight": "111 kg",
+  "src": "espn"
+ },
+ "201": {
+  "name": "Terance Mann",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3907823.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "202": {
+  "name": "Keon Ellis",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4702177.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "79 kg",
+  "src": "espn"
+ },
+ "203": {
+  "name": "Drake Powell",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5037873.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "88 kg",
+  "src": "espn"
+ },
+ "204": {
+  "name": "Mikel Brown Jr.",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5101761.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "82 kg",
+  "src": "espn"
+ },
+ "206": {
+  "name": "John Collins",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3908845.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "103 kg",
+  "src": "espn"
+ },
+ "207": {
+  "name": "Paul Reed",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4278562.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "95 kg",
+  "src": "espn"
+ },
+ "208": {
+  "name": "Cade Cunningham",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432166.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "209": {
+  "name": "Ausar Thompson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4684742.png",
+  "pos": "G",
+  "height": "2,01 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "210": {
+  "name": "Tolu Smith",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4397882.png",
+  "pos": "F",
+  "height": "2,11 m",
+  "weight": "113 kg",
+  "src": "espn"
+ },
+ "211": {
+  "name": "Ronald Holland II",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4683771.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "212": {
+  "name": "Isaac Jones",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5107818.png",
+  "pos": "C",
+  "height": "2,03 m",
+  "weight": "111 kg",
+  "src": "espn"
+ },
+ "213": {
+  "name": "Javonte Green",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/2596112.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "214": {
+  "name": "Kevin Huerter",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4066372.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "90 kg",
+  "src": "espn"
+ },
+ "215": {
+  "name": "Chaz Lanier",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4700852.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "216": {
+  "name": "Daniss Jenkins",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5107199.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "75 kg",
+  "src": "espn"
+ },
+ "219": {
+  "name": "Elijah Harkless",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4397449.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "88 kg",
+  "src": "espn"
+ },
+ "220": {
+  "name": "LeBron James",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/1966.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "113 kg",
+  "src": "espn"
+ },
+ "221": {
+  "name": "Dean Wade",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3912848.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "101 kg",
+  "src": "espn"
+ },
+ "222": {
+  "name": "Joel Embiid",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3059318.png",
+  "pos": "C",
+  "height": "2,13 m",
+  "weight": "122 kg",
+  "src": "espn"
+ },
+ "223": {
+  "name": "Tyrese Maxey",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4431678.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "224": {
+  "name": "VJ Edgecombe",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5124612.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "82 kg",
+  "src": "espn"
+ },
+ "225": {
+  "name": "Adem Bona",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5105637.png",
+  "pos": "C",
+  "height": "2,08 m",
+  "weight": "108 kg",
+  "src": "espn"
+ },
+ "226": {
+  "name": "Kentavious Caldwell-Pope",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/2581018.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "97 kg",
+  "src": "espn"
+ },
+ "227": {
+  "name": "Anfernee Simons",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4351851.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "228": {
+  "name": "Labaron Philon Jr.",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4873090.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "81 kg",
+  "src": "espn"
+ },
+ "229": {
+  "name": "Justin Edwards",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4711297.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "101 kg",
+  "src": "espn"
+ },
+ "230": {
+  "name": "Caleb Love",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4433144.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "97 kg",
+  "src": "espn"
+ },
+ "231": {
+  "name": "Rayan Rupert",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5099752.png",
+  "pos": "G",
+  "height": "2,01 m",
+  "weight": "94 kg",
+  "src": "espn"
+ },
+ "232": {
+  "name": "OG Anunoby",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3934719.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "109 kg",
+  "src": "espn"
+ },
+ "233": {
+  "name": "Karl-Anthony Towns",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3136195.png",
+  "pos": "C",
+  "height": "2,13 m",
+  "weight": "112 kg",
+  "src": "espn"
+ },
+ "234": {
+  "name": "Josh Hart",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3062679.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "235": {
+  "name": "Mikal Bridges",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3147657.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "95 kg",
+  "src": "espn"
+ },
+ "236": {
+  "name": "Jalen Brunson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3934672.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "237": {
+  "name": "Andre Drummond",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/6585.png",
+  "pos": "C",
+  "height": "2,11 m",
+  "weight": "127 kg",
+  "src": "espn"
+ },
+ "238": {
+  "name": "Jordan Clarkson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/2528426.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "88 kg",
+  "src": "espn"
+ },
+ "239": {
+  "name": "Landry Shamet",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3914044.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "240": {
+  "name": "Miles McBride",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4431823.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "88 kg",
+  "src": "espn"
+ },
+ "241": {
+  "name": "Tyler Kolek",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4433225.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "88 kg",
+  "src": "espn"
+ },
+ "242": {
+  "name": "Tyler Nickel",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4838721.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "243": {
+  "name": "Dalton Knecht",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4897943.png",
+  "pos": "F",
+  "height": "1,98 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "244": {
+  "name": "Pacome Dadiet",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5211983.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "95 kg",
+  "src": "espn"
+ },
+ "245": {
+  "name": "Mohamed Diawara",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5289900.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "102 kg",
+  "src": "espn"
+ },
+ "246": {
+  "name": "James Wiseman",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432808.png",
+  "pos": "C",
+  "height": "2,11 m",
+  "weight": "109 kg",
+  "src": "espn"
+ },
+ "247": {
+  "name": "Jaden Akins",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4683730.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "88 kg",
+  "src": "espn"
+ },
+ "248": {
+  "name": "Anthony Davis",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/6583.png",
+  "pos": "F",
+  "height": "2,08 m",
+  "weight": "115 kg",
+  "src": "espn"
+ },
+ "249": {
+  "name": "AJ Dybantsa",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5142718.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "250": {
+  "name": "Kyshawn George",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5174563.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "91 kg",
+  "src": "espn"
+ },
+ "251": {
+  "name": "Alex Sarr",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5160992.png",
+  "pos": "C",
+  "height": "2,13 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "252": {
+  "name": "Trae Young",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4277905.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "74 kg",
+  "src": "espn"
+ },
+ "253": {
+  "name": "Khris Middleton",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/6609.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "101 kg",
+  "src": "espn"
+ },
+ "254": {
+  "name": "Deandre Ayton",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4278129.png",
+  "pos": "C",
+  "height": "2,13 m",
+  "weight": "114 kg",
+  "src": "espn"
+ },
+ "255": {
+  "name": "Tre Mann",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432819.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "81 kg",
+  "src": "espn"
+ },
+ "256": {
+  "name": "Bub Carrington",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4845374.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "257": {
+  "name": "Bilal Coulibaly",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5104155.png",
+  "pos": "G",
+  "height": "2,01 m",
+  "weight": "88 kg",
+  "src": "espn"
+ },
+ "258": {
+  "name": "Will Riley",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5144126.png",
+  "pos": "G",
+  "height": "2,06 m",
+  "weight": "82 kg",
+  "src": "espn"
+ },
+ "259": {
+  "name": "Tre Johnson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5238230.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "260": {
+  "name": "Anthony Gill",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/2581184.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "104 kg",
+  "src": "espn"
+ },
+ "261": {
+  "name": "Moussa Diabate",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4433249.png",
+  "pos": "F",
+  "height": "2,08 m",
+  "weight": "95 kg",
+  "src": "espn"
+ },
+ "262": {
+  "name": "Brandon Miller",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4433287.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "91 kg",
+  "src": "espn"
+ },
+ "263": {
+  "name": "Naz Reid",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4396971.png",
+  "pos": "C",
+  "height": "2,06 m",
+  "weight": "120 kg",
+  "src": "espn"
+ },
+ "264": {
+  "name": "Dennis Schroder",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3032979.png",
+  "pos": "G",
+  "height": "1,85 m",
+  "weight": "79 kg",
+  "src": "espn"
+ },
+ "265": {
+  "name": "Sion James",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4602025.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "266": {
+  "name": "Royce O'Neale",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/2583632.png",
+  "pos": "F",
+  "height": "1,98 m",
+  "weight": "103 kg",
+  "src": "espn"
+ },
+ "267": {
+  "name": "Tidjane Salaun",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5211176.png",
+  "pos": "F",
+  "height": "2,08 m",
+  "weight": "94 kg",
+  "src": "espn"
+ },
+ "268": {
+  "name": "Hannes Steinbach",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5281370.png",
+  "pos": "F",
+  "height": "2,08 m",
+  "weight": "112 kg",
+  "src": "espn"
+ },
+ "269": {
+  "name": "Ryan Kalkbrenner",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4576060.png",
+  "pos": "C",
+  "height": "2,16 m",
+  "weight": "116 kg",
+  "src": "espn"
+ },
+ "270": {
+  "name": "PJ Hall",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4701225.png",
+  "pos": "C",
+  "height": "2,03 m",
+  "weight": "111 kg",
+  "src": "espn"
+ },
+ "272": {
+  "name": "Christian Anderson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5060701.png",
+  "pos": "G",
+  "height": "1,85 m",
+  "weight": "82 kg",
+  "src": "espn"
+ },
+ "273": {
+  "name": "Liam McNeeley",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5239590.png",
+  "pos": "G",
+  "height": "2,01 m",
+  "weight": "95 kg",
+  "src": "espn"
+ },
+ "274": {
+  "name": "Toumani Camara",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4431736.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "104 kg",
+  "src": "espn"
+ },
+ "275": {
+  "name": "Deni Avdija",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4683021.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "103 kg",
+  "src": "espn"
+ },
+ "276": {
+  "name": "Donovan Clingan",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5105565.png",
+  "pos": "C",
+  "height": "2,18 m",
+  "weight": "127 kg",
+  "src": "espn"
+ },
+ "277": {
+  "name": "Damian Lillard",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/6606.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "91 kg",
+  "src": "espn"
+ },
+ "278": {
+  "name": "Ja Morant",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4279888.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "79 kg",
+  "src": "espn"
+ },
+ "279": {
+  "name": "John Tonje",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4593043.png",
+  "pos": "F",
+  "height": "1,96 m",
+  "weight": "102 kg",
+  "src": "espn"
+ },
+ "280": {
+  "name": "Micah Potter",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4066399.png",
+  "pos": "C",
+  "height": "2,06 m",
+  "weight": "112 kg",
+  "src": "espn"
+ },
+ "281": {
+  "name": "Branden Carlson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4592435.png",
+  "pos": "C",
+  "height": "2,13 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "282": {
+  "name": "Yang Hansen",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5217746.png",
+  "pos": "C",
+  "height": "2,16 m",
+  "weight": "122 kg",
+  "src": "espn"
+ },
+ "283": {
+  "name": "Jrue Holiday",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3995.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "285": {
+  "name": "Scoot Henderson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4683678.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "94 kg",
+  "src": "espn"
+ },
+ "286": {
+  "name": "Sidy Cissoko",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5081727.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "287": {
+  "name": "Cedric Coward",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4903027.png",
+  "pos": "F",
+  "height": "1,96 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "288": {
+  "name": "Cameron Boozer",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5041935.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "115 kg",
+  "src": "espn"
+ },
+ "289": {
+  "name": "Jaylen Wells",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5112087.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "290": {
+  "name": "Zach Edey",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4600663.png",
+  "pos": "C",
+  "height": "2,21 m",
+  "weight": "138 kg",
+  "src": "espn"
+ },
+ "291": {
+  "name": "Ty Jerome",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4065733.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "88 kg",
+  "src": "espn"
+ },
+ "292": {
+  "name": "Jerami Grant",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/2991070.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "97 kg",
+  "src": "espn"
+ },
+ "293": {
+  "name": "Kris Murray",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4594326.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "99 kg",
+  "src": "espn"
+ },
+ "294": {
+  "name": "Olivier-Maxence Prosper",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4595400.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "104 kg",
+  "src": "espn"
+ },
+ "295": {
+  "name": "Taylor Hendricks",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4684806.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "297": {
+  "name": "Karim Lopez",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5231919.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "101 kg",
+  "src": "espn"
+ },
+ "298": {
+  "name": "Isaiah Stewart",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432810.png",
+  "pos": "C",
+  "height": "2,03 m",
+  "weight": "113 kg",
+  "src": "espn"
+ },
+ "299": {
+  "name": "Quinten Post",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4593016.png",
+  "pos": "C",
+  "height": "2,13 m",
+  "weight": "108 kg",
+  "src": "espn"
+ },
+ "301": {
+  "name": "Cam Spencer",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4433083.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "302": {
+  "name": "Herbert Jones",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4277813.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "303": {
+  "name": "Zion Williamson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4395628.png",
+  "pos": "F",
+  "height": "1,98 m",
+  "weight": "129 kg",
+  "src": "espn"
+ },
+ "304": {
+  "name": "Trey Murphy III",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4397688.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "305": {
+  "name": "Karlo Matkovic",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4997538.png",
+  "pos": "F",
+  "height": "2,08 m",
+  "weight": "105 kg",
+  "src": "espn"
+ },
+ "306": {
+  "name": "Jeremiah Fears",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5144091.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "308": {
+  "name": "Derik Queen",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4869780.png",
+  "pos": "C",
+  "height": "2,06 m",
+  "weight": "113 kg",
+  "src": "espn"
+ },
+ "309": {
+  "name": "Saddiq Bey",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4397136.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "310": {
+  "name": "Bryce McGowens",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4576086.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "312": {
+  "name": "Julian Reese",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4683742.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "114 kg",
+  "src": "espn"
+ },
+ "313": {
+  "name": "DeAndre Jordan",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3442.png",
+  "pos": "C",
+  "height": "2,11 m",
+  "weight": "120 kg",
+  "src": "espn"
+ },
+ "314": {
+  "name": "AJ Johnson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5170947.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "73 kg",
+  "src": "espn"
+ },
+ "315": {
+  "name": "Domantas Sabonis",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3155942.png",
+  "pos": "F",
+  "height": "2,08 m",
+  "weight": "109 kg",
+  "src": "espn"
+ },
+ "316": {
+  "name": "De'Andre Hunter",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4065732.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "317": {
+  "name": "Precious Achiuwa",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4431679.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "110 kg",
+  "src": "espn"
+ },
+ "318": {
+  "name": "Zach LaVine",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3064440.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "91 kg",
+  "src": "espn"
+ },
+ "319": {
+  "name": "Darius Acuff Jr.",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5142620.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "84 kg",
+  "src": "espn"
+ },
+ "320": {
+  "name": "Alex Karaban",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4917149.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "102 kg",
+  "src": "espn"
+ },
+ "321": {
+  "name": "Malik Monk",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4066262.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "91 kg",
+  "src": "espn"
+ },
+ "322": {
+  "name": "Nique Clifford",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4702384.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "79 kg",
+  "src": "espn"
+ },
+ "323": {
+  "name": "Emanuel Sharp",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5106058.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "94 kg",
+  "src": "espn"
+ },
+ "324": {
+  "name": "Leaky Black",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4395650.png",
+  "pos": "F",
+  "height": "1,98 m",
+  "weight": "95 kg",
+  "src": "espn"
+ },
+ "326": {
+  "name": "Daeqwon Plowden",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4279318.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "327": {
+  "name": "Onyeka Okongwu",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4431680.png",
+  "pos": "F",
+  "height": "2,08 m",
+  "weight": "109 kg",
+  "src": "espn"
+ },
+ "328": {
+  "name": "Jalen Johnson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4701230.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "99 kg",
+  "src": "espn"
+ },
+ "330": {
+  "name": "Nickeil Alexander-Walker",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4278039.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "331": {
+  "name": "Dyson Daniels",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4869342.png",
+  "pos": "G",
+  "height": "2,01 m",
+  "weight": "90 kg",
+  "src": "espn"
+ },
+ "332": {
+  "name": "Jock Landale",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3146557.png",
+  "pos": "C",
+  "height": "2,11 m",
+  "weight": "116 kg",
+  "src": "espn"
+ },
+ "333": {
+  "name": "Luguentz Dort",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4397020.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "334": {
+  "name": "Aaron Wiggins",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4397183.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "335": {
+  "name": "Kingston Flemings",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5149077.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "83 kg",
+  "src": "espn"
+ },
+ "336": {
+  "name": "Dorian Finney-Smith",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/2578185.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "337": {
+  "name": "Corey Kispert",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4280151.png",
+  "pos": "F",
+  "height": "1,98 m",
+  "weight": "102 kg",
+  "src": "espn"
+ },
+ "339": {
+  "name": "Zuby Ejiofor",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5106262.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "111 kg",
+  "src": "espn"
+ },
+ "340": {
+  "name": "Jarrett Allen",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4066328.png",
+  "pos": "C",
+  "height": "2,06 m",
+  "weight": "110 kg",
+  "src": "espn"
+ },
+ "342": {
+  "name": "James Harden",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3992.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "343": {
+  "name": "Donovan Mitchell",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3908809.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "344": {
+  "name": "Peyton Watson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4576087.png",
+  "pos": "G",
+  "height": "2,03 m",
+  "weight": "91 kg",
+  "src": "espn"
+ },
+ "345": {
+  "name": "Mario Hezonja",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/2995706.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "346": {
+  "name": "Sam Merrill",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4066757.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "347": {
+  "name": "Jaylon Tyson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4683747.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "348": {
+  "name": "Craig Porter Jr.",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4701233.png",
+  "pos": "G",
+  "height": "1,85 m",
+  "weight": "82 kg",
+  "src": "espn"
+ },
+ "349": {
+  "name": "Tyrese Proctor",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5023693.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "84 kg",
+  "src": "espn"
+ },
+ "351": {
+  "name": "Thomas Bryant",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3934723.png",
+  "pos": "C",
+  "height": "2,06 m",
+  "weight": "112 kg",
+  "src": "espn"
+ },
+ "353": {
+  "name": "Isaiah Hartenstein",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4222252.png",
+  "pos": "C",
+  "height": "2,13 m",
+  "weight": "113 kg",
+  "src": "espn"
+ },
+ "354": {
+  "name": "Kenrich Williams",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3133626.png",
+  "pos": "G",
+  "height": "2,01 m",
+  "weight": "95 kg",
+  "src": "espn"
+ },
+ "355": {
+  "name": "Shai Gilgeous-Alexander",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4278073.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "88 kg",
+  "src": "espn"
+ },
+ "356": {
+  "name": "Jared McCain",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4683778.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "88 kg",
+  "src": "espn"
+ },
+ "357": {
+  "name": "Ajay Mitchell",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4900671.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "358": {
+  "name": "Jaylin Williams",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432823.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "109 kg",
+  "src": "espn"
+ },
+ "359": {
+  "name": "Brooks Barnhizer",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4684208.png",
+  "pos": "F",
+  "height": "1,98 m",
+  "weight": "103 kg",
+  "src": "espn"
+ },
+ "360": {
+  "name": "Aday Mara",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5174983.png",
+  "pos": "C",
+  "height": "2,21 m",
+  "weight": "119 kg",
+  "src": "espn"
+ },
+ "361": {
+  "name": "Micah Peavy",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432185.png",
+  "pos": "G",
+  "height": "2,01 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "362": {
+  "name": "Josh Dix",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5105800.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "363": {
+  "name": "Bennett Stirtz",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5241364.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "364": {
+  "name": "Jaxson Hayes",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4397077.png",
+  "pos": "C",
+  "height": "2,13 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "365": {
+  "name": "Josh Green",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432811.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "91 kg",
+  "src": "espn"
+ },
+ "366": {
+  "name": "Keyonte George",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4433627.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "84 kg",
+  "src": "espn"
+ },
+ "367": {
+  "name": "Ace Bailey",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4873138.png",
+  "pos": "G",
+  "height": "2,06 m",
+  "weight": "91 kg",
+  "src": "espn"
+ },
+ "368": {
+  "name": "Darryn Peterson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5041955.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "90 kg",
+  "src": "espn"
+ },
+ "369": {
+  "name": "Brice Sensabaugh",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5105839.png",
+  "pos": "F",
+  "height": "1,98 m",
+  "weight": "107 kg",
+  "src": "espn"
+ },
+ "370": {
+  "name": "Mo Bamba",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4277919.png",
+  "pos": "C",
+  "height": "2,13 m",
+  "weight": "105 kg",
+  "src": "espn"
+ },
+ "371": {
+  "name": "Svi Mykhailiuk",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3133602.png",
+  "pos": "G",
+  "height": "2,01 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "372": {
+  "name": "Josh Okogie",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4065663.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "97 kg",
+  "src": "espn"
+ },
+ "373": {
+  "name": "Isaiah Collier",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4683766.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "95 kg",
+  "src": "espn"
+ },
+ "375": {
+  "name": "Kyle Filipowski",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4684793.png",
+  "pos": "F",
+  "height": "2,11 m",
+  "weight": "113 kg",
+  "src": "espn"
+ },
+ "376": {
+  "name": "Tony Bradley",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4065673.png",
+  "pos": "C",
+  "height": "2,08 m",
+  "weight": "112 kg",
+  "src": "espn"
+ },
+ "377": {
+  "name": "Victor Wembanyama",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5104157.png",
+  "pos": "F",
+  "height": "2,24 m",
+  "weight": "109 kg",
+  "src": "espn"
+ },
+ "378": {
+  "name": "De'Aaron Fox",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4066259.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "379": {
+  "name": "Devin Vassell",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4395630.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "380": {
+  "name": "Stephon Castle",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4845367.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "381": {
+  "name": "Dylan Harper",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5037871.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "382": {
+  "name": "Keldon Johnson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4395723.png",
+  "pos": "F",
+  "height": "1,98 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "383": {
+  "name": "Julian Champagnie",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4592479.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "384": {
+  "name": "Carter Bryant",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5061568.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "104 kg",
+  "src": "espn"
+ },
+ "385": {
+  "name": "Luke Kornet",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3064560.png",
+  "pos": "C",
+  "height": "2,16 m",
+  "weight": "122 kg",
+  "src": "espn"
+ },
+ "386": {
+  "name": "Harrison Barnes",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/6578.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "102 kg",
+  "src": "espn"
+ },
+ "387": {
+  "name": "David Jones Garcia",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4713010.png",
+  "pos": "F",
+  "height": "1,93 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "388": {
+  "name": "Tarris Reed Jr.",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5105809.png",
+  "pos": "C",
+  "height": "2,08 m",
+  "weight": "122 kg",
+  "src": "espn"
+ },
+ "389": {
+  "name": "Jordan McLaughlin",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3134916.png",
+  "pos": "G",
+  "height": "1,83 m",
+  "weight": "82 kg",
+  "src": "espn"
+ },
+ "390": {
+  "name": "Kyle Kuzma",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3134907.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "391": {
+  "name": "Jaime Jaquez Jr.",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432848.png",
+  "pos": "F",
+  "height": "1,98 m",
+  "weight": "104 kg",
+  "src": "espn"
+ },
+ "392": {
+  "name": "Myles Turner",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3133628.png",
+  "pos": "C",
+  "height": "2,11 m",
+  "weight": "113 kg",
+  "src": "espn"
+ },
+ "393": {
+  "name": "Tyler Herro",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4395725.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "394": {
+  "name": "Ryan Rollins",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4591725.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "82 kg",
+  "src": "espn"
+ },
+ "395": {
+  "name": "Ousmane Dieng",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4997526.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "84 kg",
+  "src": "espn"
+ },
+ "396": {
+  "name": "Nate Ament",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5164559.png",
+  "pos": "F",
+  "height": "2,08 m",
+  "weight": "96 kg",
+  "src": "espn"
+ },
+ "397": {
+  "name": "Bogoljub Markovic",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5214989.png",
+  "pos": "F",
+  "height": "2,11 m",
+  "weight": "95 kg",
+  "src": "espn"
+ },
+ "398": {
+  "name": "Jericho Sims",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4277922.png",
+  "pos": "C",
+  "height": "2,08 m",
+  "weight": "113 kg",
+  "src": "espn"
+ },
+ "399": {
+  "name": "Kel'el Ware",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5105623.png",
+  "pos": "C",
+  "height": "2,13 m",
+  "weight": "113 kg",
+  "src": "espn"
+ },
+ "400": {
+  "name": "Gary Trent Jr.",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4277843.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "401": {
+  "name": "AJ Green",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4397475.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "402": {
+  "name": "Brayden Burries",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5082206.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "403": {
+  "name": "Kasparas Jakucionis",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5214640.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "404": {
+  "name": "Caris LeVert",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/2991043.png",
+  "pos": "G",
+  "height": "2,01 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "405": {
+  "name": "Dailyn Swain",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4848625.png",
+  "pos": "G",
+  "height": "2,01 m",
+  "weight": "96 kg",
+  "src": "espn"
+ },
+ "406": {
+  "name": "Kevin McCullar Jr.",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4411057.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "95 kg",
+  "src": "espn"
+ },
+ "407": {
+  "name": "Graham Ike",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4703396.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "113 kg",
+  "src": "espn"
+ },
+ "409": {
+  "name": "Jordan Poole",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4277956.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "88 kg",
+  "src": "espn"
+ },
+ "411": {
+  "name": "Jaylen Brown",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3917376.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "101 kg",
+  "src": "espn"
+ },
+ "412": {
+  "name": "Meleek Thomas",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5041951.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "414": {
+  "name": "Ziaire Williams",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4433137.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "84 kg",
+  "src": "espn"
+ },
+ "416": {
+  "name": "Robert Williams III",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4066211.png",
+  "pos": "C",
+  "height": "2,06 m",
+  "weight": "113 kg",
+  "src": "espn"
+ },
+ "418": {
+  "name": "Egor Demin",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5175643.png",
+  "pos": "G",
+  "height": "2,03 m",
+  "weight": "91 kg",
+  "src": "espn"
+ },
+ "421": {
+  "name": "Sean Pedulla",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4709131.png",
+  "pos": "G",
+  "height": "1,85 m",
+  "weight": "88 kg",
+  "src": "espn"
+ },
+ "424": {
+  "name": "Alex Caruso",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/2991350.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "84 kg",
+  "src": "espn"
+ },
+ "432": {
+  "name": "Carson Cooper",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5105817.png",
+  "pos": "C",
+  "height": "2,11 m",
+  "weight": "111 kg",
+  "src": "espn"
+ },
+ "433": {
+  "name": "Jahmai Mashack",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4683934.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "89 kg",
+  "src": "espn"
+ },
+ "434": {
+  "name": "Isaiah Joe",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4395702.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "75 kg",
+  "src": "espn"
+ },
+ "435": {
+  "name": "Jalen Suggs",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432165.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "441": {
+  "name": "Ben Saraf",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5242502.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "91 kg",
+  "src": "espn"
+ },
+ "442": {
+  "name": "Pat Spencer",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4592714.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "443": {
+  "name": "Ja'Kobi Gillespie",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5107968.png",
+  "pos": "G",
+  "height": "1,85 m",
+  "weight": "82 kg",
+  "src": "espn"
+ },
+ "445": {
+  "name": "Jabari Walker",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432446.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "109 kg",
+  "src": "espn"
+ },
+ "446": {
+  "name": "Keegan Murray",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4594327.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "102 kg",
+  "src": "espn"
+ },
+ "447": {
+  "name": "Yves Missi",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5061589.png",
+  "pos": "C",
+  "height": "2,11 m",
+  "weight": "107 kg",
+  "src": "espn"
+ },
+ "448": {
+  "name": "Steven Adams",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/2991235.png",
+  "pos": "C",
+  "height": "2,11 m",
+  "weight": "120 kg",
+  "src": "espn"
+ },
+ "451": {
+  "name": "Jose Alvarado",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4277869.png",
+  "pos": "G",
+  "height": "1,83 m",
+  "weight": "81 kg",
+  "src": "espn"
+ },
+ "453": {
+  "name": "Alpha Diallo",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4065813.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "95 kg",
+  "src": "espn"
+ },
+ "454": {
+  "name": "Jayson Kent",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4703889.png",
+  "pos": "G",
+  "height": "2,03 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "456": {
+  "name": "Harrison Ingram",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4433618.png",
+  "pos": "F",
+  "height": "1,96 m",
+  "weight": "104 kg",
+  "src": "espn"
+ },
+ "457": {
+  "name": "Maliq Brown",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5105337.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "107 kg",
+  "src": "espn"
+ },
+ "460": {
+  "name": "Adou Thiero",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5060631.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "463": {
+  "name": "Cameron Carr",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5113969.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "83 kg",
+  "src": "espn"
+ },
+ "466": {
+  "name": "Spencer Jones",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4592427.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "102 kg",
+  "src": "espn"
+ },
+ "469": {
+  "name": "Julian Strawther",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432181.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "480": {
+  "name": "Jonas Aidoo",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4684682.png",
+  "pos": "C",
+  "height": "2,11 m",
+  "weight": "109 kg",
+  "src": "espn"
+ },
+ "483": {
+  "name": "Javon Small",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4781746.png",
+  "pos": "G",
+  "height": "1,85 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "491": {
+  "name": "Orlando Robinson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4593049.png",
+  "pos": "C",
+  "height": "2,08 m",
+  "weight": "107 kg",
+  "src": "espn"
+ },
+ "492": {
+  "name": "Nic Claxton",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4278067.png",
+  "pos": "C",
+  "height": "2,11 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "497": {
+  "name": "Norchad Omier",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4702134.png",
+  "pos": "C",
+  "height": "2,01 m",
+  "weight": "112 kg",
+  "src": "espn"
+ },
+ "500": {
+  "name": "Rocco Zikarsky",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5157587.png",
+  "pos": "C",
+  "height": "2,21 m",
+  "weight": "115 kg",
+  "src": "espn"
+ },
+ "508": {
+  "name": "RayJ Dennis",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4431941.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "82 kg",
+  "src": "espn"
+ },
+ "510": {
+  "name": "Jalen Wilson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4431714.png",
+  "pos": "F",
+  "height": "1,98 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "514": {
+  "name": "Jaron Pierre Jr.",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4703115.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "95 kg",
+  "src": "espn"
+ },
+ "517": {
+  "name": "Malik Dia",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4712862.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "113 kg",
+  "src": "espn"
+ },
+ "519": {
+  "name": "Kobe Bufkin",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4683736.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "88 kg",
+  "src": "espn"
+ },
+ "532": {
+  "name": "Dylan Cardwell",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4433174.png",
+  "pos": "C",
+  "height": "2,08 m",
+  "weight": "116 kg",
+  "src": "espn"
+ },
+ "541": {
+  "name": "Malachi Smith",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4397784.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "559": {
+  "name": "Keshad Johnson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4431786.png",
+  "pos": "F",
+  "height": "1,98 m",
+  "weight": "104 kg",
+  "src": "espn"
+ },
+ "563": {
+  "name": "Tre Donaldson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4837356.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "95 kg",
+  "src": "espn"
+ },
+ "570": {
+  "name": "Cormac Ryan",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4397114.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "88 kg",
+  "src": "espn"
+ },
+ "571": {
+  "name": "Kam Jones",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4697268.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "91 kg",
+  "src": "espn"
+ },
+ "572": {
+  "name": "Pete Nance",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4397233.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "102 kg",
+  "src": "espn"
+ },
+ "574": {
+  "name": "Johni Broome",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4433569.png",
+  "pos": "F",
+  "height": "2,08 m",
+  "weight": "107 kg",
+  "src": "espn"
+ },
+ "588": {
+  "name": "Brandon Ingram",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3913176.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "589": {
+  "name": "Yanic Konan Niederhauser",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5108024.png",
+  "pos": "C",
+  "height": "2,11 m",
+  "weight": "110 kg",
+  "src": "espn"
+ },
+ "591": {
+  "name": "Max Strus",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4065778.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "595": {
+  "name": "Grant Nelson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4702670.png",
+  "pos": "F",
+  "height": "2,11 m",
+  "weight": "104 kg",
+  "src": "espn"
+ },
+ "598": {
+  "name": "Devin Carter",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4433188.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "85 kg",
+  "src": "espn"
+ },
+ "607": {
+  "name": "Zack Austin",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4702099.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "632": {
+  "name": "Santi Aldama",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4593125.png",
+  "pos": "F",
+  "height": "2,13 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "636": {
+  "name": "Dominick Barlow",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4870562.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "108 kg",
+  "src": "espn"
+ },
+ "637": {
+  "name": "Tacko Fall",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3904625.png",
+  "pos": "C",
+  "height": "2,29 m",
+  "weight": "136 kg",
+  "src": "espn"
+ },
+ "654": {
+  "name": "Mason Plumlee",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/2488653.png",
+  "pos": "C",
+  "height": "2,13 m",
+  "weight": "115 kg",
+  "src": "espn"
+ },
+ "655": {
+  "name": "Nikola Topic",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5159925.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "91 kg",
+  "src": "espn"
+ },
+ "672": {
+  "name": "Gabe Vincent",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3137259.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "91 kg",
+  "src": "espn"
+ },
+ "677": {
+  "name": "Grant Williams",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4066218.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "107 kg",
+  "src": "espn"
+ },
+ "679": {
+  "name": "Coby White",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4395651.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "88 kg",
+  "src": "espn"
+ },
+ "707": {
+  "name": "T.J. McConnell",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/2530530.png",
+  "pos": "G",
+  "height": "1,85 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "30557": {
+  "name": "LeBron James",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/1966.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "113 kg",
+  "src": "espn"
+ },
+ "48992": {
+  "name": "Mike Conley",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3195.png",
+  "pos": "G",
+  "height": "1,85 m",
+  "weight": "79 kg",
+  "src": "espn"
+ },
+ "49097": {
+  "name": "Kevin Durant",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3202.png",
+  "pos": "F",
+  "height": "2,11 m",
+  "weight": "109 kg",
+  "src": "espn"
+ },
+ "49262": {
+  "name": "Al Horford",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3213.png",
+  "pos": "C",
+  "height": "2,03 m",
+  "weight": "109 kg",
+  "src": "espn"
+ },
+ "52697": {
+  "name": "DeAndre Jordan",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3442.png",
+  "pos": "C",
+  "height": "2,11 m",
+  "weight": "120 kg",
+  "src": "espn"
+ },
+ "52787": {
+  "name": "Brook Lopez",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3448.png",
+  "pos": "C",
+  "height": "2,16 m",
+  "weight": "128 kg",
+  "src": "espn"
+ },
+ "60692": {
+  "name": "Stephen Curry",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3975.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "84 kg",
+  "src": "espn"
+ },
+ "60737": {
+  "name": "DeMar DeRozan",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3978.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "60947": {
+  "name": "James Harden",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3992.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "60992": {
+  "name": "Jrue Holiday",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3995.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "64832": {
+  "name": "Paul George",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4251.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "97697": {
+  "name": "Kyrie Irving",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/6442.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "88 kg",
+  "src": "espn"
+ },
+ "97817": {
+  "name": "Kawhi Leonard",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/6450.png",
+  "pos": "F",
+  "height": "1,98 m",
+  "weight": "102 kg",
+  "src": "espn"
+ },
+ "98192": {
+  "name": "Klay Thompson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/6475.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "98237": {
+  "name": "Nikola Vucevic",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/6478.png",
+  "pos": "C",
+  "height": "2,06 m",
+  "weight": "118 kg",
+  "src": "espn"
+ },
+ "99737": {
+  "name": "Harrison Barnes",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/6578.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "102 kg",
+  "src": "espn"
+ },
+ "99812": {
+  "name": "Anthony Davis",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/6583.png",
+  "pos": "F",
+  "height": "2,08 m",
+  "weight": "115 kg",
+  "src": "espn"
+ },
+ "99842": {
+  "name": "Andre Drummond",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/6585.png",
+  "pos": "C",
+  "height": "2,11 m",
+  "weight": "127 kg",
+  "src": "espn"
+ },
+ "99902": {
+  "name": "Draymond Green",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/6589.png",
+  "pos": "F",
+  "height": "1,98 m",
+  "weight": "104 kg",
+  "src": "espn"
+ },
+ "100157": {
+  "name": "Damian Lillard",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/6606.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "91 kg",
+  "src": "espn"
+ },
+ "100202": {
+  "name": "Khris Middleton",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/6609.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "101 kg",
+  "src": "espn"
+ },
+ "37330862": {
+  "name": "Mason Plumlee",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/2488653.png",
+  "pos": "C",
+  "height": "2,13 m",
+  "weight": "115 kg",
+  "src": "espn"
+ },
+ "37353302": {
+  "name": "CJ McCollum",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/2490149.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "37924217": {
+  "name": "Tim Hardaway Jr.",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/2528210.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "37927457": {
+  "name": "Jordan Clarkson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/2528426.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "88 kg",
+  "src": "espn"
+ },
+ "37959017": {
+  "name": "T.J. McConnell",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/2530530.png",
+  "pos": "G",
+  "height": "1,85 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "38673842": {
+  "name": "Dorian Finney-Smith",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/2578185.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "38706542": {
+  "name": "Larry Nance Jr.",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/2580365.png",
+  "pos": "F",
+  "height": "1,98 m",
+  "weight": "111 kg",
+  "src": "espn"
+ },
+ "38716337": {
+  "name": "Kentavious Caldwell-Pope",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/2581018.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "97 kg",
+  "src": "espn"
+ },
+ "38718827": {
+  "name": "Anthony Gill",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/2581184.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "104 kg",
+  "src": "espn"
+ },
+ "38755547": {
+  "name": "Royce O'Neale",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/2583632.png",
+  "pos": "F",
+  "height": "1,98 m",
+  "weight": "103 kg",
+  "src": "espn"
+ },
+ "38933807": {
+  "name": "Norman Powell",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/2595516.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "38942747": {
+  "name": "Javonte Green",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/2596112.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "44865497": {
+  "name": "Taurean Prince",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/2990962.png",
+  "pos": "F",
+  "height": "1,98 m",
+  "weight": "99 kg",
+  "src": "espn"
+ },
+ "44865602": {
+  "name": "Georges Niang",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/2990969.png",
+  "pos": "F",
+  "height": "1,98 m",
+  "weight": "104 kg",
+  "src": "espn"
+ },
+ "44865827": {
+  "name": "Buddy Hield",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/2990984.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "44865947": {
+  "name": "Marcus Smart",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/2990992.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "44866712": {
+  "name": "Caris LeVert",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/2991043.png",
+  "pos": "G",
+  "height": "2,01 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "44867117": {
+  "name": "Jerami Grant",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/2991070.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "97 kg",
+  "src": "espn"
+ },
+ "44868152": {
+  "name": "Kris Dunn",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/2991139.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "44869517": {
+  "name": "Fred VanVleet",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/2991230.png",
+  "pos": "G",
+  "height": "1,83 m",
+  "weight": "89 kg",
+  "src": "espn"
+ },
+ "44869592": {
+  "name": "Steven Adams",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/2991235.png",
+  "pos": "C",
+  "height": "2,11 m",
+  "weight": "120 kg",
+  "src": "espn"
+ },
+ "44871317": {
+  "name": "Alex Caruso",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/2991350.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "84 kg",
+  "src": "espn"
+ },
+ "44909177": {
+  "name": "Kyle Anderson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/2993874.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "104 kg",
+  "src": "espn"
+ },
+ "44936657": {
+  "name": "Mario Hezonja",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/2995706.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "45495707": {
+  "name": "Rudy Gobert",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3032976.png",
+  "pos": "C",
+  "height": "2,16 m",
+  "weight": "117 kg",
+  "src": "espn"
+ },
+ "45495722": {
+  "name": "Giannis Antetokounmpo",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3032977.png",
+  "pos": "F",
+  "height": "2,11 m",
+  "weight": "110 kg",
+  "src": "espn"
+ },
+ "45495752": {
+  "name": "Dennis Schroder",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3032979.png",
+  "pos": "G",
+  "height": "1,85 m",
+  "weight": "79 kg",
+  "src": "espn"
+ },
+ "45567902": {
+  "name": "Bogdan Bogdanovic",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3037789.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "102 kg",
+  "src": "espn"
+ },
+ "45890837": {
+  "name": "Joel Embiid",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3059318.png",
+  "pos": "C",
+  "height": "2,13 m",
+  "weight": "122 kg",
+  "src": "espn"
+ },
+ "45890852": {
+  "name": "Andrew Wiggins",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3059319.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "95 kg",
+  "src": "espn"
+ },
+ "45941252": {
+  "name": "Josh Hart",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3062679.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "45965417": {
+  "name": "Aaron Gordon",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3064290.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "107 kg",
+  "src": "espn"
+ },
+ "45967667": {
+  "name": "Zach LaVine",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3064440.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "91 kg",
+  "src": "espn"
+ },
+ "45968297": {
+  "name": "Bobby Portis",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3064482.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "113 kg",
+  "src": "espn"
+ },
+ "45968777": {
+  "name": "Julius Randle",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3064514.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "113 kg",
+  "src": "espn"
+ },
+ "45969467": {
+  "name": "Luke Kornet",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3064560.png",
+  "pos": "C",
+  "height": "2,16 m",
+  "weight": "122 kg",
+  "src": "espn"
+ },
+ "46179707": {
+  "name": "Derrick White",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3078576.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "91 kg",
+  "src": "espn"
+ },
+ "46539002": {
+  "name": "Clint Capela",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3102529.png",
+  "pos": "C",
+  "height": "2,08 m",
+  "weight": "116 kg",
+  "src": "espn"
+ },
+ "46686092": {
+  "name": "Nikola Jokic",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3112335.png",
+  "pos": "C",
+  "height": "2,11 m",
+  "weight": "129 kg",
+  "src": "espn"
+ },
+ "47005097": {
+  "name": "Svi Mykhailiuk",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3133602.png",
+  "pos": "G",
+  "height": "2,01 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "47005112": {
+  "name": "Kelly Oubre Jr.",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3133603.png",
+  "pos": "G",
+  "height": "2,03 m",
+  "weight": "92 kg",
+  "src": "espn"
+ },
+ "47005457": {
+  "name": "Kenrich Williams",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3133626.png",
+  "pos": "G",
+  "height": "2,01 m",
+  "weight": "95 kg",
+  "src": "espn"
+ },
+ "47005487": {
+  "name": "Myles Turner",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3133628.png",
+  "pos": "C",
+  "height": "2,11 m",
+  "weight": "113 kg",
+  "src": "espn"
+ },
+ "47005592": {
+  "name": "Jevon Carter",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3133635.png",
+  "pos": "G",
+  "height": "1,83 m",
+  "weight": "91 kg",
+  "src": "espn"
+ },
+ "47024612": {
+  "name": "Gary Payton II",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3134903.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "88 kg",
+  "src": "espn"
+ },
+ "47024672": {
+  "name": "Kyle Kuzma",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3134907.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "47024687": {
+  "name": "Jakob Poeltl",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3134908.png",
+  "pos": "C",
+  "height": "2,13 m",
+  "weight": "115 kg",
+  "src": "espn"
+ },
+ "47024807": {
+  "name": "Jordan McLaughlin",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3134916.png",
+  "pos": "G",
+  "height": "1,83 m",
+  "weight": "82 kg",
+  "src": "espn"
+ },
+ "47026742": {
+  "name": "Grayson Allen",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3135045.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "90 kg",
+  "src": "espn"
+ },
+ "47026757": {
+  "name": "Tyus Jones",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3135046.png",
+  "pos": "G",
+  "height": "1,83 m",
+  "weight": "89 kg",
+  "src": "espn"
+ },
+ "47043962": {
+  "name": "Devin Booker",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3136193.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "47043992": {
+  "name": "Karl-Anthony Towns",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3136195.png",
+  "pos": "C",
+  "height": "2,13 m",
+  "weight": "112 kg",
+  "src": "espn"
+ },
+ "47044007": {
+  "name": "Trey Lyles",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3136196.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "106 kg",
+  "src": "espn"
+ },
+ "47052722": {
+  "name": "Jae'Sean Tate",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3136777.png",
+  "pos": "F",
+  "height": "1,93 m",
+  "weight": "104 kg",
+  "src": "espn"
+ },
+ "47073467": {
+  "name": "Caleb Martin",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3138160.png",
+  "pos": "F",
+  "height": "1,96 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "47074007": {
+  "name": "Cameron Johnson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3138196.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "95 kg",
+  "src": "espn"
+ },
+ "47199422": {
+  "name": "Jock Landale",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3146557.png",
+  "pos": "C",
+  "height": "2,11 m",
+  "weight": "116 kg",
+  "src": "espn"
+ },
+ "47215922": {
+  "name": "Mikal Bridges",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3147657.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "95 kg",
+  "src": "espn"
+ },
+ "47246162": {
+  "name": "Pascal Siakam",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3149673.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "111 kg",
+  "src": "espn"
+ },
+ "47263727": {
+  "name": "Moritz Wagner",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3150844.png",
+  "pos": "C",
+  "height": "2,11 m",
+  "weight": "111 kg",
+  "src": "espn"
+ },
+ "47333957": {
+  "name": "Dillon Brooks",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3155526.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "102 kg",
+  "src": "espn"
+ },
+ "47334092": {
+  "name": "Kevon Looney",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3155535.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "101 kg",
+  "src": "espn"
+ },
+ "47340197": {
+  "name": "Domantas Sabonis",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3155942.png",
+  "pos": "F",
+  "height": "2,08 m",
+  "weight": "109 kg",
+  "src": "espn"
+ },
+ "47363042": {
+  "name": "Duncan Robinson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3157465.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "58496027": {
+  "name": "Simone Fontecchio",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3899664.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "58570442": {
+  "name": "Tacko Fall",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3904625.png",
+  "pos": "C",
+  "height": "2,29 m",
+  "weight": "136 kg",
+  "src": "espn"
+ },
+ "58613522": {
+  "name": "Dejounte Murray",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3907497.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "82 kg",
+  "src": "espn"
+ },
+ "58613537": {
+  "name": "Matisse Thybulle",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3907498.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "92 kg",
+  "src": "espn"
+ },
+ "58618412": {
+  "name": "Terance Mann",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3907823.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "58633202": {
+  "name": "Donovan Mitchell",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3908809.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "58633742": {
+  "name": "John Collins",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3908845.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "103 kg",
+  "src": "espn"
+ },
+ "58693787": {
+  "name": "Dean Wade",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3912848.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "101 kg",
+  "src": "espn"
+ },
+ "58698677": {
+  "name": "Luke Kennard",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3913174.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "58711727": {
+  "name": "Landry Shamet",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3914044.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "58761707": {
+  "name": "Jaylen Brown",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3917376.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "101 kg",
+  "src": "espn"
+ },
+ "59021147": {
+  "name": "Jalen Brunson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3934672.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "59021852": {
+  "name": "OG Anunoby",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3934719.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "109 kg",
+  "src": "espn"
+ },
+ "59021912": {
+  "name": "Thomas Bryant",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3934723.png",
+  "pos": "C",
+  "height": "2,06 m",
+  "weight": "112 kg",
+  "src": "espn"
+ },
+ "59042552": {
+  "name": "Derrick Jones Jr.",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3936099.png",
+  "pos": "F",
+  "height": "1,98 m",
+  "weight": "95 kg",
+  "src": "espn"
+ },
+ "59045552": {
+  "name": "Jamal Murray",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3936299.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "59180177": {
+  "name": "Luka Doncic",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3945274.png",
+  "pos": "G",
+  "height": "2,03 m",
+  "weight": "104 kg",
+  "src": "espn"
+ },
+ "60268622": {
+  "name": "Ivica Zubac",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4017837.png",
+  "pos": "C",
+  "height": "2,13 m",
+  "weight": "109 kg",
+  "src": "espn"
+ },
+ "60985787": {
+  "name": "Jayson Tatum",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4065648.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "102 kg",
+  "src": "espn"
+ },
+ "60986012": {
+  "name": "Josh Okogie",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4065663.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "97 kg",
+  "src": "espn"
+ },
+ "60986162": {
+  "name": "Tony Bradley",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4065673.png",
+  "pos": "C",
+  "height": "2,08 m",
+  "weight": "112 kg",
+  "src": "espn"
+ },
+ "60987032": {
+  "name": "Jay Huff",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4065731.png",
+  "pos": "C",
+  "height": "2,16 m",
+  "weight": "109 kg",
+  "src": "espn"
+ },
+ "60987047": {
+  "name": "De'Andre Hunter",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4065732.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "60987062": {
+  "name": "Ty Jerome",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4065733.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "88 kg",
+  "src": "espn"
+ },
+ "60987737": {
+  "name": "Max Strus",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4065778.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "60988127": {
+  "name": "Sam Hauser",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4065804.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "60988262": {
+  "name": "Alpha Diallo",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4065813.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "95 kg",
+  "src": "espn"
+ },
+ "60994232": {
+  "name": "Robert Williams III",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4066211.png",
+  "pos": "C",
+  "height": "2,06 m",
+  "weight": "113 kg",
+  "src": "espn"
+ },
+ "60994337": {
+  "name": "Grant Williams",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4066218.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "107 kg",
+  "src": "espn"
+ },
+ "60994952": {
+  "name": "De'Aaron Fox",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4066259.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "60994982": {
+  "name": "Bam Adebayo",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4066261.png",
+  "pos": "C",
+  "height": "2,06 m",
+  "weight": "118 kg",
+  "src": "espn"
+ },
+ "60994997": {
+  "name": "Malik Monk",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4066262.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "91 kg",
+  "src": "espn"
+ },
+ "60995087": {
+  "name": "Duop Reath",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4066268.png",
+  "pos": "C",
+  "height": "2,06 m",
+  "weight": "111 kg",
+  "src": "espn"
+ },
+ "60995867": {
+  "name": "Desmond Bane",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4066320.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "60995987": {
+  "name": "Jarrett Allen",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4066328.png",
+  "pos": "C",
+  "height": "2,06 m",
+  "weight": "110 kg",
+  "src": "espn"
+ },
+ "60996107": {
+  "name": "Lauri Markkanen",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4066336.png",
+  "pos": "F",
+  "height": "2,16 m",
+  "weight": "109 kg",
+  "src": "espn"
+ },
+ "60996377": {
+  "name": "Payton Pritchard",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4066354.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "96 kg",
+  "src": "espn"
+ },
+ "60996647": {
+  "name": "Kevin Huerter",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4066372.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "90 kg",
+  "src": "espn"
+ },
+ "60996812": {
+  "name": "Miles Bridges",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4066383.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "102 kg",
+  "src": "espn"
+ },
+ "60997052": {
+  "name": "Micah Potter",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4066399.png",
+  "pos": "C",
+  "height": "2,06 m",
+  "weight": "112 kg",
+  "src": "espn"
+ },
+ "60997607": {
+  "name": "De'Anthony Melton",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4066436.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "91 kg",
+  "src": "espn"
+ },
+ "60997922": {
+  "name": "Austin Reaves",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4066457.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "89 kg",
+  "src": "espn"
+ },
+ "61000787": {
+  "name": "Rui Hachimura",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4066648.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "104 kg",
+  "src": "espn"
+ },
+ "61000817": {
+  "name": "Zach Collins",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4066650.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "113 kg",
+  "src": "espn"
+ },
+ "61002422": {
+  "name": "Sam Merrill",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4066757.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "61005962": {
+  "name": "Dru Smith",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4066993.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "91 kg",
+  "src": "espn"
+ },
+ "63334847": {
+  "name": "Isaiah Hartenstein",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4222252.png",
+  "pos": "C",
+  "height": "2,13 m",
+  "weight": "113 kg",
+  "src": "espn"
+ },
+ "64168232": {
+  "name": "Collin Sexton",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4277811.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "64168262": {
+  "name": "Herbert Jones",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4277813.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "64168712": {
+  "name": "Gary Trent Jr.",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4277843.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "64168772": {
+  "name": "Wendell Carter Jr.",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4277847.png",
+  "pos": "C",
+  "height": "2,08 m",
+  "weight": "122 kg",
+  "src": "espn"
+ },
+ "64168787": {
+  "name": "Marvin Bagley III",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4277848.png",
+  "pos": "F",
+  "height": "2,08 m",
+  "weight": "107 kg",
+  "src": "espn"
+ },
+ "64169102": {
+  "name": "Jose Alvarado",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4277869.png",
+  "pos": "G",
+  "height": "1,83 m",
+  "weight": "81 kg",
+  "src": "espn"
+ },
+ "64169642": {
+  "name": "Trae Young",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4277905.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "74 kg",
+  "src": "espn"
+ },
+ "64169852": {
+  "name": "Mo Bamba",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4277919.png",
+  "pos": "C",
+  "height": "2,13 m",
+  "weight": "105 kg",
+  "src": "espn"
+ },
+ "64169897": {
+  "name": "Jericho Sims",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4277922.png",
+  "pos": "C",
+  "height": "2,08 m",
+  "weight": "113 kg",
+  "src": "espn"
+ },
+ "64170332": {
+  "name": "Luka Garza",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4277951.png",
+  "pos": "C",
+  "height": "2,08 m",
+  "weight": "110 kg",
+  "src": "espn"
+ },
+ "64170407": {
+  "name": "Jordan Poole",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4277956.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "88 kg",
+  "src": "espn"
+ },
+ "64170482": {
+  "name": "Jaren Jackson Jr.",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4277961.png",
+  "pos": "F",
+  "height": "2,08 m",
+  "weight": "110 kg",
+  "src": "espn"
+ },
+ "64171652": {
+  "name": "Nickeil Alexander-Walker",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4278039.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "64171802": {
+  "name": "Daniel Gafford",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4278049.png",
+  "pos": "F",
+  "height": "2,08 m",
+  "weight": "120 kg",
+  "src": "espn"
+ },
+ "64171862": {
+  "name": "Davion Mitchell",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4278053.png",
+  "pos": "G",
+  "height": "1,83 m",
+  "weight": "95 kg",
+  "src": "espn"
+ },
+ "64172072": {
+  "name": "Nic Claxton",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4278067.png",
+  "pos": "C",
+  "height": "2,11 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "64172162": {
+  "name": "Shai Gilgeous-Alexander",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4278073.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "88 kg",
+  "src": "espn"
+ },
+ "64172207": {
+  "name": "Nick Richards",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4278076.png",
+  "pos": "C",
+  "height": "2,11 m",
+  "weight": "111 kg",
+  "src": "espn"
+ },
+ "64172222": {
+  "name": "Jarred Vanderbilt",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4278077.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "97 kg",
+  "src": "espn"
+ },
+ "64172237": {
+  "name": "P.J. Washington",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4278078.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "104 kg",
+  "src": "espn"
+ },
+ "64172627": {
+  "name": "Michael Porter Jr.",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4278104.png",
+  "pos": "F",
+  "height": "2,08 m",
+  "weight": "99 kg",
+  "src": "espn"
+ },
+ "64173002": {
+  "name": "Deandre Ayton",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4278129.png",
+  "pos": "C",
+  "height": "2,13 m",
+  "weight": "114 kg",
+  "src": "espn"
+ },
+ "64176392": {
+  "name": "Obi Toppin",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4278355.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "64177097": {
+  "name": "Jordan Goodwin",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4278402.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "64179497": {
+  "name": "Paul Reed",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4278562.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "95 kg",
+  "src": "espn"
+ },
+ "64179647": {
+  "name": "Jamal Cain",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4278572.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "87 kg",
+  "src": "espn"
+ },
+ "64179767": {
+  "name": "Sandro Mamukelashvili",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4278580.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "109 kg",
+  "src": "espn"
+ },
+ "64179842": {
+  "name": "Collin Gillespie",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4278585.png",
+  "pos": "G",
+  "height": "1,85 m",
+  "weight": "88 kg",
+  "src": "espn"
+ },
+ "64179977": {
+  "name": "Naji Marshall",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4278594.png",
+  "pos": "F",
+  "height": "1,98 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "64190837": {
+  "name": "Daeqwon Plowden",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4279318.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "64199387": {
+  "name": "Ja Morant",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4279888.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "79 kg",
+  "src": "espn"
+ },
+ "64203332": {
+  "name": "Corey Kispert",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4280151.png",
+  "pos": "F",
+  "height": "1,98 m",
+  "weight": "102 kg",
+  "src": "espn"
+ },
+ "64204742": {
+  "name": "Jamaree Bouyea",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4280245.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "82 kg",
+  "src": "espn"
+ },
+ "65231567": {
+  "name": "Goga Bitadze",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4348700.png",
+  "pos": "C",
+  "height": "2,11 m",
+  "weight": "113 kg",
+  "src": "espn"
+ },
+ "65278832": {
+  "name": "Anfernee Simons",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4351851.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "65278847": {
+  "name": "Mitchell Robinson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4351852.png",
+  "pos": "C",
+  "height": "2,13 m",
+  "weight": "109 kg",
+  "src": "espn"
+ },
+ "65935442": {
+  "name": "RJ Barrett",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4395625.png",
+  "pos": "F",
+  "height": "1,98 m",
+  "weight": "97 kg",
+  "src": "espn"
+ },
+ "65935457": {
+  "name": "Tre Jones",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4395626.png",
+  "pos": "G",
+  "height": "1,85 m",
+  "weight": "84 kg",
+  "src": "espn"
+ },
+ "65935487": {
+  "name": "Zion Williamson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4395628.png",
+  "pos": "F",
+  "height": "1,98 m",
+  "weight": "129 kg",
+  "src": "espn"
+ },
+ "65935517": {
+  "name": "Devin Vassell",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4395630.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "65935817": {
+  "name": "Leaky Black",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4395650.png",
+  "pos": "F",
+  "height": "1,98 m",
+  "weight": "95 kg",
+  "src": "espn"
+ },
+ "65935832": {
+  "name": "Coby White",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4395651.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "88 kg",
+  "src": "espn"
+ },
+ "65936597": {
+  "name": "Isaiah Joe",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4395702.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "75 kg",
+  "src": "espn"
+ },
+ "65936747": {
+  "name": "Andrew Nembhard",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4395712.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "87 kg",
+  "src": "espn"
+ },
+ "65936912": {
+  "name": "Keldon Johnson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4395723.png",
+  "pos": "F",
+  "height": "1,98 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "65936927": {
+  "name": "Immanuel Quickley",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4395724.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "65936942": {
+  "name": "Tyler Herro",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4395725.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "65954672": {
+  "name": "Darius Garland",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4396907.png",
+  "pos": "G",
+  "height": "1,85 m",
+  "weight": "87 kg",
+  "src": "espn"
+ },
+ "65954702": {
+  "name": "Aaron Nesmith",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4396909.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "65955632": {
+  "name": "Naz Reid",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4396971.png",
+  "pos": "C",
+  "height": "2,06 m",
+  "weight": "120 kg",
+  "src": "espn"
+ },
+ "65955962": {
+  "name": "Tyrese Haliburton",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4396993.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "84 kg",
+  "src": "espn"
+ },
+ "65956097": {
+  "name": "Ayo Dosunmu",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4397002.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "91 kg",
+  "src": "espn"
+ },
+ "65956277": {
+  "name": "Quentin Grimes",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4397014.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "95 kg",
+  "src": "espn"
+ },
+ "65956367": {
+  "name": "Luguentz Dort",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4397020.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "65956667": {
+  "name": "Brandon Williams",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4397040.png",
+  "pos": "G",
+  "height": "1,85 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "65957222": {
+  "name": "Jaxson Hayes",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4397077.png",
+  "pos": "C",
+  "height": "2,13 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "65958107": {
+  "name": "Saddiq Bey",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4397136.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "65958167": {
+  "name": "Kevin Porter Jr.",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4397140.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "92 kg",
+  "src": "espn"
+ },
+ "65958812": {
+  "name": "Aaron Wiggins",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4397183.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "65958902": {
+  "name": "Jalen Smith",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4397189.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "65959127": {
+  "name": "Colin Castleton",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4397204.png",
+  "pos": "C",
+  "height": "2,08 m",
+  "weight": "113 kg",
+  "src": "espn"
+ },
+ "65959562": {
+  "name": "Pete Nance",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4397233.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "102 kg",
+  "src": "espn"
+ },
+ "65959832": {
+  "name": "Ron Harper Jr.",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4397251.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "106 kg",
+  "src": "espn"
+ },
+ "65962427": {
+  "name": "Neemias Queta",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4397424.png",
+  "pos": "C",
+  "height": "2,13 m",
+  "weight": "118 kg",
+  "src": "espn"
+ },
+ "65962802": {
+  "name": "Elijah Harkless",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4397449.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "88 kg",
+  "src": "espn"
+ },
+ "65963192": {
+  "name": "AJ Green",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4397475.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "65966387": {
+  "name": "Trey Murphy III",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4397688.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "65967827": {
+  "name": "Malachi Smith",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4397784.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "65969297": {
+  "name": "Tolu Smith",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4397882.png",
+  "pos": "F",
+  "height": "2,11 m",
+  "weight": "113 kg",
+  "src": "espn"
+ },
+ "65969357": {
+  "name": "Charles Bassey",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4397886.png",
+  "pos": "C",
+  "height": "2,08 m",
+  "weight": "104 kg",
+  "src": "espn"
+ },
+ "65974172": {
+  "name": "Jalen Slawson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4398207.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "65976917": {
+  "name": "Jalen Pickett",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4398390.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "92 kg",
+  "src": "espn"
+ },
+ "66166922": {
+  "name": "Kevin McCullar Jr.",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4411057.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "95 kg",
+  "src": "espn"
+ },
+ "66476132": {
+  "name": "Jaden McDaniels",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4431671.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "84 kg",
+  "src": "espn"
+ },
+ "66476192": {
+  "name": "Trendon Watford",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4431675.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "108 kg",
+  "src": "espn"
+ },
+ "66476237": {
+  "name": "Tyrese Maxey",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4431678.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "66476252": {
+  "name": "Precious Achiuwa",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4431679.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "110 kg",
+  "src": "espn"
+ },
+ "66476267": {
+  "name": "Onyeka Okongwu",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4431680.png",
+  "pos": "F",
+  "height": "2,08 m",
+  "weight": "109 kg",
+  "src": "espn"
+ },
+ "66476327": {
+  "name": "Trayce Jackson-Davis",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4431684.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "111 kg",
+  "src": "espn"
+ },
+ "66476372": {
+  "name": "Patrick Williams",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4431687.png",
+  "pos": "F",
+  "height": "1,98 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "66476417": {
+  "name": "Zeke Nnaji",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4431690.png",
+  "pos": "F",
+  "height": "2,08 m",
+  "weight": "109 kg",
+  "src": "espn"
+ },
+ "66476777": {
+  "name": "Jalen Wilson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4431714.png",
+  "pos": "F",
+  "height": "1,98 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "66477107": {
+  "name": "Toumani Camara",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4431736.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "104 kg",
+  "src": "espn"
+ },
+ "66477347": {
+  "name": "Kobe Brown",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4431752.png",
+  "pos": "G",
+  "height": "2,01 m",
+  "weight": "113 kg",
+  "src": "espn"
+ },
+ "66477572": {
+  "name": "Christian Braun",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4431767.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "66477647": {
+  "name": "Myron Gardner",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4431772.png",
+  "pos": "F",
+  "height": "1,96 m",
+  "weight": "102 kg",
+  "src": "espn"
+ },
+ "66477842": {
+  "name": "Scotty Pippen Jr.",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4431785.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "77 kg",
+  "src": "espn"
+ },
+ "66477857": {
+  "name": "Keshad Johnson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4431786.png",
+  "pos": "F",
+  "height": "1,98 m",
+  "weight": "104 kg",
+  "src": "espn"
+ },
+ "66478412": {
+  "name": "Miles McBride",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4431823.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "88 kg",
+  "src": "espn"
+ },
+ "66479462": {
+  "name": "Jamison Battle",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4431893.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "66480182": {
+  "name": "RayJ Dennis",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4431941.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "82 kg",
+  "src": "espn"
+ },
+ "66482672": {
+  "name": "Marcus Sasser",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432107.png",
+  "pos": "G",
+  "height": "1,85 m",
+  "weight": "88 kg",
+  "src": "espn"
+ },
+ "66483437": {
+  "name": "Evan Mobley",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432158.png",
+  "pos": "C",
+  "height": "2,11 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "66483542": {
+  "name": "Jalen Suggs",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432165.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "66483557": {
+  "name": "Cade Cunningham",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432166.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "66483617": {
+  "name": "Isaiah Jackson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432170.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "66483782": {
+  "name": "Julian Strawther",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432181.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "66483842": {
+  "name": "Micah Peavy",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432185.png",
+  "pos": "G",
+  "height": "2,01 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "66483872": {
+  "name": "Reece Beekman",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432187.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "66483977": {
+  "name": "Day'Ron Sharpe",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432194.png",
+  "pos": "C",
+  "height": "2,08 m",
+  "weight": "120 kg",
+  "src": "espn"
+ },
+ "66484682": {
+  "name": "Jamal Shead",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432241.png",
+  "pos": "G",
+  "height": "1,85 m",
+  "weight": "91 kg",
+  "src": "espn"
+ },
+ "66484772": {
+  "name": "Jaylen Clark",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432247.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "66487757": {
+  "name": "Jabari Walker",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432446.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "109 kg",
+  "src": "espn"
+ },
+ "66489662": {
+  "name": "Paolo Banchero",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432573.png",
+  "pos": "F",
+  "height": "2,08 m",
+  "weight": "113 kg",
+  "src": "espn"
+ },
+ "66489797": {
+  "name": "Max Christie",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432582.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "66490652": {
+  "name": "Jabari Smith Jr.",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432639.png",
+  "pos": "F",
+  "height": "2,11 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "66492122": {
+  "name": "Jaden Bradley",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432737.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "66493187": {
+  "name": "James Wiseman",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432808.png",
+  "pos": "C",
+  "height": "2,11 m",
+  "weight": "109 kg",
+  "src": "espn"
+ },
+ "66493217": {
+  "name": "Isaiah Stewart",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432810.png",
+  "pos": "C",
+  "height": "2,03 m",
+  "weight": "113 kg",
+  "src": "espn"
+ },
+ "66493232": {
+  "name": "Josh Green",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432811.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "91 kg",
+  "src": "espn"
+ },
+ "66493307": {
+  "name": "LaMelo Ball",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432816.png",
+  "pos": "G",
+  "height": "2,01 m",
+  "weight": "82 kg",
+  "src": "espn"
+ },
+ "66493352": {
+  "name": "Tre Mann",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432819.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "81 kg",
+  "src": "espn"
+ },
+ "66493397": {
+  "name": "Isaac Okoro",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432822.png",
+  "pos": "F",
+  "height": "1,93 m",
+  "weight": "102 kg",
+  "src": "espn"
+ },
+ "66493412": {
+  "name": "Jaylin Williams",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432823.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "109 kg",
+  "src": "espn"
+ },
+ "66493472": {
+  "name": "Oscar Tshiebwe",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432827.png",
+  "pos": "C",
+  "height": "2,03 m",
+  "weight": "116 kg",
+  "src": "espn"
+ },
+ "66493772": {
+  "name": "Terrence Shannon Jr.",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432847.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "66493787": {
+  "name": "Jaime Jaquez Jr.",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432848.png",
+  "pos": "F",
+  "height": "1,98 m",
+  "weight": "104 kg",
+  "src": "espn"
+ },
+ "66494672": {
+  "name": "Justin Champagnie",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4432907.png",
+  "pos": "F",
+  "height": "1,98 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "66497207": {
+  "name": "Ben Sheppard",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4433076.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "66497312": {
+  "name": "Cam Spencer",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4433083.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "66498077": {
+  "name": "Scottie Barnes",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4433134.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "108 kg",
+  "src": "espn"
+ },
+ "66498107": {
+  "name": "Walker Kessler",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4433136.png",
+  "pos": "C",
+  "height": "2,18 m",
+  "weight": "111 kg",
+  "src": "espn"
+ },
+ "66498122": {
+  "name": "Ziaire Williams",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4433137.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "84 kg",
+  "src": "espn"
+ },
+ "66498227": {
+  "name": "Caleb Love",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4433144.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "97 kg",
+  "src": "espn"
+ },
+ "66498302": {
+  "name": "LJ Cryer",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4433149.png",
+  "pos": "G",
+  "height": "1,83 m",
+  "weight": "91 kg",
+  "src": "espn"
+ },
+ "66498677": {
+  "name": "Dylan Cardwell",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4433174.png",
+  "pos": "C",
+  "height": "2,08 m",
+  "weight": "116 kg",
+  "src": "espn"
+ },
+ "66498887": {
+  "name": "Devin Carter",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4433188.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "85 kg",
+  "src": "espn"
+ },
+ "66498947": {
+  "name": "Tari Eason",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4433192.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "66499442": {
+  "name": "Tyler Kolek",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4433225.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "88 kg",
+  "src": "espn"
+ },
+ "66499772": {
+  "name": "Jonathan Kuminga",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4433247.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "102 kg",
+  "src": "espn"
+ },
+ "66499802": {
+  "name": "Moussa Diabate",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4433249.png",
+  "pos": "F",
+  "height": "2,08 m",
+  "weight": "95 kg",
+  "src": "espn"
+ },
+ "66499892": {
+  "name": "Chet Holmgren",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4433255.png",
+  "pos": "C",
+  "height": "2,16 m",
+  "weight": "94 kg",
+  "src": "espn"
+ },
+ "66500372": {
+  "name": "Brandon Miller",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4433287.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "91 kg",
+  "src": "espn"
+ },
+ "66505052": {
+  "name": "Arthur Kaluma",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4433599.png",
+  "pos": "F",
+  "height": "1,98 m",
+  "weight": "101 kg",
+  "src": "espn"
+ },
+ "66505172": {
+  "name": "DaRon Holmes II",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4433607.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "102 kg",
+  "src": "espn"
+ },
+ "66505337": {
+  "name": "Harrison Ingram",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4433618.png",
+  "pos": "F",
+  "height": "1,96 m",
+  "weight": "104 kg",
+  "src": "espn"
+ },
+ "66505382": {
+  "name": "Jalen Duren",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4433621.png",
+  "pos": "C",
+  "height": "2,08 m",
+  "weight": "113 kg",
+  "src": "espn"
+ },
+ "66505472": {
+  "name": "Keyonte George",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4433627.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "84 kg",
+  "src": "espn"
+ },
+ "66505502": {
+  "name": "Ryan Nembhard",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4433629.png",
+  "pos": "G",
+  "height": "1,80 m",
+  "weight": "82 kg",
+  "src": "espn"
+ },
+ "66559727": {
+  "name": "Jalen Green",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4437244.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "84 kg",
+  "src": "espn"
+ },
+ "68486537": {
+  "name": "Bryce Hopkins",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4565698.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "68497577": {
+  "name": "Franz Wagner",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4566434.png",
+  "pos": "F",
+  "height": "2,08 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "68641967": {
+  "name": "Ryan Kalkbrenner",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4576060.png",
+  "pos": "C",
+  "height": "2,16 m",
+  "weight": "116 kg",
+  "src": "espn"
+ },
+ "68642357": {
+  "name": "Bryce McGowens",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4576086.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "68642372": {
+  "name": "Peyton Watson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4576087.png",
+  "pos": "G",
+  "height": "2,03 m",
+  "weight": "91 kg",
+  "src": "espn"
+ },
+ "68684462": {
+  "name": "Vit Krejci",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4578893.png",
+  "pos": "G",
+  "height": "2,03 m",
+  "weight": "88 kg",
+  "src": "espn"
+ },
+ "68876942": {
+  "name": "Ryan Rollins",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4591725.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "82 kg",
+  "src": "espn"
+ },
+ "68887472": {
+  "name": "Spencer Jones",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4592427.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "102 kg",
+  "src": "espn"
+ },
+ "68887592": {
+  "name": "Branden Carlson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4592435.png",
+  "pos": "C",
+  "height": "2,13 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "68888252": {
+  "name": "Julian Champagnie",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4592479.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "68888447": {
+  "name": "Bones Hyland",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4592492.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "77 kg",
+  "src": "espn"
+ },
+ "68891432": {
+  "name": "Jake LaRavia",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4592691.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "107 kg",
+  "src": "espn"
+ },
+ "68891777": {
+  "name": "Pat Spencer",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4592714.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "68893502": {
+  "name": "Quenton Jackson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4592829.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "78 kg",
+  "src": "espn"
+ },
+ "68893922": {
+  "name": "Isaiah Crawford",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4592857.png",
+  "pos": "F",
+  "height": "1,98 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "68895752": {
+  "name": "Zyon Pullin",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4592979.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "68896307": {
+  "name": "Quinten Post",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4593016.png",
+  "pos": "C",
+  "height": "2,13 m",
+  "weight": "108 kg",
+  "src": "espn"
+ },
+ "68896577": {
+  "name": "Alex Morales",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4593034.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "82 kg",
+  "src": "espn"
+ },
+ "68896712": {
+  "name": "John Tonje",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4593043.png",
+  "pos": "F",
+  "height": "1,96 m",
+  "weight": "102 kg",
+  "src": "espn"
+ },
+ "68896802": {
+  "name": "Orlando Robinson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4593049.png",
+  "pos": "C",
+  "height": "2,08 m",
+  "weight": "107 kg",
+  "src": "espn"
+ },
+ "68897942": {
+  "name": "Santi Aldama",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4593125.png",
+  "pos": "F",
+  "height": "2,13 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "68908112": {
+  "name": "Jalen Williams",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4593803.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "96 kg",
+  "src": "espn"
+ },
+ "68908682": {
+  "name": "Baylor Scheierman",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4593841.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "97 kg",
+  "src": "espn"
+ },
+ "68915087": {
+  "name": "Anthony Edwards",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4594268.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "102 kg",
+  "src": "espn"
+ },
+ "68915957": {
+  "name": "Kris Murray",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4594326.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "99 kg",
+  "src": "espn"
+ },
+ "68915972": {
+  "name": "Keegan Murray",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4594327.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "102 kg",
+  "src": "espn"
+ },
+ "68932067": {
+  "name": "Olivier-Maxence Prosper",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4595400.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "104 kg",
+  "src": "espn"
+ },
+ "69011012": {
+  "name": "Zach Edey",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4600663.png",
+  "pos": "C",
+  "height": "2,21 m",
+  "weight": "138 kg",
+  "src": "espn"
+ },
+ "69016412": {
+  "name": "Oso Ighodaro",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4601023.png",
+  "pos": "F",
+  "height": "2,11 m",
+  "weight": "107 kg",
+  "src": "espn"
+ },
+ "69016442": {
+  "name": "Pelle Larsson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4601025.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "69031442": {
+  "name": "Sion James",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4602025.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "70246382": {
+  "name": "Deni Avdija",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4683021.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "103 kg",
+  "src": "espn"
+ },
+ "70255577": {
+  "name": "Bennedict Mathurin",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4683634.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "95 kg",
+  "src": "espn"
+ },
+ "70256237": {
+  "name": "Scoot Henderson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4683678.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "94 kg",
+  "src": "espn"
+ },
+ "70256402": {
+  "name": "Jordan Walsh",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4683689.png",
+  "pos": "G",
+  "height": "2,01 m",
+  "weight": "94 kg",
+  "src": "espn"
+ },
+ "70256447": {
+  "name": "Cason Wallace",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4683692.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "88 kg",
+  "src": "espn"
+ },
+ "70257017": {
+  "name": "Jaden Akins",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4683730.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "88 kg",
+  "src": "espn"
+ },
+ "70257107": {
+  "name": "Kobe Bufkin",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4683736.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "88 kg",
+  "src": "espn"
+ },
+ "70257197": {
+  "name": "Julian Reese",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4683742.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "114 kg",
+  "src": "espn"
+ },
+ "70257272": {
+  "name": "Jaylon Tyson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4683747.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "70257317": {
+  "name": "Jordan Hawkins",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4683750.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "70257557": {
+  "name": "Isaiah Collier",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4683766.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "95 kg",
+  "src": "espn"
+ },
+ "70257632": {
+  "name": "Ronald Holland II",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4683771.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "70257677": {
+  "name": "Bronny James",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4683774.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "95 kg",
+  "src": "espn"
+ },
+ "70257737": {
+  "name": "Jared McCain",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4683778.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "88 kg",
+  "src": "espn"
+ },
+ "70260077": {
+  "name": "Jahmai Mashack",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4683934.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "89 kg",
+  "src": "espn"
+ },
+ "70260092": {
+  "name": "Blake Wesley",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4683935.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "70264187": {
+  "name": "Brooks Barnhizer",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4684208.png",
+  "pos": "F",
+  "height": "1,98 m",
+  "weight": "103 kg",
+  "src": "espn"
+ },
+ "70265147": {
+  "name": "Ja'Kobe Walter",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4684272.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "82 kg",
+  "src": "espn"
+ },
+ "70272167": {
+  "name": "Amen Thompson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4684740.png",
+  "pos": "G",
+  "height": "2,01 m",
+  "weight": "91 kg",
+  "src": "espn"
+ },
+ "70272197": {
+  "name": "Ausar Thompson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4684742.png",
+  "pos": "G",
+  "height": "2,01 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "70272962": {
+  "name": "Kyle Filipowski",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4684793.png",
+  "pos": "F",
+  "height": "2,11 m",
+  "weight": "113 kg",
+  "src": "espn"
+ },
+ "70273157": {
+  "name": "Taylor Hendricks",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4684806.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "70316837": {
+  "name": "Josh Minott",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4687718.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "70481852": {
+  "name": "Trevon Brazile",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4698719.png",
+  "pos": "F",
+  "height": "2,08 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "70513847": {
+  "name": "Chaz Lanier",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4700852.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "70519187": {
+  "name": "Moussa Cisse",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4701208.png",
+  "pos": "C",
+  "height": "2,11 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "70519442": {
+  "name": "PJ Hall",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4701225.png",
+  "pos": "C",
+  "height": "2,03 m",
+  "weight": "111 kg",
+  "src": "espn"
+ },
+ "70519517": {
+  "name": "Jalen Johnson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4701230.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "99 kg",
+  "src": "espn"
+ },
+ "70519562": {
+  "name": "Craig Porter Jr.",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4701233.png",
+  "pos": "G",
+  "height": "1,85 m",
+  "weight": "82 kg",
+  "src": "espn"
+ },
+ "70533077": {
+  "name": "Norchad Omier",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4702134.png",
+  "pos": "C",
+  "height": "2,01 m",
+  "weight": "112 kg",
+  "src": "espn"
+ },
+ "70533722": {
+  "name": "Keon Ellis",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4702177.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "79 kg",
+  "src": "espn"
+ },
+ "70536347": {
+  "name": "Kobe Sanders",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4702352.png",
+  "pos": "G",
+  "height": "2,03 m",
+  "weight": "94 kg",
+  "src": "espn"
+ },
+ "70536797": {
+  "name": "Tristan da Silva",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4702382.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "70536827": {
+  "name": "Nique Clifford",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4702384.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "79 kg",
+  "src": "espn"
+ },
+ "70540907": {
+  "name": "Alijah Martin",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4702656.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "96 kg",
+  "src": "espn"
+ },
+ "70542242": {
+  "name": "Amari Williams",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4702745.png",
+  "pos": "F",
+  "height": "2,13 m",
+  "weight": "119 kg",
+  "src": "espn"
+ },
+ "70545647": {
+  "name": "Chris Manon",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4702972.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "95 kg",
+  "src": "espn"
+ },
+ "70547792": {
+  "name": "Jaron Pierre Jr.",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4703115.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "95 kg",
+  "src": "espn"
+ },
+ "70552007": {
+  "name": "Graham Ike",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4703396.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "113 kg",
+  "src": "espn"
+ },
+ "70559402": {
+  "name": "Jayson Kent",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4703889.png",
+  "pos": "G",
+  "height": "2,03 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "70599422": {
+  "name": "Chris Youngblood",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4706557.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "70638032": {
+  "name": "Sean Pedulla",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4709131.png",
+  "pos": "G",
+  "height": "1,85 m",
+  "weight": "88 kg",
+  "src": "espn"
+ },
+ "70638137": {
+  "name": "Brandin Podziemski",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4709138.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "70670147": {
+  "name": "Reed Sheppard",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4711272.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "84 kg",
+  "src": "espn"
+ },
+ "70670477": {
+  "name": "Matas Buzelis",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4711294.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "95 kg",
+  "src": "espn"
+ },
+ "70670522": {
+  "name": "Justin Edwards",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4711297.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "101 kg",
+  "src": "espn"
+ },
+ "70693802": {
+  "name": "Anthony Black",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4712849.png",
+  "pos": "G",
+  "height": "2,01 m",
+  "weight": "91 kg",
+  "src": "espn"
+ },
+ "70693997": {
+  "name": "Malik Dia",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4712862.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "113 kg",
+  "src": "espn"
+ },
+ "70694507": {
+  "name": "Noah Clowney",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4712896.png",
+  "pos": "F",
+  "height": "2,08 m",
+  "weight": "95 kg",
+  "src": "espn"
+ },
+ "70696217": {
+  "name": "David Jones Garcia",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4713010.png",
+  "pos": "F",
+  "height": "1,93 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "71727257": {
+  "name": "Javon Small",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4781746.png",
+  "pos": "G",
+  "height": "1,85 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "72561407": {
+  "name": "Tre Donaldson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4837356.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "95 kg",
+  "src": "espn"
+ },
+ "72581882": {
+  "name": "Tyler Nickel",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4838721.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "72681512": {
+  "name": "Cam Christie",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4845363.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "72681572": {
+  "name": "Stephon Castle",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4845367.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "72681677": {
+  "name": "Bub Carrington",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4845374.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "72730442": {
+  "name": "Dailyn Swain",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4848625.png",
+  "pos": "G",
+  "height": "2,01 m",
+  "weight": "96 kg",
+  "src": "espn"
+ },
+ "73027412": {
+  "name": "Jaden Hardy",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4868423.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "90 kg",
+  "src": "espn"
+ },
+ "73041197": {
+  "name": "Dyson Daniels",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4869342.png",
+  "pos": "G",
+  "height": "2,01 m",
+  "weight": "90 kg",
+  "src": "espn"
+ },
+ "73047767": {
+  "name": "Derik Queen",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4869780.png",
+  "pos": "C",
+  "height": "2,06 m",
+  "weight": "113 kg",
+  "src": "espn"
+ },
+ "73059527": {
+  "name": "Joshua Jefferson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4870564.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "112 kg",
+  "src": "espn"
+ },
+ "73068227": {
+  "name": "Alperen Sengun",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4871144.png",
+  "pos": "C",
+  "height": "2,11 m",
+  "weight": "110 kg",
+  "src": "espn"
+ },
+ "73068242": {
+  "name": "Josh Giddey",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4871145.png",
+  "pos": "G",
+  "height": "2,01 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "73097417": {
+  "name": "Labaron Philon Jr.",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4873090.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "81 kg",
+  "src": "espn"
+ },
+ "73098137": {
+  "name": "Ace Bailey",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4873138.png",
+  "pos": "G",
+  "height": "2,06 m",
+  "weight": "91 kg",
+  "src": "espn"
+ },
+ "73098362": {
+  "name": "Morez Johnson Jr.",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4873153.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "113 kg",
+  "src": "espn"
+ },
+ "73099082": {
+  "name": "Asa Newell",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4873201.png",
+  "pos": "F",
+  "height": "2,11 m",
+  "weight": "102 kg",
+  "src": "espn"
+ },
+ "73331942": {
+  "name": "Ryan Dunn",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4888725.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "73437437": {
+  "name": "Cody Williams",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4895758.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "73446647": {
+  "name": "Walter Clayton Jr.",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4896372.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "88 kg",
+  "src": "espn"
+ },
+ "73459997": {
+  "name": "Will Richard",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4897262.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "73462802": {
+  "name": "Malevy Leons",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4897449.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "92 kg",
+  "src": "espn"
+ },
+ "73470212": {
+  "name": "Dalton Knecht",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4897943.png",
+  "pos": "F",
+  "height": "1,98 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "73471217": {
+  "name": "Jaylin Sellers",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4898010.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "73511132": {
+  "name": "Ajay Mitchell",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4900671.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "73546472": {
+  "name": "Cedric Coward",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4903027.png",
+  "pos": "F",
+  "height": "1,96 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "73758302": {
+  "name": "Alex Karaban",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4917149.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "102 kg",
+  "src": "espn"
+ },
+ "74963957": {
+  "name": "Ousmane Dieng",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4997526.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "84 kg",
+  "src": "espn"
+ },
+ "74963987": {
+  "name": "Nikola Jovic",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4997528.png",
+  "pos": "F",
+  "height": "2,08 m",
+  "weight": "109 kg",
+  "src": "espn"
+ },
+ "74964107": {
+  "name": "Gui Santos",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4997536.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "84 kg",
+  "src": "espn"
+ },
+ "74964137": {
+  "name": "Karlo Matkovic",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4997538.png",
+  "pos": "F",
+  "height": "2,08 m",
+  "weight": "105 kg",
+  "src": "espn"
+ },
+ "75356462": {
+  "name": "Tyrese Proctor",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5023693.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "84 kg",
+  "src": "espn"
+ },
+ "75569132": {
+  "name": "Dylan Harper",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5037871.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "75569162": {
+  "name": "Drake Powell",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5037873.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "88 kg",
+  "src": "espn"
+ },
+ "75630092": {
+  "name": "Cameron Boozer",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5041935.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "115 kg",
+  "src": "espn"
+ },
+ "75630152": {
+  "name": "Cooper Flagg",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5041939.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "75630332": {
+  "name": "Meleek Thomas",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5041951.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "75630362": {
+  "name": "Koa Peat",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5041953.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "111 kg",
+  "src": "espn"
+ },
+ "75630392": {
+  "name": "Darryn Peterson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5041955.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "90 kg",
+  "src": "espn"
+ },
+ "75666842": {
+  "name": "Leonard Miller",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5044385.png",
+  "pos": "F",
+  "height": "2,08 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "75910532": {
+  "name": "Adou Thiero",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5060631.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "75911582": {
+  "name": "Christian Anderson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5060701.png",
+  "pos": "G",
+  "height": "1,85 m",
+  "weight": "82 kg",
+  "src": "espn"
+ },
+ "75924587": {
+  "name": "Carter Bryant",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5061568.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "104 kg",
+  "src": "espn"
+ },
+ "75924692": {
+  "name": "Kon Knueppel",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5061575.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "75924842": {
+  "name": "Isaiah Evans",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5061585.png",
+  "pos": "F",
+  "height": "1,98 m",
+  "weight": "84 kg",
+  "src": "espn"
+ },
+ "75924902": {
+  "name": "Yves Missi",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5061589.png",
+  "pos": "C",
+  "height": "2,11 m",
+  "weight": "107 kg",
+  "src": "espn"
+ },
+ "76135457": {
+  "name": "Baba Miller",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5075626.png",
+  "pos": "F",
+  "height": "2,11 m",
+  "weight": "94 kg",
+  "src": "espn"
+ },
+ "76226972": {
+  "name": "Sidy Cissoko",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5081727.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "76234157": {
+  "name": "Brayden Burries",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5082206.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "76400072": {
+  "name": "Collin Murray-Boyles",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5093267.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "111 kg",
+  "src": "espn"
+ },
+ "76428332": {
+  "name": "Caleb Wilson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5095151.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "96 kg",
+  "src": "espn"
+ },
+ "76497347": {
+  "name": "Rayan Rupert",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5099752.png",
+  "pos": "G",
+  "height": "2,01 m",
+  "weight": "94 kg",
+  "src": "espn"
+ },
+ "76527482": {
+  "name": "Mikel Brown Jr.",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5101761.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "82 kg",
+  "src": "espn"
+ },
+ "76563392": {
+  "name": "Bilal Coulibaly",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5104155.png",
+  "pos": "G",
+  "height": "2,01 m",
+  "weight": "88 kg",
+  "src": "espn"
+ },
+ "76563422": {
+  "name": "Victor Wembanyama",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5104157.png",
+  "pos": "F",
+  "height": "2,24 m",
+  "weight": "109 kg",
+  "src": "espn"
+ },
+ "76584317": {
+  "name": "GG Jackson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5105550.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "95 kg",
+  "src": "espn"
+ },
+ "76584392": {
+  "name": "Tobe Awaka",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5105555.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "116 kg",
+  "src": "espn"
+ },
+ "76584542": {
+  "name": "Donovan Clingan",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5105565.png",
+  "pos": "C",
+  "height": "2,18 m",
+  "weight": "127 kg",
+  "src": "espn"
+ },
+ "76584947": {
+  "name": "Cam Whitmore",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5105592.png",
+  "pos": "F",
+  "height": "1,98 m",
+  "weight": "104 kg",
+  "src": "espn"
+ },
+ "76585412": {
+  "name": "Kel'el Ware",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5105623.png",
+  "pos": "C",
+  "height": "2,13 m",
+  "weight": "113 kg",
+  "src": "espn"
+ },
+ "76585622": {
+  "name": "Adem Bona",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5105637.png",
+  "pos": "C",
+  "height": "2,08 m",
+  "weight": "108 kg",
+  "src": "espn"
+ },
+ "76588067": {
+  "name": "Josh Dix",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5105800.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "76588157": {
+  "name": "Jett Howard",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5105806.png",
+  "pos": "G",
+  "height": "2,03 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "76588202": {
+  "name": "Tarris Reed Jr.",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5105809.png",
+  "pos": "C",
+  "height": "2,08 m",
+  "weight": "122 kg",
+  "src": "espn"
+ },
+ "76588322": {
+  "name": "Carson Cooper",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5105817.png",
+  "pos": "C",
+  "height": "2,11 m",
+  "weight": "111 kg",
+  "src": "espn"
+ },
+ "76588547": {
+  "name": "Nick Martinelli",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5105832.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "102 kg",
+  "src": "espn"
+ },
+ "76588622": {
+  "name": "Bruce Thornton",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5105837.png",
+  "pos": "G",
+  "height": "1,83 m",
+  "weight": "104 kg",
+  "src": "espn"
+ },
+ "76588652": {
+  "name": "Brice Sensabaugh",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5105839.png",
+  "pos": "F",
+  "height": "1,98 m",
+  "weight": "107 kg",
+  "src": "espn"
+ },
+ "76588682": {
+  "name": "Felix Okpara",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5105841.png",
+  "pos": "F",
+  "height": "2,11 m",
+  "weight": "108 kg",
+  "src": "espn"
+ },
+ "76588877": {
+  "name": "Braden Smith",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5105854.png",
+  "pos": "G",
+  "height": "1,78 m",
+  "weight": "76 kg",
+  "src": "espn"
+ },
+ "76590722": {
+  "name": "Rasheer Fleming",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5105977.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "109 kg",
+  "src": "espn"
+ },
+ "76591667": {
+  "name": "Tobi Lawal",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5106040.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "76591937": {
+  "name": "Emanuel Sharp",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5106058.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "94 kg",
+  "src": "espn"
+ },
+ "76591967": {
+  "name": "Jarace Walker",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5106060.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "107 kg",
+  "src": "espn"
+ },
+ "76594937": {
+  "name": "Gradey Dick",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5106258.png",
+  "pos": "G",
+  "height": "2,01 m",
+  "weight": "91 kg",
+  "src": "espn"
+ },
+ "76594982": {
+  "name": "Ernest Udeh Jr.",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5106261.png",
+  "pos": "C",
+  "height": "2,06 m",
+  "weight": "121 kg",
+  "src": "espn"
+ },
+ "76594997": {
+  "name": "Zuby Ejiofor",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5106262.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "111 kg",
+  "src": "espn"
+ },
+ "76595312": {
+  "name": "Dillon Mitchell",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5106283.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "95 kg",
+  "src": "espn"
+ },
+ "76608422": {
+  "name": "Ryan Conwell",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5107157.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "100 kg",
+  "src": "espn"
+ },
+ "76608662": {
+  "name": "Danny Wolf",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5107173.png",
+  "pos": "F",
+  "height": "2,11 m",
+  "weight": "113 kg",
+  "src": "espn"
+ },
+ "76609052": {
+  "name": "Daniss Jenkins",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5107199.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "75 kg",
+  "src": "espn"
+ },
+ "76618337": {
+  "name": "Isaac Jones",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5107818.png",
+  "pos": "C",
+  "height": "2,03 m",
+  "weight": "111 kg",
+  "src": "espn"
+ },
+ "76619522": {
+  "name": "Jonathan Mogbo",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5107897.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "102 kg",
+  "src": "espn"
+ },
+ "76620587": {
+  "name": "Ja'Kobi Gillespie",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5107968.png",
+  "pos": "G",
+  "height": "1,85 m",
+  "weight": "82 kg",
+  "src": "espn"
+ },
+ "76682372": {
+  "name": "Jaylen Wells",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5112087.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "76710602": {
+  "name": "Cameron Carr",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5113969.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "83 kg",
+  "src": "espn"
+ },
+ "76716317": {
+  "name": "AK Okereke",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5114350.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "111 kg",
+  "src": "espn"
+ },
+ "76870247": {
+  "name": "VJ Edgecombe",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5124612.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "82 kg",
+  "src": "espn"
+ },
+ "77140367": {
+  "name": "Darius Acuff Jr.",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5142620.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "84 kg",
+  "src": "espn"
+ },
+ "77140382": {
+  "name": "Chris Cenac Jr.",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5142621.png",
+  "pos": "F",
+  "height": "2,11 m",
+  "weight": "109 kg",
+  "src": "espn"
+ },
+ "77141837": {
+  "name": "AJ Dybantsa",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5142718.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "98 kg",
+  "src": "espn"
+ },
+ "77162432": {
+  "name": "Jeremiah Fears",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5144091.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "77162957": {
+  "name": "Will Riley",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5144126.png",
+  "pos": "G",
+  "height": "2,06 m",
+  "weight": "82 kg",
+  "src": "espn"
+ },
+ "77237222": {
+  "name": "Kingston Flemings",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5149077.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "83 kg",
+  "src": "espn"
+ },
+ "77237792": {
+  "name": "Allen Graves",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5149115.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "102 kg",
+  "src": "espn"
+ },
+ "77364872": {
+  "name": "Rocco Zikarsky",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5157587.png",
+  "pos": "C",
+  "height": "2,21 m",
+  "weight": "115 kg",
+  "src": "espn"
+ },
+ "77399942": {
+  "name": "Nikola Topic",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5159925.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "91 kg",
+  "src": "espn"
+ },
+ "77415947": {
+  "name": "Alex Sarr",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5160992.png",
+  "pos": "C",
+  "height": "2,13 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "77469452": {
+  "name": "Nate Ament",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5164559.png",
+  "pos": "F",
+  "height": "2,08 m",
+  "weight": "96 kg",
+  "src": "espn"
+ },
+ "77565272": {
+  "name": "AJ Johnson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5170947.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "73 kg",
+  "src": "espn"
+ },
+ "77619512": {
+  "name": "Kyshawn George",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5174563.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "91 kg",
+  "src": "espn"
+ },
+ "77620892": {
+  "name": "Chaney Johnson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5174655.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "102 kg",
+  "src": "espn"
+ },
+ "77625812": {
+  "name": "Aday Mara",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5174983.png",
+  "pos": "C",
+  "height": "2,21 m",
+  "weight": "119 kg",
+  "src": "espn"
+ },
+ "77635712": {
+  "name": "Egor Demin",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5175643.png",
+  "pos": "G",
+  "height": "2,03 m",
+  "weight": "91 kg",
+  "src": "espn"
+ },
+ "77635772": {
+  "name": "Hugo Gonzalez",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5175647.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "77637122": {
+  "name": "Yaxel Lendeborg",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5175737.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "109 kg",
+  "src": "espn"
+ },
+ "77648822": {
+  "name": "Michael Ajayi",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5176517.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "103 kg",
+  "src": "espn"
+ },
+ "77661497": {
+  "name": "Riley Minix",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5177362.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "104 kg",
+  "src": "espn"
+ },
+ "78056342": {
+  "name": "Khaman Maluach",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5203685.png",
+  "pos": "C",
+  "height": "2,18 m",
+  "weight": "113 kg",
+  "src": "espn"
+ },
+ "78168692": {
+  "name": "Zaccharie Risacher",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5211175.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "91 kg",
+  "src": "espn"
+ },
+ "78168707": {
+  "name": "Tidjane Salaun",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5211176.png",
+  "pos": "F",
+  "height": "2,08 m",
+  "weight": "94 kg",
+  "src": "espn"
+ },
+ "78180812": {
+  "name": "Pacome Dadiet",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5211983.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "95 kg",
+  "src": "espn"
+ },
+ "78220667": {
+  "name": "Kasparas Jakucionis",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5214640.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "78225902": {
+  "name": "Bogoljub Markovic",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5214989.png",
+  "pos": "F",
+  "height": "2,11 m",
+  "weight": "95 kg",
+  "src": "espn"
+ },
+ "78267257": {
+  "name": "Yang Hansen",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5217746.png",
+  "pos": "C",
+  "height": "2,16 m",
+  "weight": "122 kg",
+  "src": "espn"
+ },
+ "78479852": {
+  "name": "Karim Lopez",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5231919.png",
+  "pos": "F",
+  "height": "2,03 m",
+  "weight": "101 kg",
+  "src": "espn"
+ },
+ "78574517": {
+  "name": "Tre Johnson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5238230.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "78594482": {
+  "name": "Jase Richardson",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5239561.png",
+  "pos": "G",
+  "height": "1,85 m",
+  "weight": "82 kg",
+  "src": "espn"
+ },
+ "78594917": {
+  "name": "Liam McNeeley",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5239590.png",
+  "pos": "G",
+  "height": "2,01 m",
+  "weight": "95 kg",
+  "src": "espn"
+ },
+ "78621527": {
+  "name": "Bennett Stirtz",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5241364.png",
+  "pos": "G",
+  "height": "1,93 m",
+  "weight": "86 kg",
+  "src": "espn"
+ },
+ "78638507": {
+  "name": "Noa Essengue",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5242496.png",
+  "pos": "F",
+  "height": "2,11 m",
+  "weight": "93 kg",
+  "src": "espn"
+ },
+ "78638597": {
+  "name": "Ben Saraf",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5242502.png",
+  "pos": "G",
+  "height": "1,98 m",
+  "weight": "91 kg",
+  "src": "espn"
+ },
+ "78813542": {
+  "name": "Keaton Wagler",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5254165.png",
+  "pos": "G",
+  "height": "1,96 m",
+  "weight": "85 kg",
+  "src": "espn"
+ },
+ "78877952": {
+  "name": "Ebuka Okorie",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5258459.png",
+  "pos": "G",
+  "height": "1,88 m",
+  "weight": "84 kg",
+  "src": "espn"
+ },
+ "79188002": {
+  "name": "Sergio de Larrea",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5279129.png",
+  "pos": "F",
+  "height": "2,01 m",
+  "weight": "92 kg",
+  "src": "espn"
+ },
+ "79188017": {
+  "name": "Nolan Traore",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5279130.png",
+  "pos": "G",
+  "height": "1,91 m",
+  "weight": "84 kg",
+  "src": "espn"
+ },
+ "79188062": {
+  "name": "Joan Beringer",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5279133.png",
+  "pos": "F",
+  "height": "2,11 m",
+  "weight": "104 kg",
+  "src": "espn"
+ },
+ "79221617": {
+  "name": "Hannes Steinbach",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5281370.png",
+  "pos": "F",
+  "height": "2,08 m",
+  "weight": "112 kg",
+  "src": "espn"
+ },
+ "79349567": {
+  "name": "Mohamed Diawara",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/5289900.png",
+  "pos": "F",
+  "height": "2,06 m",
+  "weight": "102 kg",
+  "src": "espn"
+ }
+}
