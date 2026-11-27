@@ -109,3 +109,33 @@ jobs:
         run: sleep 60
       - if: steps.deploy.outcome == 'failure' && steps.deploy2.outcome == 'failure'
         uses: actions/deploy-pages@v4
+
+      # Instagram baja la imagen desde la página publicada, por eso va después de publicarla.
+      - name: Publicar en Instagram
+        if: github.event_name != 'push' && !inputs.foto_canal
+        continue-on-error: true
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          SOCIAL_TEST: ${{ inputs.prueba }}
+        run: |
+          git pull -q --rebase || true
+          node scripts/social.mjs instagram
+          git add data/social.json 2>/dev/null || true
+          git diff --cached --quiet || { git commit -m "Instagram $(date -u +%F)" && git pull --rebase && git push; }
+
+      # El token de Instagram vence a los 60 días: se renueva solo y se guarda en el secreto IG_TOKEN
+      # (necesita el secreto GH_PAT con permiso para escribir secretos del repo).
+      - name: Renovar token de Instagram
+        if: github.event_name != 'push'
+        continue-on-error: true
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+          FORCE: ${{ inputs.prueba }}
+        run: |
+          node scripts/ig-refresh.mjs > "$RUNNER_TEMP/ig" || exit 1
+          if [ -s "$RUNNER_TEMP/ig" ]; then
+            echo "::add-mask::$(cat "$RUNNER_TEMP/ig")"
+            gh secret set IG_TOKEN --repo "$GITHUB_REPOSITORY" < "$RUNNER_TEMP/ig"
+          fi
+          rm -f "$RUNNER_TEMP/ig"

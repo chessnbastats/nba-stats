@@ -2,6 +2,7 @@
 // Uso: node scripts/build.mjs && node scripts/card.mjs   → dist/share/hoy.png
 import { readFile, writeFile } from 'node:fs/promises';
 import { Resvg } from '@resvg/resvg-js';
+import jpeg from 'jpeg-js';
 
 const which = process.argv[2] || 'hoy';
 const data = JSON.parse(await readFile(process.env.CARD_JSON || `dist/share/${which}.json`, 'utf8'));
@@ -77,7 +78,10 @@ ${data.players.length ? rows : `<text x="540" y="800" text-anchor="middle" font-
 </svg>`;
 
 const fonts = ['Yellowtail-Regular', 'BarlowCondensed-BlackItalic', 'Barlow-Bold', 'Barlow-SemiBold', 'SpaceMono-Bold', 'Caveat'].map(f => `assets/fonts/${f}.ttf`);
-const png = new Resvg(svg, { fitTo: { mode: 'width', value: W }, font: { fontFiles: fonts, loadSystemFonts: false, defaultFontFamily: 'Barlow' } }).render().asPng();
+const img = new Resvg(svg, { fitTo: { mode: 'width', value: W }, font: { fontFiles: fonts, loadSystemFonts: false, defaultFontFamily: 'Barlow' } }).render();
+const png = img.asPng();
+// Instagram solo acepta JPEG.
+await writeFile(`dist/share/${which}.jpg`, jpeg.encode({ data: img.pixels, width: img.width, height: img.height }, 92).data);
 await writeFile(`dist/share/${which}.png`, png);
 await writeFile(`dist/share/${which}.svg`, svg);
 console.log(`Imagen: dist/share/${which}.png (${data.players.length} jugadores, ${Math.round(png.length / 1024)} KB).`);
