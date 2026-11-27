@@ -67,21 +67,26 @@ const igCaption = [
   '',
   '#NBA #NBAenEspañol #EstadisticasNBA #basquet',
 ].join('\n');
+// El token puede ser de Instagram (empieza con "IG", va a graph.instagram.com) o de Facebook
+// (login unificado, va a graph.facebook.com con el id de la cuenta de Instagram).
+const IG_TOKEN = (process.env.IG_TOKEN ?? '').trim();
+const IG_HOST = IG_TOKEN.startsWith('IG') ? 'https://graph.instagram.com' : 'https://graph.facebook.com';
+const IG_USER_ID = process.env.IG_USER_ID || '17841409239486420'; // @sharpistats (dato público)
 async function igApi(path, params, method = 'GET') {
-  const u = new URL(`https://graph.instagram.com/${path}`);
-  const body = new URLSearchParams({ ...params, access_token: process.env.IG_TOKEN });
+  const u = new URL(`${IG_HOST}/${path}`);
+  const body = new URLSearchParams({ ...params, access_token: IG_TOKEN });
   const res = method === 'GET' ? await fetch(`${u}?${body}`) : await fetch(u, { method, body });
   const j = await res.json().catch(() => ({}));
   if (!res.ok || j.error) throw new Error(`Instagram respondió ${res.status}: ${j.error?.message ?? 'error'}`);
   return j;
 }
 async function instagram() {
-  if (!process.env.IG_TOKEN) return 'sin claves, no publico';
+  if (!IG_TOKEN) return 'sin claves, no publico';
   if (!TEST && log.instagram === data.date) return 'ya publicado hoy';
   const image_url = `${data.url}/share/${which}.jpg?v=${data.date}-${Date.now()}`;
   // GitHub Pages puede tardar unos segundos en mostrar la imagen nueva.
   for (let i = 0; i < 12; i++) { if ((await fetch(image_url, { method: 'HEAD' })).ok) break; await sleep(10000); }
-  const { user_id } = await igApi('me', { fields: 'user_id' });
+  const user_id = IG_HOST.includes('instagram') ? (await igApi('me', { fields: 'user_id' })).user_id : IG_USER_ID;
   const { id } = await igApi(`${user_id}/media`, { image_url, caption: igCaption }, 'POST');
   for (let i = 0; i < 30; i++) {
     const { status_code } = await igApi(id, { fields: 'status_code' });
