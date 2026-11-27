@@ -1,0 +1,176 @@
+{
+ "date": "2026-11-30",
+ "demo": false,
+ "complete": false,
+ "updatedAt": "2026-11-27T19:20:27.502Z",
+ "games": [
+  {
+   "id": 1615911,
+   "date": "2026-11-30",
+   "start": "2026-12-01T03:00:00.000Z",
+   "status": "scheduled",
+   "statusText": "Scheduled",
+   "home": {
+    "id": 32,
+    "name": "Sacramento Kings",
+    "short": "Kings",
+    "abbr": "SAC",
+    "logo": "https://highlightly.net/nba/images/teams/32.png",
+    "score": null
+   },
+   "away": {
+    "id": 64,
+    "name": "New Orleans Pelicans",
+    "short": "Pelicans",
+    "abbr": "NO",
+    "logo": "https://highlightly.net/nba/images/teams/64.png",
+    "score": null
+   },
+   "players": []
+  },
+  {
+   "id": 1615910,
+   "date": "2026-11-30",
+   "start": "2026-12-01T01:00:00.000Z",
+   "status": "scheduled",
+   "statusText": "Scheduled",
+   "home": {
+    "id": 39,
+    "name": "Milwaukee Bucks",
+    "short": "Bucks",
+    "abbr": "MIL",
+    "logo": "https://highlightly.net/nba/images/teams/39.png",
+    "score": null
+   },
+   "away": {
+    "id": 37,
+    "name": "San Antonio Spurs",
+    "short": "Spurs",
+    "abbr": "SA",
+    "logo": "https://highlightly.net/nba/images/teams/37.png",
+    "score": null
+   },
+   "players": []
+  },
+  {
+   "id": 1615909,
+   "date": "2026-11-30",
+   "start": "2026-12-01T01:00:00.000Z",
+   "status": "scheduled",
+   "statusText": "Scheduled",
+   "home": {
+    "id": 40,
+    "name": "Dallas Mavericks",
+    "short": "Mavericks",
+    "abbr": "DAL",
+    "logo": "https://highlightly.net/nba/images/teams/40.png",
+    "score": null
+   },
+   "away": {
+    "id": 2,
+    "name": "Boston Celtics",
+    "short": "Celtics",
+    "abbr": "BOS",
+    "logo": "https://highlightly.net/nba/images/teams/2.png",
+    "score": null
+   },
+   "players": []
+  },
+  {
+   "id": 1615908,
+   "date": "2026-11-30",
+   "start": "2026-12-01T00:30:00.000Z",
+   "status": "scheduled",
+   "statusText": "Scheduled",
+   "home": {
+    "id": 28,
+    "name": "Houston Rockets",
+    "short": "Rockets",
+    "abbr": "HOU",
+    "logo": "https://highlightly.net/nba/images/teams/28.png",
+    "score": null
+   },
+   "away": {
+    "id": 4,
+    "name": "Los Angeles Lakers",
+    "short": "Lakers",
+    "abbr": "LAL",
+    "logo": "https://highlightly.net/nba/images/teams/4.png",
+    "score": null
+   },
+   "players": []
+  },
+  {
+   "id": 1615907,
+   "date": "2026-11-30",
+   "start": "2026-12-01T00:30:00.000Z",
+   "status": "scheduled",
+   "statusText": "Scheduled",
+   "home": {
+    "id": 49,
+    "name": "Brooklyn Nets",
+    "short": "Nets",
+    "abbr": "BKN",
+    "logo": "https://highlightly.net/nba/images/teams/49.png",
+    "score": null
+   },
+   "away": {
+    "id": 38,
+    "name": "Oklahoma City Thunder",
+    "short": "Thunder",
+    "abbr": "OKC",
+    "logo": "https://highlightly.net/nba/images/teams/38.png",
+    "score": null
+   },
+   "players": []
+  },
+  {
+   "id": 1615906,
+   "date": "2026-11-30",
+   "start": "2026-12-01T00:00:00.000Z",
+   "status": "scheduled",
+   "statusText": "Scheduled",
+   "home": {
+    "id": 25,
+    "name": "Detroit Pistons",
+    "short": "Pistons",
+    "abbr": "DET",
+    "logo": "https://highlightly.net/nba/images/teams/25.png",
+    "score": null
+   },
+   "away": {
+    "id": 3,
+    "name": "Denver Nuggets",
+    "short": "Nuggets",
+    "abbr": "DEN",
+    "logo": "https://highlightly.net/nba/images/teams/3.png",
+    "score": null
+   },
+   "players": []
+  },
+  {
+   "id": 1615905,
+   "date": "2026-11-30",
+   "start": "2026-12-01T00:00:00.000Z",
+   "status": "scheduled",
+   "statusText": "Scheduled",
+   "home": {
+    "id": 33,
+    "name": "Charlotte Hornets",
+    "short": "Hornets",
+    "abbr": "CHA",
+    "logo": "https://highlightly.net/nba/images/teams/33.png",
+    "score": null
+   },
+   "away": {
+    "id": 50,
+    "name": "Washington Wizards",
+    "short": "Wizards",
+    "abbr": "WSH",
+    "logo": "https://highlightly.net/nba/images/teams/50.png",
+    "score": null
+   },
+   "players": []
+  }
+ ]
+}
