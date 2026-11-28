@@ -351,6 +351,16 @@
   "weight": "104 kg",
   "src": "espn"
  },
+ "46": {
+  "name": "Austin Reaves",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4066457.png",
+  "pos": "G",
+  "height": "6' 5\"",
+  "weight": "197 lbs",
+  "birth": "29.05.1998",
+  "draft": null,
+  "src": "espn"
+ },
  "47": {
   "name": "Jarred Vanderbilt",
   "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4278077.png",
@@ -2319,6 +2329,16 @@
   "weight": "86 kg",
   "src": "espn"
  },
+ "307": {
+  "name": "Trendon Watford",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4431675.png",
+  "pos": "F",
+  "height": "6' 8\"",
+  "weight": "237 lbs",
+  "birth": "09.11.2000",
+  "draft": null,
+  "src": "espn"
+ },
  "308": {
   "name": "Derik Queen",
   "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4869780.png",
@@ -3479,6 +3499,20 @@
   "weight": "98 kg",
   "src": "espn"
  },
+ "614": {
+  "name": "Jusuf Nurkic",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/3102530.png",
+  "pos": "C",
+  "height": "6' 11\"",
+  "weight": "290 lbs",
+  "birth": "23.08.1994",
+  "draft": {
+   "year": 2014,
+   "round": 1,
+   "pick": 16
+  },
+  "src": "espn"
+ },
  "632": {
   "name": "Santi Aldama",
   "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4593125.png",
@@ -3549,6 +3583,16 @@
   "pos": "G",
   "height": "1,85 m",
   "weight": "86 kg",
+  "src": "espn"
+ },
+ "6955": {
+  "name": "Lawson Lovering",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4596528.png",
+  "pos": "C",
+  "height": "7' 1\"",
+  "weight": "233 lbs",
+  "birth": "09.05.2003",
+  "draft": null,
   "src": "espn"
  },
  "30557": {
@@ -5941,6 +5985,14 @@
   "pos": "F",
   "height": "2,01 m",
   "weight": "104 kg",
+  "src": "espn"
+ },
+ "68948987": {
+  "name": "Lawson Lovering",
+  "photo": "https://a.espncdn.com/i/headshots/nba/players/full/4596528.png",
+  "pos": "C",
+  "height": "2,16 m",
+  "weight": "106 kg",
   "src": "espn"
  },
  "69011012": {
